@@ -1,0 +1,16 @@
+{
+  "case_id": "demo-001",
+  "task": "读取输入的 PDF，按原版面阅读顺序返回正文，并为每个文本块保留页码与区域证据。",
+  "inputs": [
+    {
+      "role": "paper",
+      "path": "sample.pdf"
+    }
+  ],
+  "output_contract": {
+    "text": "正文全文，按阅读顺序拼接",
+    "pages": "逐页的结构化结果，含 layout 与 blocks",
+    "evidence": "每个文本块的页码与 bbox",
+    "reading_order": "文本块的阅读顺序索引"
+  }
+}

@@ -52,6 +52,26 @@ python3 src/pdf_parse.py input.pdf -o out.json --quiet          # 脚本里调�
 
 退出码：`0` 表示 success 或 partial，`1` 表示 failed，`2` 表示文件不存在。
 
+## 评测运行时接口（case.json → result.json）
+
+任务运行时会把输入放在 `/input/case.json`（同目录通常还有 `task.md`），并要求把最终结果写到 `/app/output/result.json`。用适配层对接这个契约：
+
+```bash
+python3 src/run_case.py
+# 等价默认值：--case /input/case.json --out /app/output
+```
+
+它做四件事：
+
+1. 读 `case.json`，递归找出所有以 `.pdf` 结尾的路径，相对路径按 case 文件所在目录解析；找不到时回退到 case 目录下的 `*.pdf`。
+2. 对每个 PDF 调用 `extract()`，逐份写出 `parse_<文件名>.json` 供复核。
+3. 汇总成 `result.json`：`case_id`、`status`、`documents[]`、`text`、`evidence[]`（页码 + bbox + 文本指纹）、`warnings[]`、`uncertainty[]`。
+4. 若 `case.json` 带 `output_contract`，把其中可映射的字段（`text` / `pages` / `blocks` / `reading_order` / `layout` / `evidence` / `status`）**填成实际值**；无法可靠生成的字段置 `null`，并列入 `unresolved_contract_fields` 加进 `uncertainty` —— 不猜、不编。
+
+输入缺失时不会崩：写出一份 `status: failed` 的 `result.json` 并以退出码 `1` 结束。
+
+**不会**假定标签即是内容：只读真实存在的文件；读不到就记进 `warnings`。
+
 ## 原理（三句话）
 
 1. 自己解析 PDF 对象、内容流与 ToUnicode CMap，得到每个文本片段的文字、坐标与字号。

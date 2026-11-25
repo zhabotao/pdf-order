@@ -25,9 +25,11 @@ python3 src/reproduce.py                     # 产出 results/
 |---|---|
 | `SKILL.md` | Skill 定义：用途、触发条件、输入输出、限制 |
 | `src/pdf_parse.py` | 解析器与命令行入口 |
+| `src/run_case.py` | 评测运行时适配：`/input/case.json` → `/app/output/result.json` |
 | `src/reproduce.py` | 端到端复现脚本，产出 `results/` |
 | `demo/make_sample.py` | 生成示例 PDF（无第三方内容） |
 | `demo/sample.pdf` | 示例输入：一页双栏排版 |
+| `demo/case.json` | 示例 case，演示运行时契约 |
 | `results/` | 上次真实运行的产物与日志 |
 
 ## 为什么需要它
