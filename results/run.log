@@ -1,0 +1,4 @@
+[2026-11-25T14:57:56Z] pdf-order reproduce: input=C:\Users\zhabotao\Documents\deepseek-harness\default-workspace\skill\demo\sample.pdf
+[2026-11-25T14:57:56Z] parsed: status=success pages=1 chars=1125
+[2026-11-25T14:57:56Z] wrote results/parse_sample.json
+[2026-11-25T14:57:56Z] wrote results/summary.json

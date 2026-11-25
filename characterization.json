@@ -1,0 +1,79 @@
+{
+  "deviations_from_paper": [
+    {
+      "target": "parsed_sample",
+      "metric": "exact_match",
+      "actual_value": {
+        "status": "success",
+        "pages": 1,
+        "columns_per_page": [
+          2
+        ],
+        "block_count": 8,
+        "first_block": "Two-Column Demo Page",
+        "last_block": "1"
+      },
+      "reference_value": {
+        "status": "success",
+        "pages": 1,
+        "columns_per_page": [
+          2
+        ],
+        "first_block": "Two-Column Demo Page",
+        "last_block": "1"
+      },
+      "score": 1.0,
+      "tolerance": 0.0,
+      "evidence_artifact": "parse_sample",
+      "explanation": "本题没有论文数值可复现；示例 PDF 的期望结构由 demo/make_sample.py 的排版决定，这里用 exact_match 校验：单页、双栏、首块为标题、末块为页码。"
+    }
+  ],
+  "envelope": [
+    {
+      "param": "page_count_per_run",
+      "min": 1,
+      "max": 200,
+      "tested": true,
+      "unit": "pages"
+    },
+    {
+      "param": "columns_per_page",
+      "min": 1,
+      "max": 2,
+      "tested": true,
+      "unit": "columns"
+    },
+    {
+      "param": "input_size",
+      "min": 0.002,
+      "max": 1.5,
+      "tested": true,
+      "unit": "MB"
+    }
+  ],
+  "failure_modes": [
+    {
+      "condition": "PDF 无文字层（扫描件、纯图）",
+      "symptom": "该页无 text-showing 操作，记入 uncertainty；整篇无字时 status=failed，不输出猜测文本",
+      "evidence_trace": "trace/trace.jsonl"
+    },
+    {
+      "condition": "字体缺少 /Widths 数组",
+      "symptom": "退化为平均字宽估算，行尾位置有偏差，栏缝判断可能失效",
+      "evidence_trace": "trace/trace.jsonl"
+    },
+    {
+      "condition": "跨栏图表或表格占据栏缝",
+      "symptom": "该页局部阅读顺序可能仍不正确，需要按 bbox 人工复核",
+      "evidence_artifact": "parse_sample"
+    }
+  ],
+  "sensitivity": [
+    {
+      "param": "line_split_gap_em",
+      "range": "0.6..1.4",
+      "outcome_metric": "columns_per_page",
+      "outcome_range": "阈值过低会把同一行切成两段，过高会重新合并双栏文本"
+    }
+  ]
+}

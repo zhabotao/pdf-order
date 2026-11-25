@@ -1,0 +1,12 @@
+{
+  "input_id": "sample.pdf#106889e87e8d",
+  "status": "success",
+  "pages": 1,
+  "columns_per_page": [
+    2
+  ],
+  "block_count": 8,
+  "text_char_count": 1125,
+  "uncertainty_count": 0,
+  "wall_time_s": 0.005
+}

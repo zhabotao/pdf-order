@@ -1,0 +1,119 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1871 >>
+stream
+BT
+/F1 17.00 Tf
+56.00 780.00 Td
+(Two-Column Demo Page) Tj
+ET
+BT
+/F1 10.00 Tf
+56.00 754.00 Td
+(A synthetic input for pdf-order. No third-party content.) Tj
+ET
+BT
+/F1 9.00 Tf
+56.00 700.00 Td
+(This page exists only to exercise the) Tj
+0 -13.00 Td
+(parser: a full-width title, a subtitle,) Tj
+0 -13.00 Td
+(and two columns that must never be) Tj
+0 -13.00 Td
+(spliced. A reader that orders lines by) Tj
+0 -13.00 Td
+(vertical position alone will alternate) Tj
+0 -13.00 Td
+(between the columns and produce) Tj
+0 -13.00 Td
+(sentences that start on the left and) Tj
+0 -13.00 Td
+(finish on the right.) Tj
+0 -13.00 Td
+0 -13.00 Td
+(The parser groups glyph runs into) Tj
+0 -13.00 Td
+(lines, splits a line wherever the) Tj
+0 -13.00 Td
+(horizontal advance leaves a) Tj
+0 -13.00 Td
+(gutter-sized gap, then cuts the page) Tj
+0 -13.00 Td
+(recursively on the widest band that) Tj
+0 -13.00 Td
+(few lines cross.) Tj
+0 -13.00 Td
+0 -13.00 Td
+(Every block it emits carries a page) Tj
+0 -13.00 Td
+(number and a bounding box, so a) Tj
+0 -13.00 Td
+(reviewer can point back at the region) Tj
+0 -13.00 Td
+(the text came from.) Tj
+ET
+BT
+/F1 9.00 Tf
+310.00 700.00 Td
+(This is the right column. Its first line) Tj
+0 -13.00 Td
+(should follow the last line of the left) Tj
+0 -13.00 Td
+(column, not the first one, and the page) Tj
+0 -13.00 Td
+(number below should come last.) Tj
+0 -13.00 Td
+0 -13.00 Td
+(The title and subtitle are wider than) Tj
+0 -13.00 Td
+(either column, so they are spanning) Tj
+0 -13.00 Td
+(elements: the parser emits them before) Tj
+0 -13.00 Td
+(both columns because their vertical) Tj
+0 -13.00 Td
+(extent sits above the column block.) Tj
+0 -13.00 Td
+0 -13.00 Td
+(Known limits: vector-outline text and) Tj
+0 -13.00 Td
+(scanned pages with no text layer are) Tj
+0 -13.00 Td
+(reported as uncertainty rather than) Tj
+0 -13.00 Td
+(guessed at.) Tj
+ET
+BT
+/F1 9.00 Tf
+287.00 40.00 Td
+(1) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /FirstChar 0 /LastChar 255 /Widths [600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600] >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000002170 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3299
+%%EOF

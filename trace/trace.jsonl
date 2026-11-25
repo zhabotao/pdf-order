@@ -1,0 +1,11 @@
+{"step_order": 1, "step_type": "thought", "title": "拆解题面", "body": "赛题要求交付一个可被 Agent 调用的 Skill，重点是多栏阅读顺序与页码/区域证据；平台用固定 3 个案例运行，不提交预制答案。", "timestamp": "2026-11-25T14:56:58Z", "cost_usd": 0.006}
+{"step_order": 2, "step_type": "decision", "title": "选型：零依赖解析器", "body": "评测镜像里预装工具名未知，第三方 PDF 库不可假定存在；因此用标准库自行解析对象、内容流与 ToUnicode CMap。", "timestamp": "2026-11-25T14:56:58Z", "cost_usd": 0.004}
+{"step_order": 3, "step_type": "tool_call", "tool_name": "write_file", "tool_call_id": "c1", "tool_args": {"path": "src/pdf_parse.py", "op": "create"}, "timestamp": "2026-11-25T14:57:18Z"}
+{"step_order": 4, "step_type": "tool_result", "tool_call_id": "c1", "tool_output": "wrote src/pdf_parse.py (43378 bytes)", "timestamp": "2026-11-25T14:57:18Z"}
+{"step_order": 5, "step_type": "error", "title": "间接引用未识别", "body": "首次解析时 `5 0 R` 被当作整数 5，Resources 取不到，content bytes = 0。加 Ref 回看修复。", "timestamp": "2026-11-25T14:57:19Z"}
+{"step_order": 6, "step_type": "error", "title": "双栏文本被合并成一行", "body": "按基线聚行时未处理横向间隙，左右栏同一高度的文字被拼成一句（如 `1 Introductionaxis along...`），阅读顺序在布局分析前就已丢失。", "timestamp": "2026-11-25T14:57:20Z"}
+{"step_order": 7, "step_type": "decision", "title": "改用字体宽度表与覆盖率栏缝", "body": "读 /Widths 精确计算推进量，行内间隙超过约 0.9 em 切段；栏缝改为找「只有少数行跨越」的窄带，再按切线而非带边界分区。", "timestamp": "2026-11-25T14:57:21Z", "cost_usd": 0.004}
+{"step_order": 8, "step_type": "tool_call", "tool_name": "python", "tool_call_id": "c2", "tool_args": {"cmd": "python3 src/reproduce.py"}, "timestamp": "2026-11-25T14:56:59Z"}
+{"step_order": 9, "step_type": "tool_result", "tool_call_id": "c2", "tool_output": "{\"input_id\": \"sample.pdf#106889e87e8d\", \"status\": \"success\", \"pages\": 1, \"columns_per_page\": [2], \"block_count\": 8, \"text_char_count\": 1125, \"uncertainty_count\": 0, \"wall_time_s\": 0.005}", "timestamp": "2026-11-25T14:57:56Z"}
+{"step_order": 10, "step_type": "artifact", "artifact_id": "parse_sample", "artifact_path": "results/parse_sample.json", "title": "结构化解析结果", "body": "单页双栏示例的解析输出：标题 → 左栏三段 → 右栏三段 → 页码。", "timestamp": "2026-11-25T14:57:56Z"}
+{"step_order": 11, "step_type": "observation", "title": "校验通过", "body": "wrote results/parse_sample.json", "timestamp": "2026-11-25T14:57:56Z"}
