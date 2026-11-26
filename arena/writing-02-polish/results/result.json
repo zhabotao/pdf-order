@@ -1,0 +1,51 @@
+{
+  "skill": {
+    "name": "writing-02-polish",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-11-26T10:40:15Z",
+  "case_id": "writing-02-polish-demo",
+  "status": "success",
+  "results": {},
+  "evidence": [],
+  "sources": [
+    {
+      "kind": "text",
+      "path": "draft.md",
+      "bytes": 642
+    }
+  ],
+  "warnings": [],
+  "uncertainty": [
+    "未发现可安全自动修正的问题；语义级润色需由 Agent 完成并复核"
+  ],
+  "text": "# Balanced attention for language modelling\n\n近年来 attention 已成为主流机制。However, the column constraint has not been studied in depth, and this remains unclear for long context models that process sequences far longer than the typical training window used in most prior work. We propose a balanced attention layer that keeps both row and column margins fixed.\n\nThe model improves perplexity by 12% on WikiText and outperforms the baseline on RULER. We train decoder-only Transformers from 160M to 7B parameters on 400B tokens with learning rate 3e-4 and batch size 64. Evaluation uses perplexity and accuracy as metrics.\n",
+  "document": {
+    "source": "draft.md",
+    "kind": "editable",
+    "chars": 615,
+    "cjk_chars": 10,
+    "latin_words": 88
+  },
+  "issues": [
+    {
+      "type": "passive_voice",
+      "span": "been studied",
+      "advice": "方法描述可保留被动；结论句建议改主动"
+    }
+  ],
+  "fixes_applied": [],
+  "stats": {
+    "issue_count": 1,
+    "auto_fixed_rules": 0,
+    "long_sentences": 0,
+    "passive_constructions": 1,
+    "tense": {
+      "present": 0,
+      "past": 0,
+      "dominant": "present"
+    }
+  },
+  "repeated_terms": [],
+  "wall_time_s": 0.003
+}

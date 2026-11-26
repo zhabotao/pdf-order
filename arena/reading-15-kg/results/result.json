@@ -1,0 +1,2175 @@
+{
+  "skill": {
+    "name": "reading-15-kg",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-11-26T10:40:14Z",
+  "case_id": "reading-15-kg-demo",
+  "status": "success",
+  "results": {},
+  "evidence": [
+    {
+      "para": "p3-32",
+      "page": 3,
+      "bbox": [
+        56.25,
+        720.62,
+        236.42,
+        729.98
+      ]
+    },
+    {
+      "para": "p1-5",
+      "page": 1,
+      "bbox": [
+        95.85,
+        493.57,
+        515.87,
+        628.52
+      ]
+    },
+    {
+      "para": "p1-7",
+      "page": 1,
+      "bbox": [
+        303.6,
+        28.5,
+        555.72,
+        484.0
+      ]
+    },
+    {
+      "para": "p1-6",
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ]
+    },
+    {
+      "para": "p3-45",
+      "page": 3,
+      "bbox": [
+        315.45,
+        78.85,
+        555.73,
+        111.75
+      ]
+    },
+    {
+      "para": "p8-107",
+      "page": 8,
+      "bbox": [
+        56.25,
+        68.97,
+        296.77,
+        344.43
+      ]
+    },
+    {
+      "para": "p6-87",
+      "page": 6,
+      "bbox": [
+        56.25,
+        153.2,
+        296.46,
+        341.15
+      ]
+    },
+    {
+      "para": "p6-87",
+      "page": 6,
+      "bbox": [
+        56.25,
+        153.2,
+        296.46,
+        341.15
+      ]
+    },
+    {
+      "para": "p2-8",
+      "page": 2,
+      "bbox": [
+        56.25,
+        399.55,
+        296.8,
+        729.95
+      ]
+    },
+    {
+      "para": "p5-60",
+      "page": 5,
+      "bbox": [
+        56.25,
+        464.3,
+        296.73,
+        651.55
+      ]
+    },
+    {
+      "para": "p1-6",
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ]
+    },
+    {
+      "para": "p1-6",
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ]
+    },
+    {
+      "para": "p2-10",
+      "page": 2,
+      "bbox": [
+        56.25,
+        308.57,
+        296.77,
+        370.85
+      ]
+    },
+    {
+      "para": "p2-14",
+      "page": 2,
+      "bbox": [
+        102.3,
+        282.77,
+        296.77,
+        296.43
+      ]
+    },
+    {
+      "para": "p2-16",
+      "page": 2,
+      "bbox": [
+        56.25,
+        131.75,
+        296.48,
+        168.05
+      ]
+    },
+    {
+      "para": "p1-6",
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ]
+    },
+    {
+      "para": "p3-44",
+      "page": 3,
+      "bbox": [
+        315.45,
+        118.8,
+        555.63,
+        180.05
+      ]
+    },
+    {
+      "para": "p5-60",
+      "page": 5,
+      "bbox": [
+        56.25,
+        464.3,
+        296.73,
+        651.55
+      ]
+    },
+    {
+      "para": "p5-60",
+      "page": 5,
+      "bbox": [
+        56.25,
+        464.3,
+        296.73,
+        651.55
+      ]
+    },
+    {
+      "para": "p8-107",
+      "page": 8,
+      "bbox": [
+        56.25,
+        68.97,
+        296.77,
+        344.43
+      ]
+    },
+    {
+      "para": "p1-5",
+      "page": 1
+    },
+    {
+      "para": "p1-6",
+      "page": 1
+    },
+    {
+      "para": "p1-6",
+      "page": 1
+    },
+    {
+      "para": "p1-6",
+      "page": 1
+    },
+    {
+      "para": "p1-6",
+      "page": 1
+    },
+    {
+      "para": "p1-7",
+      "page": 1
+    },
+    {
+      "para": "p1-7",
+      "page": 1
+    },
+    {
+      "para": "p2-8",
+      "page": 2
+    },
+    {
+      "para": "p3-36",
+      "page": 3
+    },
+    {
+      "para": "p3-38",
+      "page": 3
+    },
+    {
+      "para": "p3-38",
+      "page": 3
+    },
+    {
+      "para": "p3-43",
+      "page": 3
+    },
+    {
+      "para": "p4-46",
+      "page": 4
+    },
+    {
+      "para": "p4-46",
+      "page": 4
+    },
+    {
+      "para": "p4-54",
+      "page": 4
+    },
+    {
+      "para": "p4-54",
+      "page": 4
+    },
+    {
+      "para": "p4-55",
+      "page": 4
+    },
+    {
+      "para": "p5-61",
+      "page": 5
+    },
+    {
+      "para": "p5-61",
+      "page": 5
+    },
+    {
+      "para": "p5-73",
+      "page": 5
+    }
+  ],
+  "sources": [
+    {
+      "kind": "pdf",
+      "path": "Conservation_Is_All_You_Need.pdf",
+      "bytes": 752191
+    }
+  ],
+  "warnings": [],
+  "uncertainty": [],
+  "text": "e55 -[improves]-> e33\ne9 -[is_a]-> e11\ne11 -[is_a]-> e90\ne55 -[is_a]-> e33\ne17 -[is_a]-> e23\ne11 -[is_a]-> e18\ne55 -[improves]-> e33\ne17 -[is_a]-> e33\ne26 -[reduces]-> e78\ne11 -[is_a]-> e107\ne26 -[improves]-> e126\ne55 -[is_a]-> e34\ne4 -[is_a]-> e90\ne55 -[is_a]-> e33\ne33 -[is_a]-> e78\ne11 -[is_a]-> e78\ne86 -[is_a]-> e17\ne55 -[improves]-> e33\ne121 -[requires]-> e135\ne55 -[improves]-> e33\ne55 -[is_a]-> e17\ne33 -[is_a]-> e26\ne23 -[is_a]-> e90\ne18 -[is_a]-> e135\ne26 -[is_a]-> e110\ne11 -[is_a]-> e18\ne23 -[improves]-> e18\ne9 -[improves]-> e11\ne86 -[is_a]-> e11\ne86 -[is_a]-> e11",
+  "entities": [
+    {
+      "id": "e55",
+      "label": "Balanced",
+      "kind": "concept",
+      "mentions": 18,
+      "pages": [
+        3,
+        5,
+        6,
+        7
+      ],
+      "evidence": {
+        "para": "p3-32",
+        "page": 3,
+        "bbox": [
+          56.25,
+          720.62,
+          236.42,
+          729.98
+        ]
+      }
+    },
+    {
+      "id": "e5",
+      "label": "Sinkhorn",
+      "kind": "method",
+      "mentions": 14,
+      "pages": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "evidence": {
+        "para": "p1-5",
+        "page": 1,
+        "bbox": [
+          95.85,
+          493.57,
+          515.87,
+          628.52
+        ]
+      }
+    },
+    {
+      "id": "e24",
+      "label": "RULER",
+      "kind": "dataset",
+      "mentions": 12,
+      "pages": [
+        1,
+        5,
+        6
+      ],
+      "evidence": {
+        "para": "p1-7",
+        "page": 1,
+        "bbox": [
+          303.6,
+          28.5,
+          555.72,
+          484.0
+        ]
+      }
+    },
+    {
+      "id": "e9",
+      "label": "Transformer",
+      "kind": "method",
+      "mentions": 11,
+      "pages": [
+        1,
+        2,
+        5
+      ],
+      "evidence": {
+        "para": "p1-6",
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ]
+      }
+    },
+    {
+      "id": "e86",
+      "label": "Theorem",
+      "kind": "concept",
+      "mentions": 11,
+      "pages": [
+        3,
+        4,
+        5,
+        9
+      ],
+      "evidence": {
+        "para": "p3-45",
+        "page": 3,
+        "bbox": [
+          315.45,
+          78.85,
+          555.73,
+          111.75
+        ]
+      }
+    },
+    {
+      "id": "e192",
+      "label": "ICLR",
+      "kind": "concept",
+      "mentions": 10,
+      "pages": [
+        8
+      ],
+      "evidence": {
+        "para": "p8-107",
+        "page": 8,
+        "bbox": [
+          56.25,
+          68.97,
+          296.77,
+          344.43
+        ]
+      }
+    },
+    {
+      "id": "e140",
+      "label": "BLEU",
+      "kind": "metric",
+      "mentions": 9,
+      "pages": [
+        6
+      ],
+      "evidence": {
+        "para": "p6-87",
+        "page": 6,
+        "bbox": [
+          56.25,
+          153.2,
+          296.46,
+          341.15
+        ]
+      }
+    },
+    {
+      "id": "e141",
+      "label": "COMET",
+      "kind": "concept",
+      "mentions": 9,
+      "pages": [
+        6
+      ],
+      "evidence": {
+        "para": "p6-87",
+        "page": 6,
+        "bbox": [
+          56.25,
+          153.2,
+          296.46,
+          341.15
+        ]
+      }
+    },
+    {
+      "id": "e32",
+      "label": "Section",
+      "kind": "concept",
+      "mentions": 8,
+      "pages": [
+        2,
+        3,
+        4,
+        7,
+        9
+      ],
+      "evidence": {
+        "para": "p2-8",
+        "page": 2,
+        "bbox": [
+          56.25,
+          399.55,
+          296.8,
+          729.95
+        ]
+      }
+    },
+    {
+      "id": "e118",
+      "label": "PIQA",
+      "kind": "concept",
+      "mentions": 8,
+      "pages": [
+        5
+      ],
+      "evidence": {
+        "para": "p5-60",
+        "page": 5,
+        "bbox": [
+          56.25,
+          464.3,
+          296.73,
+          651.55
+        ]
+      }
+    },
+    {
+      "id": "e13",
+      "label": "QK-norm",
+      "kind": "concept",
+      "mentions": 7,
+      "pages": [
+        1,
+        2,
+        5,
+        7
+      ],
+      "evidence": {
+        "para": "p1-6",
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ]
+      }
+    },
+    {
+      "id": "e17",
+      "label": "Because",
+      "kind": "concept",
+      "mentions": 7,
+      "pages": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "evidence": {
+        "para": "p1-6",
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ]
+      }
+    },
+    {
+      "id": "e33",
+      "label": "Attention",
+      "kind": "method",
+      "mentions": 7,
+      "pages": [
+        2,
+        6,
+        7,
+        8
+      ],
+      "evidence": {
+        "para": "p2-10",
+        "page": 2,
+        "bbox": [
+          56.25,
+          308.57,
+          296.77,
+          370.85
+        ]
+      }
+    },
+    {
+      "id": "e36",
+      "label": "MLP",
+      "kind": "concept",
+      "mentions": 7,
+      "pages": [
+        2,
+        4
+      ],
+      "evidence": {
+        "para": "p2-14",
+        "page": 2,
+        "bbox": [
+          102.3,
+          282.77,
+          296.77,
+          296.43
+        ]
+      }
+    },
+    {
+      "id": "e41",
+      "label": "Let",
+      "kind": "concept",
+      "mentions": 7,
+      "pages": [
+        2,
+        3,
+        4,
+        9
+      ],
+      "evidence": {
+        "para": "p2-16",
+        "page": 2,
+        "bbox": [
+          56.25,
+          131.75,
+          296.48,
+          168.05
+        ]
+      }
+    },
+    {
+      "id": "e11",
+      "label": "For",
+      "kind": "concept",
+      "mentions": 6,
+      "pages": [
+        1,
+        3,
+        4,
+        9
+      ],
+      "evidence": {
+        "para": "p1-6",
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ]
+      }
+    },
+    {
+      "id": "e84",
+      "label": "Appendix",
+      "kind": "metric",
+      "mentions": 6,
+      "pages": [
+        3,
+        4,
+        5,
+        7
+      ],
+      "evidence": {
+        "para": "p3-44",
+        "page": 3,
+        "bbox": [
+          315.45,
+          118.8,
+          555.63,
+          180.05
+        ]
+      }
+    },
+    {
+      "id": "e121",
+      "label": "MMLU",
+      "kind": "concept",
+      "mentions": 6,
+      "pages": [
+        5
+      ],
+      "evidence": {
+        "para": "p5-60",
+        "page": 5,
+        "bbox": [
+          56.25,
+          464.3,
+          296.73,
+          651.55
+        ]
+      }
+    },
+    {
+      "id": "e122",
+      "label": "WMT24",
+      "kind": "concept",
+      "mentions": 6,
+      "pages": [
+        5,
+        6
+      ],
+      "evidence": {
+        "para": "p5-60",
+        "page": 5,
+        "bbox": [
+          56.25,
+          464.3,
+          296.73,
+          651.55
+        ]
+      }
+    },
+    {
+      "id": "e187",
+      "label": "NeurIPS",
+      "kind": "concept",
+      "mentions": 6,
+      "pages": [
+        8
+      ],
+      "evidence": {
+        "para": "p8-107",
+        "page": 8,
+        "bbox": [
+          56.25,
+          68.97,
+          296.77,
+          344.43
+        ]
+      }
+    },
+    {
+      "id": "e219",
+      "label": "ICML",
+      "kind": "concept",
+      "mentions": 6,
+      "pages": [
+        8
+      ],
+      "evidence": {
+        "para": "p8-107",
+        "page": 8,
+        "bbox": [
+          56.25,
+          68.97,
+          296.77,
+          344.43
+        ]
+      }
+    },
+    {
+      "id": "e26",
+      "label": "Our",
+      "kind": "concept",
+      "mentions": 5,
+      "pages": [
+        2,
+        7
+      ],
+      "evidence": {
+        "para": "p2-8",
+        "page": 2,
+        "bbox": [
+          56.25,
+          399.55,
+          296.8,
+          729.95
+        ]
+      }
+    },
+    {
+      "id": "e78",
+      "label": "Scaling",
+      "kind": "concept",
+      "mentions": 5,
+      "pages": [
+        3,
+        5,
+        8
+      ],
+      "evidence": {
+        "para": "p3-43",
+        "page": 3,
+        "bbox": [
+          315.45,
+          189.65,
+          556.03,
+          412.45
+        ]
+      }
+    },
+    {
+      "id": "e88",
+      "label": "Corollary",
+      "kind": "concept",
+      "mentions": 5,
+      "pages": [
+        4,
+        5,
+        7,
+        9
+      ],
+      "evidence": {
+        "para": "p4-46",
+        "page": 4,
+        "bbox": [
+          56.25,
+          471.3,
+          296.76,
+          729.95
+        ]
+      }
+    },
+    {
+      "id": "e22",
+      "label": "Training",
+      "kind": "concept",
+      "mentions": 4,
+      "pages": [
+        1,
+        5,
+        7,
+        8
+      ],
+      "evidence": {
+        "para": "p1-7",
+        "page": 1,
+        "bbox": [
+          303.6,
+          28.5,
+          555.72,
+          484.0
+        ]
+      }
+    },
+    {
+      "id": "e23",
+      "label": "Depth",
+      "kind": "concept",
+      "mentions": 4,
+      "pages": [
+        1,
+        4,
+        5
+      ],
+      "evidence": {
+        "para": "p1-7",
+        "page": 1,
+        "bbox": [
+          303.6,
+          28.5,
+          555.72,
+          484.0
+        ]
+      }
+    },
+    {
+      "id": "e35",
+      "label": "AVWO",
+      "kind": "concept",
+      "mentions": 4,
+      "pages": [
+        2
+      ],
+      "evidence": {
+        "para": "p2-14",
+        "page": 2,
+        "bbox": [
+          102.3,
+          282.77,
+          296.77,
+          296.43
+        ]
+      }
+    },
+    {
+      "id": "e42",
+      "label": "Pij",
+      "kind": "concept",
+      "mentions": 4,
+      "pages": [
+        2,
+        9
+      ],
+      "evidence": {
+        "para": "p2-18",
+        "page": 2,
+        "bbox": [
+          96.3,
+          91.33,
+          296.77,
+          127.58
+        ]
+      }
+    },
+    {
+      "id": "e44",
+      "label": "Cuturi",
+      "kind": "concept",
+      "mentions": 4,
+      "pages": [
+        2,
+        8
+      ],
+      "evidence": {
+        "para": "p2-21",
+        "page": 2,
+        "bbox": [
+          303.6,
+          28.5,
+          555.97,
+          729.95
+        ]
+      }
+    },
+    {
+      "id": "e87",
+      "label": "Then",
+      "kind": "concept",
+      "mentions": 4,
+      "pages": [
+        3,
+        9
+      ],
+      "evidence": {
+        "para": "p3-45",
+        "page": 3,
+        "bbox": [
+          315.45,
+          78.85,
+          555.73,
+          111.75
+        ]
+      }
+    },
+    {
+      "id": "e110",
+      "label": "All",
+      "kind": "concept",
+      "mentions": 4,
+      "pages": [
+        5,
+        9
+      ],
+      "evidence": {
+        "para": "p5-58",
+        "page": 5,
+        "bbox": [
+          56.25,
+          652.3,
+          296.76,
+          700.35
+        ]
+      }
+    },
+    {
+      "id": "e117",
+      "label": "WikiText-103",
+      "kind": "dataset",
+      "mentions": 4,
+      "pages": [
+        5,
+        6
+      ],
+      "evidence": {
+        "para": "p5-60",
+        "page": 5,
+        "bbox": [
+          56.25,
+          464.3,
+          296.73,
+          651.55
+        ]
+      }
+    },
+    {
+      "id": "e138",
+      "label": "NIAH",
+      "kind": "concept",
+      "mentions": 4,
+      "pages": [
+        6
+      ],
+      "evidence": {
+        "para": "p6-84",
+        "page": 6,
+        "bbox": [
+          56.25,
+          564.67,
+          296.4,
+          593.52
+        ]
+      }
+    },
+    {
+      "id": "e4",
+      "label": "Balancing",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        1,
+        6,
+        8
+      ],
+      "evidence": {
+        "para": "p1-5",
+        "page": 1,
+        "bbox": [
+          95.85,
+          493.57,
+          515.87,
+          628.52
+        ]
+      }
+    },
+    {
+      "id": "e21",
+      "label": "Proposition",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        1,
+        4,
+        9
+      ],
+      "evidence": {
+        "para": "p1-7",
+        "page": 1,
+        "bbox": [
+          303.6,
+          28.5,
+          555.72,
+          484.0
+        ]
+      }
+    },
+    {
+      "id": "e48",
+      "label": "Xiao",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        2,
+        7,
+        8
+      ],
+      "evidence": {
+        "para": "p2-24",
+        "page": 2,
+        "bbox": [
+          315.45,
+          286.15,
+          555.74,
+          577.85
+        ]
+      }
+    },
+    {
+      "id": "e49",
+      "label": "Sun",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        2,
+        7,
+        8
+      ],
+      "evidence": {
+        "para": "p2-24",
+        "page": 2,
+        "bbox": [
+          315.45,
+          286.15,
+          555.74,
+          577.85
+        ]
+      }
+    },
+    {
+      "id": "e79",
+      "label": "Both",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        3,
+        5,
+        6
+      ],
+      "evidence": {
+        "para": "p3-43",
+        "page": 3,
+        "bbox": [
+          315.45,
+          189.65,
+          556.03,
+          412.45
+        ]
+      }
+    },
+    {
+      "id": "e89",
+      "label": "Hence",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        4,
+        9
+      ],
+      "evidence": {
+        "para": "p4-46",
+        "page": 4,
+        "bbox": [
+          56.25,
+          471.3,
+          296.76,
+          729.95
+        ]
+      }
+    },
+    {
+      "id": "e90",
+      "label": "Under",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        4
+      ],
+      "evidence": {
+        "para": "p4-46",
+        "page": 4,
+        "bbox": [
+          56.25,
+          471.3,
+          296.76,
+          729.95
+        ]
+      }
+    },
+    {
+      "id": "e94",
+      "label": "Jacobian",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        4
+      ],
+      "evidence": {
+        "para": "p4-47",
+        "page": 4,
+        "bbox": [
+          56.25,
+          216.45,
+          296.8,
+          464.25
+        ]
+      }
+    },
+    {
+      "id": "e101",
+      "label": "Mirsky",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        4,
+        7,
+        8
+      ],
+      "evidence": {
+        "para": "p4-48",
+        "page": 4,
+        "bbox": [
+          56.25,
+          54.0,
+          296.8,
+          209.4
+        ]
+      }
+    },
+    {
+      "id": "e107",
+      "label": "Does",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        4,
+        5
+      ],
+      "evidence": {
+        "para": "p4-56",
+        "page": 4,
+        "bbox": [
+          315.45,
+          72.3,
+          555.62,
+          122.0
+        ]
+      }
+    },
+    {
+      "id": "e123",
+      "label": "ARC",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        5
+      ],
+      "evidence": {
+        "para": "p5-60",
+        "page": 5,
+        "bbox": [
+          56.25,
+          464.3,
+          296.73,
+          651.55
+        ]
+      }
+    },
+    {
+      "id": "e126",
+      "label": "Perplexity",
+      "kind": "metric",
+      "mentions": 3,
+      "pages": [
+        5,
+        6
+      ],
+      "evidence": {
+        "para": "p5-62",
+        "page": 5,
+        "bbox": [
+          56.25,
+          189.43,
+          296.77,
+          237.97
+        ]
+      }
+    },
+    {
+      "id": "e242",
+      "label": "Chen",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        8
+      ],
+      "evidence": {
+        "para": "p8-109",
+        "page": 8,
+        "bbox": [
+          315.45,
+          260.73,
+          555.98,
+          730.17
+        ]
+      }
+    },
+    {
+      "id": "e249",
+      "label": "Liu",
+      "kind": "concept",
+      "mentions": 3,
+      "pages": [
+        8
+      ],
+      "evidence": {
+        "para": "p8-109",
+        "page": 8,
+        "bbox": [
+          315.45,
+          260.73,
+          555.98,
+          730.17
+        ]
+      }
+    },
+    {
+      "id": "e3",
+      "label": "Nothing",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "evidence": {
+        "para": "p1-5",
+        "page": 1,
+        "bbox": [
+          95.85,
+          493.57,
+          515.87,
+          628.52
+        ]
+      }
+    },
+    {
+      "id": "e6",
+      "label": "Softmax",
+      "kind": "method",
+      "mentions": 2,
+      "pages": [
+        1
+      ],
+      "evidence": {
+        "para": "p1-5",
+        "page": 1,
+        "bbox": [
+          95.85,
+          493.57,
+          515.87,
+          628.52
+        ]
+      }
+    },
+    {
+      "id": "e14",
+      "label": "Each",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "evidence": {
+        "para": "p1-6",
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ]
+      }
+    },
+    {
+      "id": "e16",
+      "label": "Birkhoff",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        1,
+        8
+      ],
+      "evidence": {
+        "para": "p1-6",
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ]
+      }
+    },
+    {
+      "id": "e18",
+      "label": "And",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        1,
+        5
+      ],
+      "evidence": {
+        "para": "p1-7",
+        "page": 1,
+        "bbox": [
+          303.6,
+          28.5,
+          555.72,
+          484.0
+        ]
+      }
+    },
+    {
+      "id": "e19",
+      "label": "None",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        1,
+        2
+      ],
+      "evidence": {
+        "para": "p1-7",
+        "page": 1,
+        "bbox": [
+          303.6,
+          28.5,
+          555.72,
+          484.0
+        ]
+      }
+    },
+    {
+      "id": "e31",
+      "label": "Interpretability",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        2,
+        7
+      ],
+      "evidence": {
+        "para": "p2-8",
+        "page": 2,
+        "bbox": [
+          56.25,
+          399.55,
+          296.8,
+          729.95
+        ]
+      }
+    },
+    {
+      "id": "e34",
+      "label": "Block",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        2,
+        3
+      ],
+      "evidence": {
+        "para": "p2-10",
+        "page": 2,
+        "bbox": [
+          56.25,
+          308.57,
+          296.77,
+          370.85
+        ]
+      }
+    },
+    {
+      "id": "e38",
+      "label": "Pre-RMSNorm",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        2,
+        5
+      ],
+      "evidence": {
+        "para": "p2-15",
+        "page": 2,
+        "bbox": [
+          56.25,
+          175.1,
+          296.73,
+          278.7
+        ]
+      }
+    },
+    {
+      "id": "e39",
+      "label": "SwiGLU",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        2,
+        5
+      ],
+      "evidence": {
+        "para": "p2-15",
+        "page": 2,
+        "bbox": [
+          56.25,
+          175.1,
+          296.73,
+          278.7
+        ]
+      }
+    },
+    {
+      "id": "e40",
+      "label": "Entropic",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        2,
+        7
+      ],
+      "evidence": {
+        "para": "p2-16",
+        "page": 2,
+        "bbox": [
+          56.25,
+          131.75,
+          296.48,
+          168.05
+        ]
+      }
+    },
+    {
+      "id": "e43",
+      "label": "Knopp",
+      "kind": "metric",
+      "mentions": 2,
+      "pages": [
+        2,
+        8
+      ],
+      "evidence": {
+        "para": "p2-21",
+        "page": 2,
+        "bbox": [
+          303.6,
+          28.5,
+          555.97,
+          729.95
+        ]
+      }
+    },
+    {
+      "id": "e46",
+      "label": "What",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        2,
+        6
+      ],
+      "evidence": {
+        "para": "p2-24",
+        "page": 2,
+        "bbox": [
+          315.45,
+          286.15,
+          555.74,
+          577.85
+        ]
+      }
+    },
+    {
+      "id": "e54",
+      "label": "Algorithm",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        2,
+        3
+      ],
+      "evidence": {
+        "para": "p2-31",
+        "page": 2,
+        "bbox": [
+          315.45,
+          111.0,
+          555.92,
+          179.75
+        ]
+      }
+    },
+    {
+      "id": "e56",
+      "label": "Lij",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        3
+      ],
+      "evidence": {
+        "para": "p3-35",
+        "page": 3,
+        "bbox": [
+          59.25,
+          649.38,
+          241.18,
+          705.48
+        ]
+      }
+    },
+    {
+      "id": "e60",
+      "label": "Left",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        3,
+        7
+      ],
+      "evidence": {
+        "para": "p3-37",
+        "page": 3,
+        "bbox": [
+          56.25,
+          341.32,
+          296.56,
+          409.18
+        ]
+      }
+    },
+    {
+      "id": "e62",
+      "label": "Right",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        3,
+        7
+      ],
+      "evidence": {
+        "para": "p3-37",
+        "page": 3,
+        "bbox": [
+          56.25,
+          341.32,
+          296.56,
+          409.18
+        ]
+      }
+    },
+    {
+      "id": "e70",
+      "label": "FLOPs",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        3,
+        7
+      ],
+      "evidence": {
+        "para": "p3-40",
+        "page": 3,
+        "bbox": [
+          315.45,
+          537.0,
+          555.81,
+          677.25
+        ]
+      }
+    },
+    {
+      "id": "e83",
+      "label": "Proofs",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        3,
+        9
+      ],
+      "evidence": {
+        "para": "p3-44",
+        "page": 3,
+        "bbox": [
+          315.45,
+          118.8,
+          555.63,
+          180.05
+        ]
+      }
+    },
+    {
+      "id": "e85",
+      "label": "Conservation",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        3
+      ],
+      "evidence": {
+        "para": "p3-45",
+        "page": 3,
+        "bbox": [
+          315.45,
+          78.85,
+          555.73,
+          111.75
+        ]
+      }
+    },
+    {
+      "id": "e103",
+      "label": "Markov",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        4
+      ],
+      "evidence": {
+        "para": "p4-55",
+        "page": 4,
+        "bbox": [
+          315.45,
+          131.6,
+          555.94,
+          400.2
+        ]
+      }
+    },
+    {
+      "id": "e115",
+      "label": "BPE",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        5
+      ],
+      "evidence": {
+        "para": "p5-60",
+        "page": 5,
+        "bbox": [
+          56.25,
+          464.3,
+          296.73,
+          651.55
+        ]
+      }
+    },
+    {
+      "id": "e119",
+      "label": "HellaSwag",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        5
+      ],
+      "evidence": {
+        "para": "p5-60",
+        "page": 5,
+        "bbox": [
+          56.25,
+          464.3,
+          296.73,
+          651.55
+        ]
+      }
+    },
+    {
+      "id": "e120",
+      "label": "ARC-easy",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        5
+      ],
+      "evidence": {
+        "para": "p5-60",
+        "page": 5,
+        "bbox": [
+          56.25,
+          464.3,
+          296.73,
+          651.55
+        ]
+      }
+    },
+    {
+      "id": "e124",
+      "label": "Language",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        5,
+        8
+      ],
+      "evidence": {
+        "para": "p5-61",
+        "page": 5,
+        "bbox": [
+          56.25,
+          246.4,
+          296.52,
+          457.25
+        ]
+      }
+    },
+    {
+      "id": "e128",
+      "label": "Model",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        5,
+        9
+      ],
+      "evidence": {
+        "para": "p5-63",
+        "page": 5,
+        "bbox": [
+          57.4,
+          176.65,
+          76.43,
+          184.35
+        ]
+      }
+    },
+    {
+      "id": "e133",
+      "label": "Model Transformer",
+      "kind": "method",
+      "mentions": 2,
+      "pages": [
+        5,
+        6
+      ],
+      "evidence": {
+        "para": "p5-81",
+        "page": 5,
+        "bbox": [
+          317.4,
+          151.75,
+          549.55,
+          195.25
+        ]
+      }
+    },
+    {
+      "id": "e135",
+      "label": "Long",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        5,
+        6
+      ],
+      "evidence": {
+        "para": "p5-82",
+        "page": 5,
+        "bbox": [
+          315.45,
+          60.3,
+          555.62,
+          131.05
+        ]
+      }
+    },
+    {
+      "id": "e157",
+      "label": "English-German",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        6,
+        7
+      ],
+      "evidence": {
+        "para": "p6-97",
+        "page": 6,
+        "bbox": [
+          315.45,
+          59.15,
+          555.65,
+          104.8
+        ]
+      }
+    },
+    {
+      "id": "e161",
+      "label": "Finally",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        7,
+        8
+      ],
+      "evidence": {
+        "para": "p7-100",
+        "page": 7,
+        "bbox": [
+          56.25,
+          379.8,
+          296.51,
+          471.65
+        ]
+      }
+    },
+    {
+      "id": "e164",
+      "label": "FlashAttention",
+      "kind": "method",
+      "mentions": 2,
+      "pages": [
+        7,
+        8
+      ],
+      "evidence": {
+        "para": "p7-101",
+        "page": 7,
+        "bbox": [
+          56.25,
+          74.95,
+          296.68,
+          370.2
+        ]
+      }
+    },
+    {
+      "id": "e165",
+      "label": "Tay",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        7,
+        8
+      ],
+      "evidence": {
+        "para": "p7-101",
+        "page": 7,
+        "bbox": [
+          56.25,
+          74.95,
+          296.68,
+          370.2
+        ]
+      }
+    },
+    {
+      "id": "e180",
+      "label": "Shazeer",
+      "kind": "concept",
+      "mentions": 2,
+      "pages": [
+        8
+      ],
+      "evidence": {
+        "para": "p8-107",
+        "page": 8,
+        "bbox": [
+          56.25,
+          68.97,
+          296.77,
+          344.43
+        ]
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source": "e55",
+      "target": "e33",
+      "relation": "improves",
+      "sentence": "Across 160M to 7B parameters trained on 400B tokens, balanced attention improves perplexity at every scale, matches the 7B baseline with 1.",
+      "page": 1,
+      "evidence": "p1-5"
+    },
+    {
+      "source": "e9",
+      "target": "e11",
+      "relation": "is_a",
+      "sentence": "1 Introduction A Transformer is a machine for moving information between positions.",
+      "page": 1,
+      "evidence": "p1-6"
+    },
+    {
+      "source": "e11",
+      "target": "e90",
+      "relation": "is_a",
+      "sentence": "Each is a mitigation for the same underlying event: routing that can create and destroy mass.",
+      "page": 1,
+      "evidence": "p1-6"
+    },
+    {
+      "source": "e55",
+      "target": "e33",
+      "relation": "is_a",
+      "sentence": "A balanced attention matrix is a convex combination of permutation matrices (Birkhoff, 1946), so the layer is a randomized routing of tokens rather than a lossy",
+      "page": 1,
+      "evidence": "p1-6"
+    },
+    {
+      "source": "e17",
+      "target": "e23",
+      "relation": "is_a",
+      "sentence": "Because the set of doubly stochastic matrices is closed under multiplication, depth composes routing without accumulating drift: the network's depth is a time",
+      "page": 1,
+      "evidence": "p1-6"
+    },
+    {
+      "source": "e11",
+      "target": "e18",
+      "relation": "is_a",
+      "sentence": "Restoring the constraint is a restriction only if the model needs to dump mass somewhere, and the standard construction for that need is a dustbin: a single ext",
+      "page": 1,
+      "evidence": "p1-7"
+    },
+    {
+      "source": "e55",
+      "target": "e33",
+      "relation": "improves",
+      "sentence": "Training decoder-only models from 160M to 7B parameters on 400B tokens, with every hyperparameter other than the normalizer held fixed, balanced attention impro",
+      "page": 1,
+      "evidence": "p1-7"
+    },
+    {
+      "source": "e17",
+      "target": "e33",
+      "relation": "is_a",
+      "sentence": "Because the layer is a transport plan, its attention is an alignment.",
+      "page": 2,
+      "evidence": "p2-8"
+    },
+    {
+      "source": "e26",
+      "target": "e78",
+      "relation": "reduces",
+      "sentence": "Second, the scaling vectors are warm-started from the previous layer's solution, which reduces the marginal error after three iterations by a factor of four in ",
+      "page": 3,
+      "evidence": "p3-36"
+    },
+    {
+      "source": "e11",
+      "target": "e107",
+      "relation": "is_a",
+      "sentence": "2 The marginals are a design space Uniform marginals are the default and the choice we use unless stated otherwise, but the formulation exposes three knobs that",
+      "page": 3,
+      "evidence": "p3-38"
+    },
+    {
+      "source": "e26",
+      "target": "e126",
+      "relation": "improves",
+      "sentence": "In our ablations, learned marginals improve perplexity by a further 0.",
+      "page": 3,
+      "evidence": "p3-38"
+    },
+    {
+      "source": "e55",
+      "target": "e34",
+      "relation": "is_a",
+      "sentence": "A block-balanced layer is a direct sum of doubly stochastic matrices, which is doubly stochastic;",
+      "page": 3,
+      "evidence": "p3-43"
+    },
+    {
+      "source": "e4",
+      "target": "e90",
+      "relation": "is_a",
+      "sentence": "Under balancing it is a constant.",
+      "page": 4,
+      "evidence": "p4-46"
+    },
+    {
+      "source": "e55",
+      "target": "e33",
+      "relation": "is_a",
+      "sentence": "A transport plan with uniform marginals is a balanced alignment, so the row and column sums of an attention head can be read as statements about which source to",
+      "page": 4,
+      "evidence": "p4-46"
+    },
+    {
+      "source": "e33",
+      "target": "e78",
+      "relation": "is_a",
+      "sentence": "Three consequences we observe: the gradient of the attention logits is a projection onto the tangent space of the transport polytope rather than an unconstraine",
+      "page": 4,
+      "evidence": "p4-54"
+    },
+    {
+      "source": "e11",
+      "target": "e78",
+      "relation": "is_a",
+      "sentence": "The price of the 1/ε scaling is that ε is a genuine hyperparameter, not a numerical detail: small ε approaches hard assignment and sharpens gradients, large ε a",
+      "page": 4,
+      "evidence": "p4-54"
+    },
+    {
+      "source": "e86",
+      "target": "e17",
+      "relation": "is_a",
+      "sentence": "This is a stronger statement than conservation at each layer: it says that no sequence of layers can conspire to concentrate mass, because the product of doubly",
+      "page": 4,
+      "evidence": "p4-55"
+    },
+    {
+      "source": "e55",
+      "target": "e33",
+      "relation": "improves",
+      "sentence": "Balanced attention improves perplexity at every scale, and the improvement in downstream accuracy grows with model size: +1.",
+      "page": 5,
+      "evidence": "p5-61"
+    },
+    {
+      "source": "e121",
+      "target": "e135",
+      "relation": "requires",
+      "sentence": "The largest improvements are on tasks that require retrieving a specific low-frequency token from a long context: MMLU (+1.",
+      "page": 5,
+      "evidence": "p5-61"
+    },
+    {
+      "source": "e55",
+      "target": "e33",
+      "relation": "improves",
+      "sentence": "Balanced attention does not change how fast models improve;",
+      "page": 5,
+      "evidence": "p5-73"
+    },
+    {
+      "source": "e55",
+      "target": "e17",
+      "relation": "is_a",
+      "sentence": "Because a balanced layer is a transport plan, its attention can be read as an alignment.",
+      "page": 6,
+      "evidence": "p6-97"
+    },
+    {
+      "source": "e33",
+      "target": "e26",
+      "relation": "is_a",
+      "sentence": "FlashAttention [23] is a kernel- level change that is similarly orthogonal, and our fused implementation reuses its tiling.",
+      "page": 7,
+      "evidence": "p7-101"
+    },
+    {
+      "source": "e23",
+      "target": "e90",
+      "relation": "is_a",
+      "sentence": "5 is a restatement of closure under multiplication, but it is a useful one: it says the network's depth cannot concentrate mass, only redistribute it.",
+      "page": 7,
+      "evidence": "p7-102"
+    },
+    {
+      "source": "e18",
+      "target": "e135",
+      "relation": "is_a",
+      "sentence": "On tasks where most of the context is irrelevant, that is a cost: padded batches, classification with long distractors, and retrieval settings with many near-mi",
+      "page": 7,
+      "evidence": "p7-103"
+    },
+    {
+      "source": "e26",
+      "target": "e110",
+      "relation": "is_a",
+      "sentence": "Finally, ε is a real hyperparameter, and while it was flat across three orders of magnitude of compute in our runs, a new modality may need it re-tuned.",
+      "page": 8,
+      "evidence": "p8-104"
+    },
+    {
+      "source": "e11",
+      "target": "e18",
+      "relation": "is_a",
+      "sentence": "A routing matrix whose marginals are known is easier to audit: an analyst can ask which tokens paid for a prediction, and the answer is a row of a transport pla",
+      "page": 8,
+      "evidence": "p8-104"
+    },
+    {
+      "source": "e23",
+      "target": "e18",
+      "relation": "improves",
+      "sentence": "It improves every scale we tested, it makes depth monotone, and it makes a million-token context usable.",
+      "page": 8,
+      "evidence": "p8-105"
+    },
+    {
+      "source": "e9",
+      "target": "e11",
+      "relation": "improves",
+      "sentence": "GLU variants improve transformer.",
+      "page": 8,
+      "evidence": "p8-109"
+    },
+    {
+      "source": "e86",
+      "target": "e11",
+      "relation": "is_a",
+      "sentence": "By the doubly stochastic extension theorem [7] there is a doubly stochastic matrix Q of order 2n with Qij = Bij for i, j ≤ n.",
+      "page": 9,
+      "evidence": "p9-136"
+    },
+    {
+      "source": "e86",
+      "target": "e11",
+      "relation": "is_a",
+      "sentence": "4 follows from the envelope theorem applied to F(C) = minP ∈ U(1,1) ⟨ P, C ⟩ - ε H(P), which is a minimum of affine functions of C and therefore concave in C;",
+      "page": 9,
+      "evidence": "p9-137"
+    }
+  ],
+  "graph": {
+    "node_count": 80,
+    "edge_count": 30,
+    "kinds": {
+      "concept": 68,
+      "method": 6,
+      "dataset": 2,
+      "metric": 4
+    },
+    "conflicts": []
+  },
+  "wall_time_s": 0.389
+}

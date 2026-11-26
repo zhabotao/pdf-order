@@ -1,0 +1,2 @@
+[2026-11-26T10:40:16Z] writing-13-latex demo run input=sample.tex
+{"status": "partial", "case_id": "writing-13-latex-demo", "skill": "writing-13-latex", "out": "<workspace>\\arena\\writing-13-latex\\results\\result.json"}

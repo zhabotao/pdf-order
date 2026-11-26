@@ -1,0 +1,13 @@
+{
+  "case_id": "writing-13-latex-demo",
+  "inputs": [
+    {
+      "role": "source",
+      "path": "sample.tex"
+    },
+    {
+      "role": "bib",
+      "path": "sample.bib"
+    }
+  ]
+}

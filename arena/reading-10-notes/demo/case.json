@@ -1,0 +1,11 @@
+{
+  "case_id": "reading-10-notes-demo",
+  "inputs": [
+    {
+      "role": "paper",
+      "path": "paper.pdf"
+    }
+  ],
+  "note": "输入 PDF 为第三方文献，未随包分发；请自行提供同名文件后重跑",
+  "input_sha256": "6fb898b232e793702d19963728aaa65b579372d55890754dcfe7cd87b3f8e402"
+}

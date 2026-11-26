@@ -1,0 +1,2 @@
+[2026-11-26T10:40:15Z] writing-04-references demo run input=Conservation_Is_All_You_Need.pdf
+{"status": "partial", "case_id": "writing-04-references-demo", "skill": "writing-04-references", "out": "<workspace>\\arena\\writing-04-references\\results\\result.json"}

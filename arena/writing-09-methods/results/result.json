@@ -1,0 +1,110 @@
+{
+  "skill": {
+    "name": "writing-09-methods",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-11-26T10:40:16Z",
+  "case_id": "writing-09-methods-demo",
+  "status": "success",
+  "results": {},
+  "evidence": [],
+  "sources": [
+    {
+      "kind": "text",
+      "path": "draft.md",
+      "bytes": 642
+    }
+  ],
+  "warnings": [],
+  "uncertainty": [
+    "可复现性清单缺少：数据集与版本、随机种子与重复次数、算力与训练时长；这些不能被推测补齐，需作者提供",
+    "方法骨架中这些部分没有素材支撑：数据"
+  ],
+  "text": "# Balanced attention for language modelling\n\n近年来 attention 已成为主流机制。 However, the column constraint has not been studied in depth, and this remains unclear for long context models that process sequences far longer than the typical training window used in most prior work. We propose a balanced attention layer that keeps both row and column margins fixed. The model improves perplexity by 12% on WikiText and outperforms the baseline on RULER. We train decoder-only Transformers from 160M to 7B parameters on 400B tokens with learning rate 3e-4 and batch size 64.",
+  "document": {
+    "source": "draft.md",
+    "chars": 615,
+    "cjk_chars": 10,
+    "latin_words": 88
+  },
+  "method_skeleton": [
+    {
+      "part": "数据",
+      "items": [],
+      "advice": "写清规模、切分、预处理；数据集版本要可追溯"
+    },
+    {
+      "part": "模型",
+      "items": [
+        "160M",
+        "7B",
+        "400B"
+      ],
+      "advice": "给出参数量、层数等可核对的配置，不要只写名字"
+    },
+    {
+      "part": "训练配置",
+      "items": [
+        "learning rate 3e-4 and batch size 64"
+      ],
+      "advice": "学习率、批大小、轮数、硬件与时长的缺项必须补齐"
+    },
+    {
+      "part": "评测",
+      "items": [
+        "accuracy",
+        "perplexity"
+      ],
+      "advice": "指标口径（均值/最优/重复次数）要写明"
+    },
+    {
+      "part": "基线",
+      "items": [
+        "baseline on RULER"
+      ],
+      "advice": "基线需与本文同数据同口径，注明来源"
+    }
+  ],
+  "reproducibility": {
+    "checklist": [
+      {
+        "item": "数据集与版本",
+        "found": false
+      },
+      {
+        "item": "模型规模与结构",
+        "found": true
+      },
+      {
+        "item": "学习率/批大小/轮数",
+        "found": true
+      },
+      {
+        "item": "评测指标与口径",
+        "found": true
+      },
+      {
+        "item": "基线来源与复现方式",
+        "found": true
+      },
+      {
+        "item": "随机种子与重复次数",
+        "found": false
+      },
+      {
+        "item": "算力与训练时长",
+        "found": false
+      }
+    ],
+    "missing": [
+      "数据集与版本",
+      "随机种子与重复次数",
+      "算力与训练时长"
+    ]
+  },
+  "compressed_300w": {
+    "text": "# Balanced attention for language modelling\n\n近年来 attention 已成为主流机制。 However, the column constraint has not been studied in depth, and this remains unclear for long context models that process sequences far longer than the typical training window used in most prior work. We propose a balanced attention layer that keeps both row and column margins fixed. The model improves perplexity by 12% on WikiText and outperforms the baseline on RULER. We train decoder-only Transformers from 160M to 7B parameters on 400B tokens with learning rate 3e-4 and batch size 64.",
+    "words": 90
+  },
+  "wall_time_s": 0.002
+}

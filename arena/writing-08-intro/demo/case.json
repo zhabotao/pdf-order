@@ -1,0 +1,9 @@
+{
+  "case_id": "writing-08-intro-demo",
+  "inputs": [
+    {
+      "role": "draft",
+      "path": "draft.md"
+    }
+  ]
+}

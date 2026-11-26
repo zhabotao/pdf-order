@@ -1,0 +1,354 @@
+{
+  "skill": {
+    "name": "reading-10-notes",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-11-26T10:40:13Z",
+  "case_id": "reading-10-notes-demo",
+  "status": "success",
+  "results": {},
+  "evidence": [
+    {
+      "page": 1,
+      "text_sha1_16": "d46584eb245a40f6"
+    },
+    {
+      "page": 1,
+      "text_sha1_16": "84afbf62198a7431"
+    },
+    {
+      "page": 2,
+      "text_sha1_16": "8f24a9b4b932e3de"
+    },
+    {
+      "page": 2,
+      "text_sha1_16": "707050b56385f519"
+    },
+    {
+      "page": 2,
+      "text_sha1_16": "329adba51d4ba498"
+    },
+    {
+      "page": 3,
+      "text_sha1_16": "5c1fdf6b22510bcb"
+    },
+    {
+      "page": 8,
+      "text_sha1_16": "a7ff941077ab32ee"
+    },
+    {
+      "page": 8,
+      "text_sha1_16": "04d94032f9a1e4fd"
+    }
+  ],
+  "sources": [
+    {
+      "kind": "pdf",
+      "path": "Conservation_Is_All_You_Need.pdf",
+      "bytes": 752191
+    }
+  ],
+  "warnings": [],
+  "uncertainty": [],
+  "text": "Anonymous Authors（p1）：Paper under double-blind review\n2 Background（p2）：1 Attention and the residual stream A decoder-only Transformer stacks L blocks around a residual stream X ∈ ℝn × d, wher\n3 Balanced Attention（p2）：1 The layer We replace the row normalization of Equation 2 with a two-sided one.\nReferences（p8）：[1] Vaswani, A.",
+  "notes": [
+    {
+      "document": "Conservation_Is_All_You_Need.pdf",
+      "pages": 9,
+      "stats": {
+        "paragraphs": 142,
+        "sections": 6,
+        "captions": 13,
+        "references": 16,
+        "equations": 16,
+        "body_size": 10.0
+      },
+      "sections": [
+        {
+          "section": "Anonymous Authors",
+          "level": 2,
+          "page": 1,
+          "paragraph_count": 5,
+          "key_sentences": [
+            {
+              "para": "p1-4",
+              "page": 1,
+              "text": "Paper under double-blind review",
+              "score": 1
+            },
+            {
+              "para": "p1-5",
+              "page": 1,
+              "text": "We show that this missing constraint, rather than depth or width, is what limits what a language model can do with its context.",
+              "score": 3
+            },
+            {
+              "para": "p1-5",
+              "page": 1,
+              "text": "Balancing both marginals turns each attention layer into an entropic optimal transport plan, computed by three Sinkhorn iterations at a 3% training overhead.",
+              "score": 2
+            }
+          ]
+        },
+        {
+          "section": "2 Background",
+          "level": 1,
+          "page": 2,
+          "paragraph_count": 15,
+          "key_sentences": [
+            {
+              "para": "p2-10",
+              "page": 2,
+              "text": "1 Attention and the residual stream A decoder-only Transformer stacks L blocks around a residual stream X ∈ ℝn × d, where n is the sequence length.",
+              "score": 1
+            },
+            {
+              "para": "p2-15",
+              "page": 2,
+              "text": "Modern baselines add Pre-RMSNorm [36], SwiGLU [34], rotary position embeddings [33], QK-norm [15], and a small z- loss [32];",
+              "score": 1
+            },
+            {
+              "para": "p2-23",
+              "page": 2,
+              "text": "Each iteration costs O(n), the same as one attention matrix product, and converges linearly in the Hilbert metric at a rate that depends on ε [19].",
+              "score": 1
+            }
+          ]
+        },
+        {
+          "section": "3 Balanced Attention",
+          "level": 1,
+          "page": 2,
+          "paragraph_count": 68,
+          "key_sentences": [
+            {
+              "para": "p2-26",
+              "page": 2,
+              "text": "1 The layer We replace the row normalization of Equation 2 with a two-sided one.",
+              "score": 1
+            },
+            {
+              "para": "p3-36",
+              "page": 3,
+              "text": "05 overflow in bf16 for sequence lengths beyond 8K.",
+              "score": 2
+            },
+            {
+              "para": "p3-38",
+              "page": 3,
+              "text": "In our ablations, learned marginals improve perplexity by a further 0.",
+              "score": 2
+            }
+          ]
+        },
+        {
+          "section": "References",
+          "level": 1,
+          "page": 8,
+          "paragraph_count": 35,
+          "key_sentences": [
+            {
+              "para": "p8-107",
+              "page": 8,
+              "text": "[1] Vaswani, A.",
+              "score": 2
+            },
+            {
+              "para": "p8-107",
+              "page": 8,
+              "text": "[2] Bahdanau, D.",
+              "score": 1
+            },
+            {
+              "para": "p8-107",
+              "page": 8,
+              "text": "[3] Birkhoff, G.",
+              "score": 1
+            }
+          ]
+        }
+      ],
+      "key_numbers": [
+        {
+          "value": "3%",
+          "page": 1,
+          "bbox": [
+            95.85,
+            493.57,
+            515.87,
+            628.52
+          ],
+          "context": "puted by three Sinkhorn iterations at a 3% training overhead. The constraint is no"
+        },
+        {
+          "value": "1.8×",
+          "page": 1,
+          "bbox": [
+            95.85,
+            493.57,
+            515.87,
+            628.52
+          ],
+          "context": "ery scale, matches the 7B baseline with 1.8× less compute, keeps improving to 96 lay"
+        },
+        {
+          "value": "27%",
+          "page": 1,
+          "bbox": [
+            95.85,
+            493.57,
+            515.87,
+            628.52
+          ],
+          "context": "raises 1M-token retrieval accuracy from 27% to 42%. The plans it learns are readabl"
+        },
+        {
+          "value": "42%",
+          "page": 1,
+          "bbox": [
+            95.85,
+            493.57,
+            515.87,
+            628.52
+          ],
+          "context": "1M-token retrieval accuracy from 27% to 42%. The plans it learns are readable: they"
+        },
+        {
+          "value": "1.1",
+          "page": 1,
+          "bbox": [
+            303.6,
+            28.5,
+            555.72,
+            484.0
+          ],
+          "context": "ccuracy advantage as models grow (from +1.1 to +1.8 points of average zero-shot accu"
+        },
+        {
+          "value": "1.8",
+          "page": 1,
+          "bbox": [
+            303.6,
+            28.5,
+            555.72,
+            484.0
+          ],
+          "context": "advantage as models grow (from +1.1 to +1.8 points of average zero-shot accuracy). A"
+        },
+        {
+          "value": "0.08",
+          "page": 1,
+          "bbox": [
+            303.6,
+            28.5,
+            555.72,
+            484.0
+          ],
+          "context": ". A scaling- law fit attributes to it a 0.08 nat lower irreducible loss, worth a 1.8×"
+        },
+        {
+          "value": "1.8×",
+          "page": 1,
+          "bbox": [
+            303.6,
+            28.5,
+            555.72,
+            484.0
+          ],
+          "context": ".08 nat lower irreducible loss, worth a 1.8× compute advantage at the 7B operating p"
+        },
+        {
+          "value": "5.9",
+          "page": 1,
+          "bbox": [
+            303.6,
+            28.5,
+            555.72,
+            484.0
+          ],
+          "context": "notone: at 96 layers the baseline loses 5.9 perplexity points relative to its 48-lay"
+        },
+        {
+          "value": "0.1",
+          "page": 1,
+          "bbox": [
+            303.6,
+            28.5,
+            555.72,
+            484.0
+          ],
+          "context": "r version, and the balanced model loses 0.1. On RULER at one million tokens we meas"
+        },
+        {
+          "value": "42.1%",
+          "page": 1,
+          "bbox": [
+            303.6,
+            28.5,
+            555.72,
+            484.0
+          ],
+          "context": " RULER at one million tokens we measure 42.1% average accuracy against 27.4%, and on "
+        },
+        {
+          "value": "27.4%",
+          "page": 1,
+          "bbox": [
+            303.6,
+            28.5,
+            555.72,
+            484.0
+          ],
+          "context": " measure 42.1% average accuracy against 27.4%, and on needle-in-a-haystack 71.8% agai"
+        }
+      ],
+      "figures": [
+        "Figure 1: A conservation law for attention. Left: a cost matrix with a sink in the first column and ",
+        "Figure 2: Scaling. Training loss against compute for balanced attention and Transformer++, with powe",
+        "Figure 3: Long context. RULER average accuracy against context length. Both models are trained to 32",
+        "Figure 4: Sinks and entropy. (a) Fraction of routing mass captured by the most-attended key, average",
+        "Figure 5: Attention as transport. One head of the 7B model on an English-German pair. Columns are so"
+      ],
+      "tables": [
+        "Table 1: Cost of a balanced layer relative to softmax attention, measured on 8×H100 with sequence le",
+        "Table 2: Main results at 400B tokens. Perplexity (lower is better) on WikiText-103 and C4; zero-shot",
+        "Table 3: Depth scaling at 410M parameters with width fixed at d=1024. Perplexity on WikiText-103 aft",
+        "Table 4: Long-context evaluation of the 1.4B models. RULER average accuracy (%) at four context leng",
+        "Table 5: WMT24 translation. BLEU and COMET for 800M encoder- decoder models with softmax or balanced",
+        "Table 6: Ablations at 410M parameters and 100B tokens. Perplexity on WikiText-103 and difference fro",
+        "Table 7: Model and optimization hyperparameters. All models use the same recipe; only the attention "
+      ],
+      "references_count": 16,
+      "open_questions": [
+        "哪些结论依赖单一数据集，缺少跨领域验证？",
+        "原文是否报告了失败案例或负结果？",
+        "关键指标的口径（均值/最优/单次）是否写明？"
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "heading": "Anonymous Authors",
+      "page": 1,
+      "point": "Paper under double-blind review"
+    },
+    {
+      "heading": "2 Background",
+      "page": 2,
+      "point": "1 Attention and the residual stream A decoder-only Transformer stacks L blocks around a residual stream X ∈ ℝn × d, wher"
+    },
+    {
+      "heading": "3 Balanced Attention",
+      "page": 2,
+      "point": "1 The layer We replace the row normalization of Equation 2 with a two-sided one."
+    },
+    {
+      "heading": "References",
+      "page": 8,
+      "point": "[1] Vaswani, A."
+    }
+  ],
+  "comparison": [],
+  "wall_time_s": 0.292
+}

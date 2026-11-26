@@ -1,0 +1,1788 @@
+{
+  "skill": {
+    "name": "reading-14-nanopub",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-11-26T10:40:14Z",
+  "case_id": "reading-14-nanopub-demo",
+  "status": "success",
+  "results": {},
+  "evidence": [
+    {
+      "page": 1,
+      "bbox": [
+        95.85,
+        493.57,
+        515.87,
+        628.52
+      ],
+      "para": "p1-5"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ],
+      "para": "p1-6"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ],
+      "para": "p1-6"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ],
+      "para": "p1-6"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ],
+      "para": "p1-6"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        303.6,
+        28.5,
+        555.72,
+        484.0
+      ],
+      "para": "p1-7"
+    },
+    {
+      "page": 2,
+      "bbox": [
+        56.25,
+        399.55,
+        296.8,
+        729.95
+      ],
+      "para": "p2-8"
+    },
+    {
+      "page": 2,
+      "bbox": [
+        56.25,
+        175.1,
+        296.73,
+        278.7
+      ],
+      "para": "p2-15"
+    },
+    {
+      "page": 2,
+      "bbox": [
+        315.45,
+        584.9,
+        555.95,
+        688.5
+      ],
+      "para": "p2-23"
+    },
+    {
+      "page": 2,
+      "bbox": [
+        315.45,
+        584.9,
+        555.95,
+        688.5
+      ],
+      "para": "p2-23"
+    },
+    {
+      "page": 2,
+      "bbox": [
+        315.45,
+        286.15,
+        555.74,
+        577.85
+      ],
+      "para": "p2-24"
+    },
+    {
+      "page": 2,
+      "bbox": [
+        315.45,
+        286.15,
+        555.74,
+        577.85
+      ],
+      "para": "p2-24"
+    },
+    {
+      "page": 2,
+      "bbox": [
+        315.45,
+        286.15,
+        555.74,
+        577.85
+      ],
+      "para": "p2-24"
+    },
+    {
+      "page": 3,
+      "bbox": [
+        303.6,
+        28.5,
+        555.49,
+        729.95
+      ],
+      "para": "p3-39"
+    },
+    {
+      "page": 4,
+      "bbox": [
+        315.45,
+        407.25,
+        555.96,
+        582.25
+      ],
+      "para": "p4-54"
+    },
+    {
+      "page": 7,
+      "bbox": [
+        56.25,
+        74.95,
+        296.68,
+        370.2
+      ],
+      "para": "p7-101"
+    },
+    {
+      "page": 7,
+      "bbox": [
+        56.25,
+        74.95,
+        296.68,
+        370.2
+      ],
+      "para": "p7-101"
+    },
+    {
+      "page": 7,
+      "bbox": [
+        56.25,
+        74.95,
+        296.68,
+        370.2
+      ],
+      "para": "p7-101"
+    },
+    {
+      "page": 7,
+      "bbox": [
+        56.25,
+        74.95,
+        296.68,
+        370.2
+      ],
+      "para": "p7-101"
+    },
+    {
+      "page": 7,
+      "bbox": [
+        303.6,
+        28.5,
+        555.88,
+        729.95
+      ],
+      "para": "p7-102"
+    },
+    {
+      "page": 7,
+      "bbox": [
+        303.6,
+        28.5,
+        555.88,
+        729.95
+      ],
+      "para": "p7-102"
+    },
+    {
+      "page": 7,
+      "bbox": [
+        303.6,
+        28.5,
+        555.88,
+        729.95
+      ],
+      "para": "p7-102"
+    },
+    {
+      "page": 7,
+      "bbox": [
+        303.6,
+        28.5,
+        555.88,
+        729.95
+      ],
+      "para": "p7-102"
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        267.85,
+        296.8,
+        468.55
+      ],
+      "para": "p9-136"
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        267.85,
+        296.8,
+        468.55
+      ],
+      "para": "p9-136"
+    }
+  ],
+  "sources": [
+    {
+      "kind": "pdf",
+      "path": "Conservation_Is_All_You_Need.pdf",
+      "bytes": 752191
+    }
+  ],
+  "warnings": [],
+  "uncertainty": [
+    "4 条断言在原文中没有可见文献标记（a0, a5, a6, a14），它们依赖正文陈述而非引文"
+  ],
+  "text": "We show that this missing constraint, rather than depth or width, is what limits what a language model can do with its context.\nA small number of positions, usually the first token or a delimiter, absorb a large fraction of all attention mass in every layer [21].\nA handful of dimensions in a handful of tokens grow by three orders of magnitude and act as learned biases [22].\nRepresentations collapse toward a single direction with depth once skip connections are removed [10].\nThe norm of the residual stream grows monotonically, and practitioners insert QK-norm [15], z- loss, and logit capping to keep training stable [13, 32].\nWe show that adding one null column recovers softmax attention as a special case (Proposition 1) and that it recovers most of the accuracy gap on tasks that reward ignoring context (Table 6).\nWe introduce balanced attention, an attention layer whose routing matrix is doubly stochastic and therefore the solution of an entropic optimal transport problem, and show that it can be dropped into any Transformer at 3% overhead.\nModern baselines add Pre-RMSNorm [36], SwiGLU [34], rotary position embeddings [33], QK-norm [15], and a small z- loss [32];\nEach iteration costs O(n), the same as one attention matrix product, and converges linearly in the Hilbert metric at a rate that depends on ε [19].\nBecause the map C ↦ P* is the gradient of a convex function, it is differentiable, and gradients can be obtained either by unrolling a finite number of iterations or by implicit differentiation of the fixed point [12, 28].\n[21] document that the first token of a streaming context becomes exactly this: a sink that absorbs 40-80% of attention in the first two layers, which is why discarding its key and value is nearly free.\n[22] show that the sink co-occurs with massive activations in a few channels, and that clamping those channels removes the sink without changing perplexity much, which suggests the model is using the sink as a bias rather than as information.\nThe first strategy is cheaper to learn and is what we observe: an effective context that is far smaller than the nominal one [17].\nSetting both to uniform makes the layer a fertility model in the sense of statistical machine translation [2]: every source word is explained exactly once, on average.\nThree consequences we observe: the gradient of the attention logits is a projection onto the tangent space of the transport polytope rather than an unconstrained rescaling;\nSparse, low-rank, and kernel approximations replace the n × n matrix with something cheaper [16, 25, 24].\nFlashAttention [23] is a kernel- level change that is similarly orthogonal, and our fused implementation reuses its tiling.\n[14] apply Sinkhorn normalization to a block-level routing matrix in order to sparsify it;\nQK-norm [15], z-loss [32], embedding scaling, and logit capping [13] all bound a quantity that would otherwise grow.\n[21] identify the sink as a streaming artefact and exploit it by keeping a few tokens' key-value pairs.\n[22] connect it to massive activations.\nThe Birkhoff-von Neumann theorem and the extension theorem of Mirsky [7] are classical;\nAnalyses of attention as a circuit [26, 27] describe what heads compute in a trained model.\nBy the doubly stochastic extension theorem [7] there is a doubly stochastic matrix Q of order 2n with Qij = Bij for i, j ≤ n.\nthe second follows from the standard equivalence between unbalanced transport with a free marginal and balanced transport with a dustbin [8].",
+  "nanopublication": {
+    "assertion": {
+      "claims": [
+        {
+          "id": "a0",
+          "assertion": "We show that this missing constraint, rather than depth or width, is what limits what a language model can do with its context.",
+          "subject_hint": "We",
+          "quantities": [],
+          "citations": [],
+          "confidence": 0.7,
+          "evidence": {
+            "page": 1,
+            "bbox": [
+              95.85,
+              493.57,
+              515.87,
+              628.52
+            ],
+            "para": "p1-5"
+          }
+        },
+        {
+          "id": "a1",
+          "assertion": "A small number of positions, usually the first token or a delimiter, absorb a large fraction of all attention mass in every layer [21].",
+          "subject_hint": null,
+          "quantities": [
+            "21"
+          ],
+          "citations": [
+            "[21]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 1,
+            "bbox": [
+              56.25,
+              59.95,
+              296.8,
+              483.95
+            ],
+            "para": "p1-6"
+          }
+        },
+        {
+          "id": "a2",
+          "assertion": "A handful of dimensions in a handful of tokens grow by three orders of magnitude and act as learned biases [22].",
+          "subject_hint": null,
+          "quantities": [
+            "22"
+          ],
+          "citations": [
+            "[22]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 1,
+            "bbox": [
+              56.25,
+              59.95,
+              296.8,
+              483.95
+            ],
+            "para": "p1-6"
+          }
+        },
+        {
+          "id": "a3",
+          "assertion": "Representations collapse toward a single direction with depth once skip connections are removed [10].",
+          "subject_hint": "Representations",
+          "quantities": [
+            "10"
+          ],
+          "citations": [
+            "[10]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 1,
+            "bbox": [
+              56.25,
+              59.95,
+              296.8,
+              483.95
+            ],
+            "para": "p1-6"
+          }
+        },
+        {
+          "id": "a4",
+          "assertion": "The norm of the residual stream grows monotonically, and practitioners insert QK-norm [15], z- loss, and logit capping to keep training stable [13, 32].",
+          "subject_hint": "The",
+          "quantities": [
+            "15",
+            "13",
+            "32"
+          ],
+          "citations": [
+            "[15]",
+            "[13, 32]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 1,
+            "bbox": [
+              56.25,
+              59.95,
+              296.8,
+              483.95
+            ],
+            "para": "p1-6"
+          }
+        },
+        {
+          "id": "a5",
+          "assertion": "We show that adding one null column recovers softmax attention as a special case (Proposition 1) and that it recovers most of the accuracy gap on tasks that reward ignoring context (Table 6).",
+          "subject_hint": "We",
+          "quantities": [
+            "1",
+            "6"
+          ],
+          "citations": [],
+          "confidence": 0.85,
+          "evidence": {
+            "page": 1,
+            "bbox": [
+              303.6,
+              28.5,
+              555.72,
+              484.0
+            ],
+            "para": "p1-7"
+          }
+        },
+        {
+          "id": "a6",
+          "assertion": "We introduce balanced attention, an attention layer whose routing matrix is doubly stochastic and therefore the solution of an entropic optimal transport problem, and show that it can be dropped into any Transformer at 3% overhead.",
+          "subject_hint": "We",
+          "quantities": [
+            "3%"
+          ],
+          "citations": [],
+          "confidence": 0.85,
+          "evidence": {
+            "page": 2,
+            "bbox": [
+              56.25,
+              399.55,
+              296.8,
+              729.95
+            ],
+            "para": "p2-8"
+          }
+        },
+        {
+          "id": "a7",
+          "assertion": "Modern baselines add Pre-RMSNorm [36], SwiGLU [34], rotary position embeddings [33], QK-norm [15], and a small z- loss [32];",
+          "subject_hint": "Modern",
+          "quantities": [
+            "36",
+            "34",
+            "33",
+            "15",
+            "32"
+          ],
+          "citations": [
+            "[36]",
+            "[34]",
+            "[33]",
+            "[15]",
+            "[32]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 2,
+            "bbox": [
+              56.25,
+              175.1,
+              296.73,
+              278.7
+            ],
+            "para": "p2-15"
+          }
+        },
+        {
+          "id": "a8",
+          "assertion": "Each iteration costs O(n), the same as one attention matrix product, and converges linearly in the Hilbert metric at a rate that depends on ε [19].",
+          "subject_hint": "Each",
+          "quantities": [
+            "19"
+          ],
+          "citations": [
+            "[19]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 2,
+            "bbox": [
+              315.45,
+              584.9,
+              555.95,
+              688.5
+            ],
+            "para": "p2-23"
+          }
+        },
+        {
+          "id": "a9",
+          "assertion": "Because the map C ↦ P* is the gradient of a convex function, it is differentiable, and gradients can be obtained either by unrolling a finite number of iterations or by implicit differentiation of the fixed point [12, 28].",
+          "subject_hint": "Because",
+          "quantities": [
+            "12",
+            "28"
+          ],
+          "citations": [
+            "[12, 28]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 2,
+            "bbox": [
+              315.45,
+              584.9,
+              555.95,
+              688.5
+            ],
+            "para": "p2-23"
+          }
+        },
+        {
+          "id": "a10",
+          "assertion": "[21] document that the first token of a streaming context becomes exactly this: a sink that absorbs 40-80% of attention in the first two layers, which is why discarding its key and value is nearly free.",
+          "subject_hint": null,
+          "quantities": [
+            "21",
+            "40",
+            "80%"
+          ],
+          "citations": [
+            "[21]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 2,
+            "bbox": [
+              315.45,
+              286.15,
+              555.74,
+              577.85
+            ],
+            "para": "p2-24"
+          }
+        },
+        {
+          "id": "a11",
+          "assertion": "[22] show that the sink co-occurs with massive activations in a few channels, and that clamping those channels removes the sink without changing perplexity much, which suggests the model is using the sink as a bias rather than as information.",
+          "subject_hint": null,
+          "quantities": [
+            "22"
+          ],
+          "citations": [
+            "[22]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 2,
+            "bbox": [
+              315.45,
+              286.15,
+              555.74,
+              577.85
+            ],
+            "para": "p2-24"
+          }
+        },
+        {
+          "id": "a12",
+          "assertion": "The first strategy is cheaper to learn and is what we observe: an effective context that is far smaller than the nominal one [17].",
+          "subject_hint": "The",
+          "quantities": [
+            "17"
+          ],
+          "citations": [
+            "[17]"
+          ],
+          "confidence": 0.95,
+          "evidence": {
+            "page": 2,
+            "bbox": [
+              315.45,
+              286.15,
+              555.74,
+              577.85
+            ],
+            "para": "p2-24"
+          }
+        },
+        {
+          "id": "a13",
+          "assertion": "Setting both to uniform makes the layer a fertility model in the sense of statistical machine translation [2]: every source word is explained exactly once, on average.",
+          "subject_hint": "Setting",
+          "quantities": [
+            "2"
+          ],
+          "citations": [
+            "[2]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 3,
+            "bbox": [
+              303.6,
+              28.5,
+              555.49,
+              729.95
+            ],
+            "para": "p3-39"
+          }
+        },
+        {
+          "id": "a14",
+          "assertion": "Three consequences we observe: the gradient of the attention logits is a projection onto the tangent space of the transport polytope rather than an unconstrained rescaling;",
+          "subject_hint": "Three",
+          "quantities": [],
+          "citations": [],
+          "confidence": 0.7,
+          "evidence": {
+            "page": 4,
+            "bbox": [
+              315.45,
+              407.25,
+              555.96,
+              582.25
+            ],
+            "para": "p4-54"
+          }
+        },
+        {
+          "id": "a15",
+          "assertion": "Sparse, low-rank, and kernel approximations replace the n × n matrix with something cheaper [16, 25, 24].",
+          "subject_hint": "Sparse",
+          "quantities": [
+            "16",
+            "25",
+            "24"
+          ],
+          "citations": [
+            "[16, 25, 24]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 7,
+            "bbox": [
+              56.25,
+              74.95,
+              296.68,
+              370.2
+            ],
+            "para": "p7-101"
+          }
+        },
+        {
+          "id": "a16",
+          "assertion": "FlashAttention [23] is a kernel- level change that is similarly orthogonal, and our fused implementation reuses its tiling.",
+          "subject_hint": "FlashAttention",
+          "quantities": [
+            "23"
+          ],
+          "citations": [
+            "[23]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 7,
+            "bbox": [
+              56.25,
+              74.95,
+              296.68,
+              370.2
+            ],
+            "para": "p7-101"
+          }
+        },
+        {
+          "id": "a17",
+          "assertion": "[14] apply Sinkhorn normalization to a block-level routing matrix in order to sparsify it;",
+          "subject_hint": null,
+          "quantities": [
+            "14"
+          ],
+          "citations": [
+            "[14]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 7,
+            "bbox": [
+              56.25,
+              74.95,
+              296.68,
+              370.2
+            ],
+            "para": "p7-101"
+          }
+        },
+        {
+          "id": "a18",
+          "assertion": "QK-norm [15], z-loss [32], embedding scaling, and logit capping [13] all bound a quantity that would otherwise grow.",
+          "subject_hint": "QK-norm",
+          "quantities": [
+            "15",
+            "32",
+            "13"
+          ],
+          "citations": [
+            "[15]",
+            "[32]",
+            "[13]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 7,
+            "bbox": [
+              56.25,
+              74.95,
+              296.68,
+              370.2
+            ],
+            "para": "p7-101"
+          }
+        },
+        {
+          "id": "a19",
+          "assertion": "[21] identify the sink as a streaming artefact and exploit it by keeping a few tokens' key-value pairs.",
+          "subject_hint": null,
+          "quantities": [
+            "21"
+          ],
+          "citations": [
+            "[21]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 7,
+            "bbox": [
+              303.6,
+              28.5,
+              555.88,
+              729.95
+            ],
+            "para": "p7-102"
+          }
+        },
+        {
+          "id": "a20",
+          "assertion": "[22] connect it to massive activations.",
+          "subject_hint": null,
+          "quantities": [
+            "22"
+          ],
+          "citations": [
+            "[22]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 7,
+            "bbox": [
+              303.6,
+              28.5,
+              555.88,
+              729.95
+            ],
+            "para": "p7-102"
+          }
+        },
+        {
+          "id": "a21",
+          "assertion": "The Birkhoff-von Neumann theorem and the extension theorem of Mirsky [7] are classical;",
+          "subject_hint": "The Birkhoff-von",
+          "quantities": [
+            "7"
+          ],
+          "citations": [
+            "[7]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 7,
+            "bbox": [
+              303.6,
+              28.5,
+              555.88,
+              729.95
+            ],
+            "para": "p7-102"
+          }
+        },
+        {
+          "id": "a22",
+          "assertion": "Analyses of attention as a circuit [26, 27] describe what heads compute in a trained model.",
+          "subject_hint": "Analyses",
+          "quantities": [
+            "26",
+            "27"
+          ],
+          "citations": [
+            "[26, 27]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 7,
+            "bbox": [
+              303.6,
+              28.5,
+              555.88,
+              729.95
+            ],
+            "para": "p7-102"
+          }
+        },
+        {
+          "id": "a23",
+          "assertion": "By the doubly stochastic extension theorem [7] there is a doubly stochastic matrix Q of order 2n with Qij = Bij for i, j ≤ n.",
+          "subject_hint": "By",
+          "quantities": [
+            "7",
+            "2"
+          ],
+          "citations": [
+            "[7]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 9,
+            "bbox": [
+              56.25,
+              267.85,
+              296.8,
+              468.55
+            ],
+            "para": "p9-136"
+          }
+        },
+        {
+          "id": "a24",
+          "assertion": "the second follows from the standard equivalence between unbalanced transport with a free marginal and balanced transport with a dustbin [8].",
+          "subject_hint": null,
+          "quantities": [
+            "8"
+          ],
+          "citations": [
+            "[8]"
+          ],
+          "confidence": 0.65,
+          "evidence": {
+            "page": 9,
+            "bbox": [
+              56.25,
+              267.85,
+              296.8,
+              468.55
+            ],
+            "para": "p9-136"
+          }
+        }
+      ],
+      "relations": [
+        {
+          "subject": "attention",
+          "predicate": "improves",
+          "object": "perplexity at every scale",
+          "page": 1,
+          "evidence": "p1-5"
+        },
+        {
+          "subject": "Transformer",
+          "predicate": "is_a",
+          "object": "machine for moving information between p",
+          "page": 1,
+          "evidence": "p1-6"
+        },
+        {
+          "subject": "Each",
+          "predicate": "is_a",
+          "object": "mitigation for the same underlying event",
+          "page": 1,
+          "evidence": "p1-6"
+        },
+        {
+          "subject": "matrix",
+          "predicate": "is_a",
+          "object": "convex combination of permutation matric",
+          "page": 1,
+          "evidence": "p1-6"
+        },
+        {
+          "subject": "layer",
+          "predicate": "is_a",
+          "object": "randomized routing of tokens rather than",
+          "page": 1,
+          "evidence": "p1-6"
+        },
+        {
+          "subject": "depth",
+          "predicate": "is_a",
+          "object": "time",
+          "page": 1,
+          "evidence": "p1-6"
+        },
+        {
+          "subject": "attention",
+          "predicate": "improves",
+          "object": "perplexity at all four scales and widens",
+          "page": 1,
+          "evidence": "p1-7"
+        },
+        {
+          "subject": "constraint",
+          "predicate": "is_a",
+          "object": "restriction only if the model needs to d",
+          "page": 1,
+          "evidence": "p1-7"
+        },
+        {
+          "subject": "need",
+          "predicate": "is_a",
+          "object": "dustbin",
+          "page": 1,
+          "evidence": "p1-7"
+        },
+        {
+          "subject": "layer",
+          "predicate": "is_a",
+          "object": "transport plan",
+          "page": 2,
+          "evidence": "p2-8"
+        },
+        {
+          "subject": "attention",
+          "predicate": "is_a",
+          "object": "alignment",
+          "page": 2,
+          "evidence": "p2-8"
+        },
+        {
+          "subject": "which",
+          "predicate": "improves",
+          "object": "the marginal error after three iteration",
+          "page": 3,
+          "evidence": "p3-36"
+        },
+        {
+          "subject": "marginals",
+          "predicate": "improves",
+          "object": "perplexity by a further 0",
+          "page": 3,
+          "evidence": "p3-38"
+        },
+        {
+          "subject": "marginals",
+          "predicate": "is_a",
+          "object": "design space Uniform marginals are the d",
+          "page": 3,
+          "evidence": "p3-38"
+        },
+        {
+          "subject": "marginal",
+          "predicate": "is_a",
+          "object": "property of the whole prefix",
+          "page": 3,
+          "evidence": "p3-40"
+        },
+        {
+          "subject": "layer",
+          "predicate": "is_a",
+          "object": "direct sum of doubly stochastic matrices",
+          "page": 3,
+          "evidence": "p3-43"
+        },
+        {
+          "subject": "none",
+          "predicate": "depends_on",
+          "object": "the data distribution",
+          "page": 3,
+          "evidence": "p3-44"
+        },
+        {
+          "subject": "marginals",
+          "predicate": "is_a",
+          "object": "balanced alignment",
+          "page": 4,
+          "evidence": "p4-46"
+        },
+        {
+          "subject": "layers",
+          "predicate": "is_a",
+          "object": "product of non-expansive maps",
+          "page": 4,
+          "evidence": "p4-47"
+        },
+        {
+          "subject": "There",
+          "predicate": "is_a",
+          "object": "doubly stochastic matrix Q of order 2n w",
+          "page": 4,
+          "evidence": "p4-48"
+        },
+        {
+          "subject": "logits",
+          "predicate": "is_a",
+          "object": "projection onto the tangent space of the",
+          "page": 4,
+          "evidence": "p4-54"
+        },
+        {
+          "subject": "This",
+          "predicate": "is_a",
+          "object": "stronger statement than conservation at",
+          "page": 4,
+          "evidence": "p4-55"
+        },
+        {
+          "subject": "attention",
+          "predicate": "improves",
+          "object": "perplexity at every scale",
+          "page": 5,
+          "evidence": "p5-61"
+        },
+        {
+          "subject": "that",
+          "predicate": "depends_on",
+          "object": "retrieving a specific low-frequency toke",
+          "page": 5,
+          "evidence": "p5-61"
+        },
+        {
+          "subject": "that",
+          "predicate": "improves",
+          "object": "most are exactly the ones in which sever",
+          "page": 6,
+          "evidence": "p6-83"
+        }
+      ],
+      "claim_count": 25,
+      "relation_count": 25
+    },
+    "provenance": {
+      "source_document": "Conservation_Is_All_You_Need.pdf",
+      "pages": 9,
+      "extraction": {
+        "method": "layout-aware PDF text extraction + sentence-level cue matching",
+        "tool": "pdf-order / docmodel",
+        "deterministic": true
+      },
+      "derived_from": {
+        "paragraphs": 142,
+        "sections": [
+          "Conservation Is All You Need: Language Modeling with Balance",
+          "Attention",
+          "Anonymous Authors",
+          "2 Background",
+          "3 Balanced Attention",
+          "References"
+        ],
+        "references": 16
+      }
+    },
+    "publication": {
+      "nanopub_id": "np:1530088a968260a3",
+      "generated_at": "2026-11-26T10:40:14Z",
+      "license_note": "断言文本引用自原文；再分发前请确认原文许可",
+      "creator": "reading-14-nanopub skill"
+    }
+  },
+  "claims": [
+    {
+      "id": "a0",
+      "assertion": "We show that this missing constraint, rather than depth or width, is what limits what a language model can do with its context.",
+      "subject_hint": "We",
+      "quantities": [],
+      "citations": [],
+      "confidence": 0.7,
+      "evidence": {
+        "page": 1,
+        "bbox": [
+          95.85,
+          493.57,
+          515.87,
+          628.52
+        ],
+        "para": "p1-5"
+      }
+    },
+    {
+      "id": "a1",
+      "assertion": "A small number of positions, usually the first token or a delimiter, absorb a large fraction of all attention mass in every layer [21].",
+      "subject_hint": null,
+      "quantities": [
+        "21"
+      ],
+      "citations": [
+        "[21]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ],
+        "para": "p1-6"
+      }
+    },
+    {
+      "id": "a2",
+      "assertion": "A handful of dimensions in a handful of tokens grow by three orders of magnitude and act as learned biases [22].",
+      "subject_hint": null,
+      "quantities": [
+        "22"
+      ],
+      "citations": [
+        "[22]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ],
+        "para": "p1-6"
+      }
+    },
+    {
+      "id": "a3",
+      "assertion": "Representations collapse toward a single direction with depth once skip connections are removed [10].",
+      "subject_hint": "Representations",
+      "quantities": [
+        "10"
+      ],
+      "citations": [
+        "[10]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ],
+        "para": "p1-6"
+      }
+    },
+    {
+      "id": "a4",
+      "assertion": "The norm of the residual stream grows monotonically, and practitioners insert QK-norm [15], z- loss, and logit capping to keep training stable [13, 32].",
+      "subject_hint": "The",
+      "quantities": [
+        "15",
+        "13",
+        "32"
+      ],
+      "citations": [
+        "[15]",
+        "[13, 32]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 1,
+        "bbox": [
+          56.25,
+          59.95,
+          296.8,
+          483.95
+        ],
+        "para": "p1-6"
+      }
+    },
+    {
+      "id": "a5",
+      "assertion": "We show that adding one null column recovers softmax attention as a special case (Proposition 1) and that it recovers most of the accuracy gap on tasks that reward ignoring context (Table 6).",
+      "subject_hint": "We",
+      "quantities": [
+        "1",
+        "6"
+      ],
+      "citations": [],
+      "confidence": 0.85,
+      "evidence": {
+        "page": 1,
+        "bbox": [
+          303.6,
+          28.5,
+          555.72,
+          484.0
+        ],
+        "para": "p1-7"
+      }
+    },
+    {
+      "id": "a6",
+      "assertion": "We introduce balanced attention, an attention layer whose routing matrix is doubly stochastic and therefore the solution of an entropic optimal transport problem, and show that it can be dropped into any Transformer at 3% overhead.",
+      "subject_hint": "We",
+      "quantities": [
+        "3%"
+      ],
+      "citations": [],
+      "confidence": 0.85,
+      "evidence": {
+        "page": 2,
+        "bbox": [
+          56.25,
+          399.55,
+          296.8,
+          729.95
+        ],
+        "para": "p2-8"
+      }
+    },
+    {
+      "id": "a7",
+      "assertion": "Modern baselines add Pre-RMSNorm [36], SwiGLU [34], rotary position embeddings [33], QK-norm [15], and a small z- loss [32];",
+      "subject_hint": "Modern",
+      "quantities": [
+        "36",
+        "34",
+        "33",
+        "15",
+        "32"
+      ],
+      "citations": [
+        "[36]",
+        "[34]",
+        "[33]",
+        "[15]",
+        "[32]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 2,
+        "bbox": [
+          56.25,
+          175.1,
+          296.73,
+          278.7
+        ],
+        "para": "p2-15"
+      }
+    },
+    {
+      "id": "a8",
+      "assertion": "Each iteration costs O(n), the same as one attention matrix product, and converges linearly in the Hilbert metric at a rate that depends on ε [19].",
+      "subject_hint": "Each",
+      "quantities": [
+        "19"
+      ],
+      "citations": [
+        "[19]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 2,
+        "bbox": [
+          315.45,
+          584.9,
+          555.95,
+          688.5
+        ],
+        "para": "p2-23"
+      }
+    },
+    {
+      "id": "a9",
+      "assertion": "Because the map C ↦ P* is the gradient of a convex function, it is differentiable, and gradients can be obtained either by unrolling a finite number of iterations or by implicit differentiation of the fixed point [12, 28].",
+      "subject_hint": "Because",
+      "quantities": [
+        "12",
+        "28"
+      ],
+      "citations": [
+        "[12, 28]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 2,
+        "bbox": [
+          315.45,
+          584.9,
+          555.95,
+          688.5
+        ],
+        "para": "p2-23"
+      }
+    },
+    {
+      "id": "a10",
+      "assertion": "[21] document that the first token of a streaming context becomes exactly this: a sink that absorbs 40-80% of attention in the first two layers, which is why discarding its key and value is nearly free.",
+      "subject_hint": null,
+      "quantities": [
+        "21",
+        "40",
+        "80%"
+      ],
+      "citations": [
+        "[21]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 2,
+        "bbox": [
+          315.45,
+          286.15,
+          555.74,
+          577.85
+        ],
+        "para": "p2-24"
+      }
+    },
+    {
+      "id": "a11",
+      "assertion": "[22] show that the sink co-occurs with massive activations in a few channels, and that clamping those channels removes the sink without changing perplexity much, which suggests the model is using the sink as a bias rather than as information.",
+      "subject_hint": null,
+      "quantities": [
+        "22"
+      ],
+      "citations": [
+        "[22]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 2,
+        "bbox": [
+          315.45,
+          286.15,
+          555.74,
+          577.85
+        ],
+        "para": "p2-24"
+      }
+    },
+    {
+      "id": "a12",
+      "assertion": "The first strategy is cheaper to learn and is what we observe: an effective context that is far smaller than the nominal one [17].",
+      "subject_hint": "The",
+      "quantities": [
+        "17"
+      ],
+      "citations": [
+        "[17]"
+      ],
+      "confidence": 0.95,
+      "evidence": {
+        "page": 2,
+        "bbox": [
+          315.45,
+          286.15,
+          555.74,
+          577.85
+        ],
+        "para": "p2-24"
+      }
+    },
+    {
+      "id": "a13",
+      "assertion": "Setting both to uniform makes the layer a fertility model in the sense of statistical machine translation [2]: every source word is explained exactly once, on average.",
+      "subject_hint": "Setting",
+      "quantities": [
+        "2"
+      ],
+      "citations": [
+        "[2]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 3,
+        "bbox": [
+          303.6,
+          28.5,
+          555.49,
+          729.95
+        ],
+        "para": "p3-39"
+      }
+    },
+    {
+      "id": "a14",
+      "assertion": "Three consequences we observe: the gradient of the attention logits is a projection onto the tangent space of the transport polytope rather than an unconstrained rescaling;",
+      "subject_hint": "Three",
+      "quantities": [],
+      "citations": [],
+      "confidence": 0.7,
+      "evidence": {
+        "page": 4,
+        "bbox": [
+          315.45,
+          407.25,
+          555.96,
+          582.25
+        ],
+        "para": "p4-54"
+      }
+    },
+    {
+      "id": "a15",
+      "assertion": "Sparse, low-rank, and kernel approximations replace the n × n matrix with something cheaper [16, 25, 24].",
+      "subject_hint": "Sparse",
+      "quantities": [
+        "16",
+        "25",
+        "24"
+      ],
+      "citations": [
+        "[16, 25, 24]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 7,
+        "bbox": [
+          56.25,
+          74.95,
+          296.68,
+          370.2
+        ],
+        "para": "p7-101"
+      }
+    },
+    {
+      "id": "a16",
+      "assertion": "FlashAttention [23] is a kernel- level change that is similarly orthogonal, and our fused implementation reuses its tiling.",
+      "subject_hint": "FlashAttention",
+      "quantities": [
+        "23"
+      ],
+      "citations": [
+        "[23]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 7,
+        "bbox": [
+          56.25,
+          74.95,
+          296.68,
+          370.2
+        ],
+        "para": "p7-101"
+      }
+    },
+    {
+      "id": "a17",
+      "assertion": "[14] apply Sinkhorn normalization to a block-level routing matrix in order to sparsify it;",
+      "subject_hint": null,
+      "quantities": [
+        "14"
+      ],
+      "citations": [
+        "[14]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 7,
+        "bbox": [
+          56.25,
+          74.95,
+          296.68,
+          370.2
+        ],
+        "para": "p7-101"
+      }
+    },
+    {
+      "id": "a18",
+      "assertion": "QK-norm [15], z-loss [32], embedding scaling, and logit capping [13] all bound a quantity that would otherwise grow.",
+      "subject_hint": "QK-norm",
+      "quantities": [
+        "15",
+        "32",
+        "13"
+      ],
+      "citations": [
+        "[15]",
+        "[32]",
+        "[13]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 7,
+        "bbox": [
+          56.25,
+          74.95,
+          296.68,
+          370.2
+        ],
+        "para": "p7-101"
+      }
+    },
+    {
+      "id": "a19",
+      "assertion": "[21] identify the sink as a streaming artefact and exploit it by keeping a few tokens' key-value pairs.",
+      "subject_hint": null,
+      "quantities": [
+        "21"
+      ],
+      "citations": [
+        "[21]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 7,
+        "bbox": [
+          303.6,
+          28.5,
+          555.88,
+          729.95
+        ],
+        "para": "p7-102"
+      }
+    },
+    {
+      "id": "a20",
+      "assertion": "[22] connect it to massive activations.",
+      "subject_hint": null,
+      "quantities": [
+        "22"
+      ],
+      "citations": [
+        "[22]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 7,
+        "bbox": [
+          303.6,
+          28.5,
+          555.88,
+          729.95
+        ],
+        "para": "p7-102"
+      }
+    },
+    {
+      "id": "a21",
+      "assertion": "The Birkhoff-von Neumann theorem and the extension theorem of Mirsky [7] are classical;",
+      "subject_hint": "The Birkhoff-von",
+      "quantities": [
+        "7"
+      ],
+      "citations": [
+        "[7]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 7,
+        "bbox": [
+          303.6,
+          28.5,
+          555.88,
+          729.95
+        ],
+        "para": "p7-102"
+      }
+    },
+    {
+      "id": "a22",
+      "assertion": "Analyses of attention as a circuit [26, 27] describe what heads compute in a trained model.",
+      "subject_hint": "Analyses",
+      "quantities": [
+        "26",
+        "27"
+      ],
+      "citations": [
+        "[26, 27]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 7,
+        "bbox": [
+          303.6,
+          28.5,
+          555.88,
+          729.95
+        ],
+        "para": "p7-102"
+      }
+    },
+    {
+      "id": "a23",
+      "assertion": "By the doubly stochastic extension theorem [7] there is a doubly stochastic matrix Q of order 2n with Qij = Bij for i, j ≤ n.",
+      "subject_hint": "By",
+      "quantities": [
+        "7",
+        "2"
+      ],
+      "citations": [
+        "[7]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 9,
+        "bbox": [
+          56.25,
+          267.85,
+          296.8,
+          468.55
+        ],
+        "para": "p9-136"
+      }
+    },
+    {
+      "id": "a24",
+      "assertion": "the second follows from the standard equivalence between unbalanced transport with a free marginal and balanced transport with a dustbin [8].",
+      "subject_hint": null,
+      "quantities": [
+        "8"
+      ],
+      "citations": [
+        "[8]"
+      ],
+      "confidence": 0.65,
+      "evidence": {
+        "page": 9,
+        "bbox": [
+          56.25,
+          267.85,
+          296.8,
+          468.55
+        ],
+        "para": "p9-136"
+      }
+    }
+  ],
+  "relations": [
+    {
+      "subject": "attention",
+      "predicate": "improves",
+      "object": "perplexity at every scale",
+      "page": 1,
+      "evidence": "p1-5"
+    },
+    {
+      "subject": "Transformer",
+      "predicate": "is_a",
+      "object": "machine for moving information between p",
+      "page": 1,
+      "evidence": "p1-6"
+    },
+    {
+      "subject": "Each",
+      "predicate": "is_a",
+      "object": "mitigation for the same underlying event",
+      "page": 1,
+      "evidence": "p1-6"
+    },
+    {
+      "subject": "matrix",
+      "predicate": "is_a",
+      "object": "convex combination of permutation matric",
+      "page": 1,
+      "evidence": "p1-6"
+    },
+    {
+      "subject": "layer",
+      "predicate": "is_a",
+      "object": "randomized routing of tokens rather than",
+      "page": 1,
+      "evidence": "p1-6"
+    },
+    {
+      "subject": "depth",
+      "predicate": "is_a",
+      "object": "time",
+      "page": 1,
+      "evidence": "p1-6"
+    },
+    {
+      "subject": "attention",
+      "predicate": "improves",
+      "object": "perplexity at all four scales and widens",
+      "page": 1,
+      "evidence": "p1-7"
+    },
+    {
+      "subject": "constraint",
+      "predicate": "is_a",
+      "object": "restriction only if the model needs to d",
+      "page": 1,
+      "evidence": "p1-7"
+    },
+    {
+      "subject": "need",
+      "predicate": "is_a",
+      "object": "dustbin",
+      "page": 1,
+      "evidence": "p1-7"
+    },
+    {
+      "subject": "layer",
+      "predicate": "is_a",
+      "object": "transport plan",
+      "page": 2,
+      "evidence": "p2-8"
+    },
+    {
+      "subject": "attention",
+      "predicate": "is_a",
+      "object": "alignment",
+      "page": 2,
+      "evidence": "p2-8"
+    },
+    {
+      "subject": "which",
+      "predicate": "improves",
+      "object": "the marginal error after three iteration",
+      "page": 3,
+      "evidence": "p3-36"
+    },
+    {
+      "subject": "marginals",
+      "predicate": "improves",
+      "object": "perplexity by a further 0",
+      "page": 3,
+      "evidence": "p3-38"
+    },
+    {
+      "subject": "marginals",
+      "predicate": "is_a",
+      "object": "design space Uniform marginals are the d",
+      "page": 3,
+      "evidence": "p3-38"
+    },
+    {
+      "subject": "marginal",
+      "predicate": "is_a",
+      "object": "property of the whole prefix",
+      "page": 3,
+      "evidence": "p3-40"
+    },
+    {
+      "subject": "layer",
+      "predicate": "is_a",
+      "object": "direct sum of doubly stochastic matrices",
+      "page": 3,
+      "evidence": "p3-43"
+    },
+    {
+      "subject": "none",
+      "predicate": "depends_on",
+      "object": "the data distribution",
+      "page": 3,
+      "evidence": "p3-44"
+    },
+    {
+      "subject": "marginals",
+      "predicate": "is_a",
+      "object": "balanced alignment",
+      "page": 4,
+      "evidence": "p4-46"
+    },
+    {
+      "subject": "layers",
+      "predicate": "is_a",
+      "object": "product of non-expansive maps",
+      "page": 4,
+      "evidence": "p4-47"
+    },
+    {
+      "subject": "There",
+      "predicate": "is_a",
+      "object": "doubly stochastic matrix Q of order 2n w",
+      "page": 4,
+      "evidence": "p4-48"
+    },
+    {
+      "subject": "logits",
+      "predicate": "is_a",
+      "object": "projection onto the tangent space of the",
+      "page": 4,
+      "evidence": "p4-54"
+    },
+    {
+      "subject": "This",
+      "predicate": "is_a",
+      "object": "stronger statement than conservation at",
+      "page": 4,
+      "evidence": "p4-55"
+    },
+    {
+      "subject": "attention",
+      "predicate": "improves",
+      "object": "perplexity at every scale",
+      "page": 5,
+      "evidence": "p5-61"
+    },
+    {
+      "subject": "that",
+      "predicate": "depends_on",
+      "object": "retrieving a specific low-frequency toke",
+      "page": 5,
+      "evidence": "p5-61"
+    },
+    {
+      "subject": "that",
+      "predicate": "improves",
+      "object": "most are exactly the ones in which sever",
+      "page": 6,
+      "evidence": "p6-83"
+    }
+  ],
+  "wall_time_s": 0.291
+}

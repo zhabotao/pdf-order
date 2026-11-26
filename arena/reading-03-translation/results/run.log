@@ -1,0 +1,2 @@
+[2026-11-26T10:40:13Z] reading-03-translation demo run input=Conservation_Is_All_You_Need.pdf
+{"status": "partial", "case_id": "reading-03-translation-demo", "skill": "reading-03-translation", "out": "<workspace>\\arena\\reading-03-translation\\results\\result.json"}

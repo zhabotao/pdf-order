@@ -1,0 +1,2 @@
+[2026-11-26T10:40:16Z] writing-08-intro demo run input=draft.md
+{"status": "success", "case_id": "writing-08-intro-demo", "skill": "writing-08-intro", "out": "<workspace>\\arena\\writing-08-intro\\results\\result.json"}

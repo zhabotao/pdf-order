@@ -1,0 +1,2 @@
+[2026-11-26T10:40:14Z] reading-14-nanopub demo run input=Conservation_Is_All_You_Need.pdf
+{"status": "success", "case_id": "reading-14-nanopub-demo", "skill": "reading-14-nanopub", "out": "<workspace>\\arena\\reading-14-nanopub\\results\\result.json"}

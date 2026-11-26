@@ -1,0 +1,123 @@
+{
+  "skill": {
+    "name": "writing-13-latex",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-11-26T10:40:16Z",
+  "case_id": "writing-13-latex-demo",
+  "status": "partial",
+  "results": {},
+  "evidence": [],
+  "sources": [
+    {
+      "kind": "tex",
+      "path": "sample.tex",
+      "bytes": 354
+    },
+    {
+      "kind": "bib",
+      "path": "sample.bib",
+      "bytes": 117
+    }
+  ],
+  "warnings": [],
+  "uncertainty": [
+    "2 类问题会导致编译失败或参考文献显示 ?，优先修",
+    "样式类问题 5 处（如表格未居中、公式缺 label），不影响编译但影响评审观感"
+  ],
+  "text": "\\documentclass{article}\n\\begin{document}\n\\section{Introduction}\nAs shown in \\ref{fig:missing} and \\cite{vaswani2017,he2020} the model works.\n\\begin{table}\n\\begin{tabular}{ll}\n\\hline\na & b \\\\\n\\hline\n\\end{tabular}\n\\end{table}\n\\begin{equation}\nx = y + z\n\\end{equation}\nSee \\ref{} for details. 这是一处中文，标点。\n\\end{document}\n",
+  "document": {
+    "source": "sample.tex",
+    "lines": 17,
+    "bytes": 318
+  },
+  "checks": [
+    {
+      "type": "undefined_refs",
+      "items": [
+        "fig:missing"
+      ]
+    },
+    {
+      "type": "cites_missing_in_bib",
+      "items": [
+        "he2020"
+      ]
+    },
+    {
+      "type": "double_space",
+      "count": 3
+    }
+  ],
+  "style_issues": [
+    {
+      "type": "missing_centering",
+      "line": 5
+    },
+    {
+      "type": "table_without_caption",
+      "line": 5
+    },
+    {
+      "type": "bare_hline_in_table",
+      "line": 6
+    },
+    {
+      "type": "equation_without_label",
+      "line": 12
+    },
+    {
+      "type": "empty_ref",
+      "line": 15
+    }
+  ],
+  "patches": [
+    {
+      "type": "safe_fix",
+      "rules": [
+        "collapse_double_space",
+        "normalize_cite_keys"
+      ],
+      "note": "仅合并多余空行/空白与规范 \\cite 键列表，不改变内容"
+    },
+    {
+      "type": "manual",
+      "issue": "missing_centering",
+      "line": 5
+    },
+    {
+      "type": "manual",
+      "issue": "table_without_caption",
+      "line": 5
+    },
+    {
+      "type": "manual",
+      "issue": "bare_hline_in_table",
+      "line": 6
+    },
+    {
+      "type": "manual",
+      "issue": "equation_without_label",
+      "line": 12
+    },
+    {
+      "type": "manual",
+      "issue": "empty_ref",
+      "line": 15
+    }
+  ],
+  "fixes_applied": [
+    {
+      "rule": "collapse_double_space"
+    },
+    {
+      "rule": "normalize_cite_keys"
+    }
+  ],
+  "stats": {
+    "blocking": 2,
+    "style": 5,
+    "auto_fixed": 2
+  },
+  "wall_time_s": 0.004
+}

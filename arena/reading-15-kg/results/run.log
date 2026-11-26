@@ -1,0 +1,2 @@
+[2026-11-26T10:40:15Z] reading-15-kg demo run input=Conservation_Is_All_You_Need.pdf
+{"status": "success", "case_id": "reading-15-kg-demo", "skill": "reading-15-kg", "out": "<workspace>\\arena\\reading-15-kg\\results\\result.json"}

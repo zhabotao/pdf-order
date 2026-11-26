@@ -1,0 +1,452 @@
+{
+  "skill": {
+    "name": "writing-04-references",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-11-26T10:40:15Z",
+  "case_id": "writing-04-references-demo",
+  "status": "partial",
+  "results": {},
+  "evidence": [
+    {
+      "page": 8,
+      "bbox": [
+        56.25,
+        68.97,
+        296.77,
+        344.43
+      ]
+    },
+    {
+      "page": 8,
+      "bbox": [
+        315.45,
+        260.73,
+        555.98,
+        730.17
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        677.7,
+        296.6,
+        710.8
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        652.7,
+        296.68,
+        673.55
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        637.75,
+        296.46,
+        648.75
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        597.6,
+        296.67,
+        608.6
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        582.45,
+        296.81,
+        593.45
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        570.7,
+        296.41,
+        581.7
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        558.95,
+        296.4,
+        569.95
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        510.85,
+        296.67,
+        558.4
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        490.75,
+        296.52,
+        510.1
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        267.85,
+        296.8,
+        468.55
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        56.25,
+        169.95,
+        296.61,
+        260.8
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        315.45,
+        690.33,
+        555.46,
+        709.43
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        315.45,
+        419.25,
+        555.95,
+        526.9
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        398.85,
+        550.15,
+        545.04,
+        684.85
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "kind": "pdf",
+      "path": "Conservation_Is_All_You_Need.pdf",
+      "bytes": 752191
+    }
+  ],
+  "warnings": [],
+  "uncertainty": [
+    "正文引用了但列表里没有的编号：2, 15, 16, 17, 18, 19, 20, 21, 22, 23"
+  ],
+  "text": "@misc{vaswani2022,\n  author = {Vaswani},\n  title  = {Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., and Polosukhin, I. Attention is all you need. In NeurIPS, 2017. [2] Bahdanau, D., Cho, K.,},\n  year   = {2022}\n}\n\n@misc{tay2019,\n  author = {Tay},\n  title  = {Tay, Y., Bahri, D., Yang, L., Metzler, D., and Juan, D.-C. Sparse Sinkhorn attention. In ICML, 2020. [15] Henry, A., Dachapally, P. R., Pawar, S., and Chen, Y. Query-key normalizat},\n  year   = {2019}\n}\n\n@misc{a0000,\n  author = {A},\n  title  = {A.1 Theorem 1 (conservation) Let P ∈ ℝn × n satisfy P 1 = 1 and P⊤ 1 = 1. Then 1⊤ P = (P⊤ 1)⊤ = 1⊤, so 1⊤ P V = 1⊤ V for every V. The second claim is}\n}\n\n@misc{the0000,\n  author = {the},\n  title  = {the row constraint. □ Corollary 1 follows because the total mass 1⊤ P 1 = n is}\n}\n\n@misc{fixed0000,\n  author = {fixed},\n  title  = {fixed and every column contributes exactly one, so the}\n}\n\n@misc{for0000,\n  author = {For},\n  title  = {For any matrix, ‖P‖2 ≤ ‖P‖ ‖P‖ (Hölder). For doubly}\n}\n\n@misc{stochastic0000,\n  author = {stochastic},\n  title  = {stochastic P, ‖P‖1 = maxj ∑i Pij = 1 and ‖P‖∞ = maxi ∑j Pij}\n}\n\n@misc{ref0000,\n  author = {ref},\n  title  = {= 1, so ‖P‖2 ≤ 1 and ‖P(V - V')‖2 ≤ ‖V - V'‖2. Equality}\n}\n\n@misc{requires0000,\n  author = {requires},\n  title  = {requires ‖P‖2 = 1, which for a nonnegative matrix with unit}\n}\n\n@misc{row0000,\n  author = {row},\n  title  = {row and column sums forces P to be a permutation: if two rows share a column with positive mass, the corresponding columns must be linearly dependent. □ Theorem 4 (closure). If P, }\n}\n\n@misc{then0000,\n  author = {then},\n  title  = {then ∏ℓ Pℓ is doubly stochastic. Indeed (P1 P2) 1 = P1 1 = 1 and 1⊤ (P P) = 1⊤ P = 1⊤, and nonnegativity is preserved.}\n}\n\n@misc{a00002,\n  author = {A},\n  title  = {A.3 Theorem 3 (simulation) Let A be row-stochastic and set B = A/n. Then B 1 = 1/n and B⊤ 1 ≤ 1, so every row and column sum of B is at most one. By the doubly stochastic extension}\n}\n\n@misc{a00003,\n  author = {A},\n  title  = {A.4 Note on the gradient The claim in Section 4.4 follows from the envelope theorem applied to F(C) = minP ∈ U(1,1) ⟨ P, C ⟩ - ε H(P), which is a minimum of affine functions of C a}\n}\n\n@misc{table0000,\n  author = {Table},\n  title  = {Table 7: Model and optimization hyperparameters. All models use the same recipe; only the attention normalizer differs between arms.}\n}\n\n@misc{c0000,\n  author = {C},\n  title  = {C Distractor probe We concatenate a short sentiment sentence with k unrelated news paragraphs and fine-tune the 1.4B models for 2B tokens on the task. With k = 8, uniform marginals}\n}\n\n@misc{ref2048,\n  author = {ref},\n  title  = {160M 12 768 12 64 4 0.5M 6e-4 2% 400B 0.05 3 410M 24 1024 16 64 4 1M 3e-4 2% 400B 0.05 3 1.4B 24 2048 16 128 4 2M 3e-4 2% 400B 0.05 3 7B 32 4096 32 128 4 2M 1.5e-4 2% 400B 0.05 3},\n  year   = {2048}\n}",
+  "references": [
+    {
+      "index": 1,
+      "raw": "[1] Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., and Polosukhin, I. Attention is all you need. In NeurIPS, 2017. [2] Bahdanau, D., Cho, K., and Bengio, Y. Neural machine translation by jointly learning to align and translate. In ICLR, 2015. [3] Birkhoff, G. Tres observaciones sobre el algebra lineal. Universidad Nacional de Tucumán Revista, Series A, 5:147-151, 1946. [4] Cuturi, M. Sinkhorn distances: lightspeed computation of optimal transport. In NeurIPS, 2013. [5] Peyré, G. and Cuturi, M. Computational optimal transport. Foundations and Trends in Machine Learning, 11(5-6):355-607, 2019. [6] Sinkhorn, R. and Knopp, P. Concerning nonnegative matrices and doubly stochastic matrices. Pacific Journal of Mathematics, 21(2):343-348, 1967. [7] Mirsky, L. On a convex set of matrices. Archiv der Mathematik, 10:88-92, 1959. [8] Chizat, L., Peyré, G., Schmitzer, B., and Vialard, F.-X. Scaling algorithms for unbalanced optimal transport problems. Mathematics of Computation, 87(314):2563-2609, 2018. [9] Luise, G., Rudi, A., Pontil, M., and Ciliberto, C. Differential properties of Sinkhorn approximation for learning with Wasserstein distance. In NeurIPS, 2018. [10] Dong, Y., Cordonnier, J.-B., and Loukas, A. Attention is not all you need: pure attention loses rank doubly exponentially with depth. In ICML, 2021. [11] Dehghani, M., Gouws, S., Vinyals, O., Uszkoreit, J., and Kaiser, Ł. Universal transformers. In ICLR, 2019. [12] Eisenberger, M., Toker, A., Brix, C., Cremers, D., and Bernard, F. A unified framework for implicit Sinkhorn differentiation. In CVPR, 2022. [13] Chowdhery, A., Narang, S., Devlin, J., et al. PaLM: scaling language modeling with pathways. arXiv:2204.02311, 2022.",
+      "year": "2022",
+      "doi": null,
+      "page": 8,
+      "bbox": [
+        56.25,
+        68.97,
+        296.77,
+        344.43
+      ]
+    },
+    {
+      "index": 2,
+      "raw": "[14] Tay, Y., Bahri, D., Yang, L., Metzler, D., and Juan, D.-C. Sparse Sinkhorn attention. In ICML, 2020. [15] Henry, A., Dachapally, P. R., Pawar, S., and Chen, Y. Query-key normalization for transformers. In EMNLP Findings, 2020. [16] Beltagy, I., Peters, M. E., and Cohan, A. Longformer: the long-document transformer. arXiv:2004.05150, 2020. [17] Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., and Liang, P. Lost in the middle: how language models use long contexts. TACL, 2024. [18] Kaplan, J., McCandlish, S., Henighan, T., et al. Scaling laws for neural language models. arXiv:2001.08361, 2020. [19] Franklin, J. and Lorenz, J. On the scaling of multidimensional matrices. Linear Algebra and its Applications, 114:717-735, 1989. [20] Hoffmann, J., Borgeaud, S., Mensch, A., et al. Training compute-optimal large language models. In NeurIPS, 2022. [21] Xiao, G., Tian, Y., Chen, B., Han, S., and Lewis, M. Efficient streaming language models with attention sinks. In ICLR, 2024. [22] Sun, M., Chen, X., Kolter, J. Z., and Liu, Z. Massive activations in large language models. arXiv:2402.17762, 2024. [23] Dao, T., Fu, D. Y., Ermon, S., Rudra, A., and Ré, C. FlashAttention: fast and memory-efficient exact attention with IO-awareness. In NeurIPS, 2022. [24] Gu, A. and Dao, T. Mamba: linear-time sequence modeling with selective state spaces. arXiv:2312.00752, 2023. [25] Choromanski, K., Likhosherstov, V., Dohan, D., et al. Rethinking attention with performers. In ICLR, 2021. [26] Elhage, N., Nanda, N., Olsson, C., et al. A mathematical framework for transformer circuits. Transformer Circuits Thread, 2021. [27] Olsson, C., Elhage, N., Nanda, N., et al. In-context learning and induction heads. Transformer Circuits Thread, 2022. [28] Genevay, A., Peyré, G., and Cuturi, M. Learning generative models with Sinkhorn divergences. In AISTATS, 2018. [29] Koehn, P. and Knowles, R. Six challenges for neural machine translation. In Workshop on Neural Machine Translation, 2017. [30] Xiong, R., Yang, Y., He, D., et al. On layer normalization in the transformer architecture. In ICML, 2020. [31] Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., and Sutskever, I. Language models are unsupervised multitask learners. OpenAI technical report, 2019. [32] Zoph, B., Bello, I., Kumar, S., et al. ST-MoE: designing stable and transferable sparse expert models. arXiv:2202.08906, 2022. [33] Su, J., Lu, Y., Pan, S., Murtadha, A., Wen, B., and Liu, Y. RoFormer: enhanced transformer with rotary position embedding. Neurocomputing, 568, 2024. [34] Shazeer, N. GLU variants improve transformer. arXiv:2002.05202, 2020. [35] Sander, M. E., Ablin, P., Blondel, M., and Peyré, G. Momentum conserver: momentum improves Sinkhorn's convergence. In ICLR, 2022. [36] Zhang, B. and Sennrich, R. Root mean square layer normalization. In NeurIPS, 2019.",
+      "year": "2019",
+      "doi": null,
+      "page": 8,
+      "bbox": [
+        315.45,
+        260.73,
+        555.98,
+        730.17
+      ]
+    },
+    {
+      "index": 3,
+      "raw": "A.1 Theorem 1 (conservation) Let P ∈ ℝn × n satisfy P 1 = 1 and P⊤ 1 = 1. Then 1⊤ P = (P⊤ 1)⊤ = 1⊤, so 1⊤ P V = 1⊤ V for every V. The second claim is",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        677.7,
+        296.6,
+        710.8
+      ]
+    },
+    {
+      "index": 4,
+      "raw": "the row constraint. □ Corollary 1 follows because the total mass 1⊤ P 1 = n is",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        652.7,
+        296.68,
+        673.55
+      ]
+    },
+    {
+      "index": 5,
+      "raw": "fixed and every column contributes exactly one, so the",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        637.75,
+        296.46,
+        648.75
+      ]
+    },
+    {
+      "index": 6,
+      "raw": "For any matrix, ‖P‖2 ≤ ‖P‖ ‖P‖ (Hölder). For doubly",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        597.6,
+        296.67,
+        608.6
+      ]
+    },
+    {
+      "index": 7,
+      "raw": "stochastic P, ‖P‖1 = maxj ∑i Pij = 1 and ‖P‖∞ = maxi ∑j Pij",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        582.45,
+        296.81,
+        593.45
+      ]
+    },
+    {
+      "index": 8,
+      "raw": "= 1, so ‖P‖2 ≤ 1 and ‖P(V - V')‖2 ≤ ‖V - V'‖2. Equality",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        570.7,
+        296.41,
+        581.7
+      ]
+    },
+    {
+      "index": 9,
+      "raw": "requires ‖P‖2 = 1, which for a nonnegative matrix with unit",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        558.95,
+        296.4,
+        569.95
+      ]
+    },
+    {
+      "index": 10,
+      "raw": "row and column sums forces P to be a permutation: if two rows share a column with positive mass, the corresponding columns must be linearly dependent. □ Theorem 4 (closure). If P, …, PL are doubly stochastic",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        510.85,
+        296.67,
+        558.4
+      ]
+    },
+    {
+      "index": 11,
+      "raw": "then ∏ℓ Pℓ is doubly stochastic. Indeed (P1 P2) 1 = P1 1 = 1 and 1⊤ (P P) = 1⊤ P = 1⊤, and nonnegativity is preserved.",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        490.75,
+        296.52,
+        510.1
+      ]
+    },
+    {
+      "index": 12,
+      "raw": "A.3 Theorem 3 (simulation) Let A be row-stochastic and set B = A/n. Then B 1 = 1/n and B⊤ 1 ≤ 1, so every row and column sum of B is at most one. By the doubly stochastic extension theorem [7] there is a doubly stochastic matrix Q of order 2n with Qij = Bij for i, j ≤ n. Therefore n   Q[1:n,1:n] V = A V, and the scalar n is absorbed into WO. □ Proposition 1 (dustbin). Let A be any row-stochastic matrix and b = A⊤ 1. Then A ∈ U(1, b), and U(1, b) is the feasible set of a balanced layer in which the column marginal is free. Hence the null-column variant contains every softmax attention pattern as a feasible point, and its optimum coincides with softmax attention in the limit where the null column absorbs the entire column defect. The first claim is a direct computation; the second follows from the standard equivalence between unbalanced transport with a free marginal and balanced transport with a dustbin [8]. □",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        267.85,
+        296.8,
+        468.55
+      ]
+    },
+    {
+      "index": 13,
+      "raw": "A.4 Note on the gradient The claim in Section 4.4 follows from the envelope theorem applied to F(C) = minP ∈ U(1,1) ⟨ P, C ⟩ - ε H(P), which is a minimum of affine functions of C and therefore concave in C; its gradient is P*, so ∂ P*/∂ C is symmetric and negative semidefinite with spectrum bounded by the entropy scale. The bound is tight in the uniform-plan limit, where P* does not depend on C at all.",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        56.25,
+        169.95,
+        296.61,
+        260.8
+      ]
+    },
+    {
+      "index": 14,
+      "raw": "Table 7: Model and optimization hyperparameters. All models use the same recipe; only the attention normalizer differs between arms.",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        315.45,
+        690.33,
+        555.46,
+        709.43
+      ]
+    },
+    {
+      "index": 15,
+      "raw": "C Distractor probe We concatenate a short sentiment sentence with k unrelated news paragraphs and fine-tune the 1.4B models for 2B tokens on the task. With k = 8, uniform marginals reach 88.4% accuracy, the null-column variant 91.2%, and the softmax baseline 90.6%. The result is the expected one: when the correct behaviour is to ignore most of the input, the ability to dump mass is worth having, and it is worth having as an option rather than as the only behaviour.",
+      "year": null,
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        315.45,
+        419.25,
+        555.95,
+        526.9
+      ]
+    },
+    {
+      "index": 16,
+      "raw": "160M 12 768 12 64 4 0.5M 6e-4 2% 400B 0.05 3 410M 24 1024 16 64 4 1M 3e-4 2% 400B 0.05 3 1.4B 24 2048 16 128 4 2M 3e-4 2% 400B 0.05 3 7B 32 4096 32 128 4 2M 1.5e-4 2% 400B 0.05 3",
+      "year": "2048",
+      "doi": null,
+      "page": 9,
+      "bbox": [
+        398.85,
+        550.15,
+        545.04,
+        684.85
+      ]
+    }
+  ],
+  "reconciliation": {
+    "cited_count": 36,
+    "listed_count": 13,
+    "cited_not_listed": [
+      2,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "listed_not_cited": []
+  },
+  "style": {
+    "bracketed": 2,
+    "dotted": 0,
+    "mixed": false,
+    "total": 16
+  },
+  "duplicates": [],
+  "quality": {
+    "total": 16,
+    "without_doi": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "without_year": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "wall_time_s": 0.3
+}

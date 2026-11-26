@@ -1,0 +1,3813 @@
+{
+  "skill": {
+    "name": "reading-03-translation",
+    "version": "0.1.0"
+  },
+  "generated_at": "2026-11-26T10:40:12Z",
+  "case_id": "reading-03-translation-demo",
+  "status": "partial",
+  "results": {},
+  "evidence": [
+    {
+      "id": "p1-4",
+      "page": 1,
+      "bbox": [
+        242.95,
+        641.12,
+        369.2,
+        651.58
+      ],
+      "sha1_16": "d46584eb245a40f6"
+    },
+    {
+      "id": "p1-5",
+      "page": 1,
+      "bbox": [
+        95.85,
+        493.57,
+        515.87,
+        628.52
+      ],
+      "sha1_16": "612cdd712e102f35"
+    },
+    {
+      "id": "p1-6",
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ],
+      "sha1_16": "9ffcdac435336d45"
+    },
+    {
+      "id": "p1-7",
+      "page": 1,
+      "bbox": [
+        303.6,
+        28.5,
+        555.72,
+        484.0
+      ],
+      "sha1_16": "bdf3618334376a0b"
+    },
+    {
+      "id": "p2-8",
+      "page": 2,
+      "bbox": [
+        56.25,
+        399.55,
+        296.8,
+        729.95
+      ],
+      "sha1_16": "64e00f492b62d797"
+    },
+    {
+      "id": "p2-10",
+      "page": 2,
+      "bbox": [
+        56.25,
+        308.57,
+        296.77,
+        370.85
+      ],
+      "sha1_16": "75eb4f2789d6cf47"
+    },
+    {
+      "id": "p2-11",
+      "page": 2,
+      "bbox": [
+        145.7,
+        309.1,
+        241.16,
+        314.16
+      ],
+      "sha1_16": "2c1a7d140910caa3"
+    },
+    {
+      "id": "p2-12",
+      "page": 2,
+      "bbox": [
+        127.5,
+        297.12,
+        225.54,
+        307.57
+      ],
+      "sha1_16": "c2376572b0d7de06"
+    },
+    {
+      "id": "p2-13",
+      "page": 2,
+      "bbox": [
+        213.75,
+        294.45,
+        215.79,
+        299.51
+      ],
+      "sha1_16": "13fbd79c3d390e5d"
+    },
+    {
+      "id": "p2-14",
+      "page": 2,
+      "bbox": [
+        102.3,
+        282.77,
+        296.77,
+        296.43
+      ],
+      "sha1_16": "cf65ca9eb1b1c4b9"
+    },
+    {
+      "id": "p2-15",
+      "page": 2,
+      "bbox": [
+        56.25,
+        175.1,
+        296.73,
+        278.7
+      ],
+      "sha1_16": "9c98bb1379e74183"
+    },
+    {
+      "id": "p2-16",
+      "page": 2,
+      "bbox": [
+        56.25,
+        131.75,
+        296.48,
+        168.05
+      ],
+      "sha1_16": "929dce04e7adc5d5"
+    },
+    {
+      "id": "p2-17",
+      "page": 2,
+      "bbox": [
+        116.75,
+        121.55,
+        118.71,
+        126.61
+      ],
+      "sha1_16": "df58248c414f342c"
+    },
+    {
+      "id": "p2-18",
+      "page": 2,
+      "bbox": [
+        96.3,
+        91.33,
+        296.77,
+        127.58
+      ],
+      "sha1_16": "7a9d1131b10f4780"
+    },
+    {
+      "id": "p2-19",
+      "page": 2,
+      "bbox": [
+        162.35,
+        91.75,
+        165.79,
+        96.81
+      ],
+      "sha1_16": "a979ef10cc6f6a36"
+    },
+    {
+      "id": "p2-20",
+      "page": 2,
+      "bbox": [
+        56.25,
+        64.3,
+        296.7,
+        87.05
+      ],
+      "sha1_16": "1103f67f202bc2a7"
+    },
+    {
+      "id": "p2-21",
+      "page": 2,
+      "bbox": [
+        303.6,
+        28.5,
+        555.97,
+        729.95
+      ],
+      "sha1_16": "22e7004ed091edc5"
+    },
+    {
+      "id": "p2-22",
+      "page": 2,
+      "bbox": [
+        413.4,
+        682.17,
+        416.11,
+        687.56
+      ],
+      "sha1_16": "da4b9237bacccdf1"
+    },
+    {
+      "id": "p2-23",
+      "page": 2,
+      "bbox": [
+        315.45,
+        584.9,
+        555.95,
+        688.5
+      ],
+      "sha1_16": "d1c8a8b6a8d9595a"
+    },
+    {
+      "id": "p2-24",
+      "page": 2,
+      "bbox": [
+        315.45,
+        286.15,
+        555.74,
+        577.85
+      ],
+      "sha1_16": "bd37bdde14e7e298"
+    },
+    {
+      "id": "p2-26",
+      "page": 2,
+      "bbox": [
+        315.45,
+        213.0,
+        555.7,
+        257.45
+      ],
+      "sha1_16": "ce0aa8563329da9a"
+    },
+    {
+      "id": "p2-27",
+      "page": 2,
+      "bbox": [
+        350.7,
+        210.18,
+        407.72,
+        215.56
+      ],
+      "sha1_16": "d7dc1e898bf2b4bb"
+    },
+    {
+      "id": "p2-28",
+      "page": 2,
+      "bbox": [
+        369.85,
+        183.82,
+        555.97,
+        208.62
+      ],
+      "sha1_16": "a295d4963ada01aa"
+    },
+    {
+      "id": "p2-29",
+      "page": 2,
+      "bbox": [
+        415.75,
+        184.35,
+        436.9,
+        189.41
+      ],
+      "sha1_16": "ebd46106bea43758"
+    },
+    {
+      "id": "p2-30",
+      "page": 2,
+      "bbox": [
+        508.3,
+        173.43,
+        510.39,
+        178.81
+      ],
+      "sha1_16": "df58248c414f342c"
+    },
+    {
+      "id": "p2-31",
+      "page": 2,
+      "bbox": [
+        315.45,
+        111.0,
+        555.92,
+        179.75
+      ],
+      "sha1_16": "955e721c6cd3962b"
+    },
+    {
+      "id": "p3-32",
+      "page": 3,
+      "bbox": [
+        56.25,
+        720.62,
+        236.42,
+        729.98
+      ],
+      "sha1_16": "f821a6136d181fa7"
+    },
+    {
+      "id": "p3-33",
+      "page": 3,
+      "bbox": [
+        59.25,
+        709.38,
+        152.21,
+        717.62
+      ],
+      "sha1_16": "6e09ae7b7fcca309"
+    },
+    {
+      "id": "p3-34",
+      "page": 3,
+      "bbox": [
+        112.65,
+        707.15,
+        114.33,
+        711.33
+      ],
+      "sha1_16": "13fbd79c3d390e5d"
+    },
+    {
+      "id": "p3-35",
+      "page": 3,
+      "bbox": [
+        59.25,
+        649.38,
+        241.18,
+        705.48
+      ],
+      "sha1_16": "55be933c9e7e36fc"
+    },
+    {
+      "id": "p3-36",
+      "page": 3,
+      "bbox": [
+        56.25,
+        525.85,
+        296.69,
+        629.45
+      ],
+      "sha1_16": "fc981348d54753db"
+    },
+    {
+      "id": "p3-37",
+      "page": 3,
+      "bbox": [
+        56.25,
+        341.32,
+        296.56,
+        409.18
+      ],
+      "sha1_16": "5949f6c5e2fb3850"
+    },
+    {
+      "id": "p3-38",
+      "page": 3,
+      "bbox": [
+        56.25,
+        62.3,
+        296.82,
+        334.3
+      ],
+      "sha1_16": "53ef29db1905eed5"
+    },
+    {
+      "id": "p3-39",
+      "page": 3,
+      "bbox": [
+        303.6,
+        28.5,
+        555.49,
+        729.95
+      ],
+      "sha1_16": "49350cbe67ed854f"
+    },
+    {
+      "id": "p3-40",
+      "page": 3,
+      "bbox": [
+        315.45,
+        537.0,
+        555.81,
+        677.25
+      ],
+      "sha1_16": "17bee7e8f2dc6e49"
+    },
+    {
+      "id": "p3-41",
+      "page": 3,
+      "bbox": [
+        315.45,
+        499.52,
+        555.98,
+        528.58
+      ],
+      "sha1_16": "6c8f77f9cda9228e"
+    },
+    {
+      "id": "p3-42",
+      "page": 3,
+      "bbox": [
+        317.45,
+        433.02,
+        546.49,
+        494.32
+      ],
+      "sha1_16": "7e04b77b4ebc8bb7"
+    },
+    {
+      "id": "p3-43",
+      "page": 3,
+      "bbox": [
+        315.45,
+        189.65,
+        556.03,
+        412.45
+      ],
+      "sha1_16": "fb557ed27b414ed7"
+    },
+    {
+      "id": "p3-44",
+      "page": 3,
+      "bbox": [
+        315.45,
+        118.8,
+        555.63,
+        180.05
+      ],
+      "sha1_16": "052795e8df8e6b77"
+    },
+    {
+      "id": "p3-45",
+      "page": 3,
+      "bbox": [
+        315.45,
+        78.85,
+        555.73,
+        111.75
+      ],
+      "sha1_16": "7cef4099b4b1a666"
+    }
+  ],
+  "sources": [
+    {
+      "kind": "pdf",
+      "path": "Conservation_Is_All_You_Need.pdf",
+      "bytes": 752191
+    }
+  ],
+  "warnings": [],
+  "uncertainty": [
+    "本模式下译文由调用方（Agent）产出；请把译文按段落顺序填入后重新调用，assembled 模式会执行数字、单位、引用与术语的机械核验。"
+  ],
+  "text": "Paper under double-blind review\nAbstract Every Transformer layer routes information between positions with an attention matrix whose rows sum to one. Nothing constrains its columns. We show that this missing constraint, rather than depth or width, is what limits what a language model can do with its context. Balancing both marginals turns each attention layer into an entropic optimal transport plan, computed by three Sinkhorn iterations at a 3% training overhead. The constraint is not a regularizer: it makes every layer a convex combination of token permutations, so routing conserves mass, no token can become a sink, and the routing operator is non-expansive at every depth. Softmax attention is recovered exactly as unbalanced transport with a dustbin, so no expressivity is lost. Across 160M to 7B parameters trained on 400B tokens, balanced attention improves perplexity at every scale, matches the 7B baseline with 1.8× less compute, keeps improving to 96 layers where the baseline degrades, and raises 1M-token retrieval accuracy from 27% to 42%. The plans it learns are readable: they recover word alignments the model was never trained to produce.\n1 Introduction A Transformer is a machine for moving information between positions. At every layer each token emits a query, each token offers a key and a value, and an attention matrix decides how much of each value reaches each position. The design is deliberately asymmetric. Rows of the attention matrix are normalized to sum to one, so every query spends exactly one unit of attention, but no constraint is placed on the columns. A key may receive attention from every query in the sequence, or from none. For a decade of context windows this asymmetry was invisible. At 105 to 106 tokens it dominates behaviour. A small number of positions, usually the first token or a delimiter, absorb a large fraction of all attention mass in every layer [21]. A handful of dimensions in a handful of tokens grow by three orders of magnitude and act as learned biases [22]. Representations collapse toward a single direction with depth once skip connections are removed [10]. The norm of the residual stream grows monotonically, and practitioners insert QK-norm [15], z- loss, and logit capping to keep training stable [13, 32]. Each is a mitigation for the same underlying event: routing that can create and destroy mass. We trace these failures to a single missing property and supply it. If the attention matrix is required to be balanced, so that every row and every column sums to one, then the layer is the solution of an entropy-regularized optimal transport problem between queries and keys with uniform marginals. The change is one line of code. Its consequences are not local. A balanced attention matrix is a convex combination of permutation matrices (Birkhoff, 1946), so the layer is a randomized routing of tokens rather than a lossy mixing of them. Because the set of doubly stochastic matrices is closed under multiplication, depth composes routing without accumulating drift: the network's depth is a time\n1 axis along which a probability measure on tokens evolves, and uniform is its stationary measure. Because the spectral norm of a doubly stochastic matrix is at most one, the routing operator is non-expansive, so the gradient of a 96- layer stack is not a product of exploding or vanishing matrices. And because every key receives exactly one unit of mass, no token can become a sink: concentration is fixed by the marginal, not learned. None of this costs expressivity. Softmax attention is unbalanced transport in which the column marginal is free; it is the ε → 0 limit of a problem whose second constraint has been dropped. Restoring the constraint is a restriction only if the model needs to dump mass somewhere, and the standard construction for that need is a dustbin: a single extra key whose marginal is unconstrained. We show that adding one null column recovers softmax attention as a special case (Proposition 1) and that it recovers most of the accuracy gap on tasks that reward ignoring context (Table 6). We test the claim at scale. Training decoder-only models from 160M to 7B parameters on 400B tokens, with every hyperparameter other than the normalizer held fixed, balanced attention improves perplexity at all four scales and widens its accuracy advantage as models grow (from +1.1 to +1.8 points of average zero-shot accuracy). A scaling- law fit attributes to it a 0.08 nat lower irreducible loss, worth a 1.8× compute advantage at the 7B operating point. Depth scaling, which is where row-stochastic routing degrades most visibly, becomes monotone: at 96 layers the baseline loses 5.9 perplexity points relative to its 48-layer version, and the balanced model loses 0.1. On RULER at one million tokens we measure 42.1% average accuracy against 27.4%, and on needle-in-a-haystack 71.8% against 46.2%. The attention plans are directly interpretable: a single balanced cross-attention head recovers English- German word alignments with an alignment error rate of 0.19, without supervision.\nOur contributions are: • A conservation law for attention. We introduce balanced attention, an attention layer whose routing matrix is doubly stochastic and therefore the solution of an entropic optimal transport problem, and show that it can be dropped into any Transformer at 3% overhead. • Theory. We prove that balanced layers are closed under composition, that they are non-expansive and hence depth- stable, that no token can become a sink, and that they are at least as expressive as softmax attention up to a 2× token augmentation (Theorems 1-3). • Scale. We train 160M-7B parameter models on 400B tokens and show consistent gains in perplexity, zero-shot accuracy, depth scaling, long-context retrieval, and translation. • Mechanism. We isolate where the gains come from: the elimination of attention sinks and hub formation, a flatter spectrum of attention entropy across depth, and a 4.1× reduction in the variance of gradient norms across layers. • Interpretability. Because the layer is a transport plan, its attention is an alignment. We read alignments directly off balanced heads and quantify them against gold word alignments. The rest of the paper develops the idea in the order in which it has to be believed: the background and the precise failure being repaired (Section 2), the layer and its variants (Section 3), the properties that make it more than a normalization trick (Section 4), and the evidence (Section 5).\n2.1 Attention and the residual stream A decoder-only Transformer stacks L blocks around a residual stream X ∈ ℝn × d, where n is the sequence length. Block ℓ computes Q = Xℓ W, K = Xℓ W, V = Xℓ W, (1)\nQ K V\nA = softmax(QK⊤/√(d)),\nk\nXℓ+1 = Xℓ + AVWO + MLP(Xℓ + AVWO), (2)\nwith the softmax taken over the key axis. The matrix A is row-stochastic by construction: A 1 = 1 and A ≥ 0. It is the only place in the architecture where positions exchange information, which makes it the natural locus of any claim about what a model can do with its context. Modern baselines add Pre-RMSNorm [36], SwiGLU [34], rotary position embeddings [33], QK-norm [15], and a small z- loss [32]; we adopt this combination, which we call Transformer++, as our baseline throughout.\n2.2 Entropic optimal transport Let C ∈ ℝn × n be a cost matrix and a, b ∈ Δn two probability vectors. The entropic optimal transport problem is\n*\nP = argminP ∈ U(a,b) ⟨ P, C ⟩ - ε H(P), H(P) = -∑i,j Pij (log Pij - 1), (3) U(a,b) = { P ∈ ℝn × n : P 1 = a, P⊤ 1 = b }. (4)\n+\nThe solution is unique, has the form P = diag(u) K diag(v) with K = exp(-C/ε), and is computed by alternately scaling\n2 rows and columns to their prescribed marginals [Sinkhorn and Knopp, 1967; Cuturi, 2013]: u ← a / (K v), v ← b / (K⊤ u). (5)\n2\nEach iteration costs O(n), the same as one attention matrix product, and converges linearly in the Hilbert metric at a rate that depends on ε [19]. Because the map C ↦ P* is the gradient of a convex function, it is differentiable, and gradients can be obtained either by unrolling a finite number of iterations or by implicit differentiation of the fixed point [12, 28]. We use three unrolled iterations in the log domain, which is the smallest number that reaches a 1% marginal error in our ablations (Table 6).\n2.3 What goes wrong when routing is unbalanced Row-stochastic routing admits solutions in which a single key receives a constant fraction of all attention regardless of the query. Xiao et al. [21] document that the first token of a streaming context becomes exactly this: a sink that absorbs 40-80% of attention in the first two layers, which is why discarding its key and value is nearly free. Sun et al. [22] show that the sink co-occurs with massive activations in a few channels, and that clamping those channels removes the sink without changing perplexity much, which suggests the model is using the sink as a bias rather than as information. The same geometry explains a subtler failure. If a key's inbound mass is unconstrained, a model that needs to make one rare fact reliably readable can either copy it into a high- traffic hub, paying a collision cost on every query, or spread it thinly and rely on precise queries. The first strategy is cheaper to learn and is what we observe: an effective context that is far smaller than the nominal one [17]. Existing remedies bound the symptom. QK-norm bounds the logits, z-loss bounds the partition function, gating bounds the update, and explicit sink tokens give the model a designated place to dump mass. None of them constrains the column marginal, which is the quantity that decides whether a rare token can be found.\n3.1 The layer We replace the row normalization of Equation 2 with a two-sided one. Given queries and keys we form the cost matrix C = -q⊤ k/√(d) and define\nij i j k\nBalancedAttn(X) = P* V, P* = argmin ⟨ P, C ⟩ - ε H(P). (6)\nP ∈ U(1,1)\n*\nThe marginals are the all-ones vector, so P is doubly stochastic: every query spends one unit of attention and every key receives one unit. Nothing else in the block changes. Algorithm 1 gives the implementation, which is the softmax attention kernel with one extra reciprocal and one extra product per Sinkhorn iteration.\nAlgorithm 1 Balanced attention (log domain, T=3).\n1: C ← -QK⊤/√(d); L ← -C/ε\nk\n2: u ← 0, v ← 0 (log scaling vectors, carried across layers) 3: for t = 1 … T: 4: u ← -logsumexpj(Lij + vj) 5: v ← -logsumexpi(Lij + ui) 6: P ← exp(L + u 1⊤ + 1 v⊤) 7: return P V\nTwo details matter in practice. First, the iteration is run in the log domain with a running subtraction of the row maximum; without it, three iterations at ε = 0.05 overflow in bf16 for sequence lengths beyond 8K. Second, the scaling vectors are warm-started from the previous layer's solution, which reduces the marginal error after three iterations by a factor of four in our measurements and makes the layer's cost independent of n in the regime we care about.\nFigure 1: A conservation law for attention. Left: a cost matrix with a sink in the first column and a hub in the fifth. Middle: row normalization (softmax) spends each row's unit of mass but lets the sink accumulate 57% of all mass, so the model can read it and little else. Right: balancing both marginals (ours) forces every column to receive exactly one unit, so the hub must also pay. Bars show the marginals; both are uniform on the right.\n3.2 The marginals are a design space Uniform marginals are the default and the choice we use unless stated otherwise, but the formulation exposes three knobs that a row-normalized layer does not have. Learned marginals. A single linear head predicts a, b ∈ Δn from the layer input and normalizes them with a softmax; the Sinkhorn iteration is unchanged. This costs O(nd) and lets the model decide that some positions deserve more inbound mass than others, for example the tokens of a retrieved passage. In our ablations, learned marginals improve perplexity by a further 0.2 over uniform ones (Table 6). The null column. Concatenating a single extra key whose marginal is free turns the layer into unbalanced transport with a dustbin, which is exactly softmax attention in the limit where the dustbin absorbs all excess mass. This is the variant to use when the task rewards ignoring the context, such as classification with long distractors or padding-heavy batches. Cross-attention marginals. For encoder-decoder models the two marginals have different meanings: the source marginal is the attention each source token receives, and the target marginal is the budget each target position\n3 spends. Setting both to uniform makes the layer a fertility model in the sense of statistical machine translation [2]: every source word is explained exactly once, on average. Section 5.6 shows that this is what the layer learns to do.\n3.3 Cost The added work is T pairs of row and column reductions over an n × n matrix, which is the same order as the attention matrix product and, at T = 3, 3.1% of total training FLOPs at the 1.4B scale. Table 1 reports measured cost. At inference the plan can be recomputed per step or cached with the key-value cache; because the column marginal is a property of the whole prefix, we recompute it over the cached keys, which adds 2.4% latency at 128K tokens. A fused kernel that keeps L, u, and v in shared memory removes the intermediate materialization and brings the overhead to 0.9%.\nTable 1: Cost of a balanced layer relative to softmax attention, measured on 8×H100 with sequence length 8K and d=2048. Overheads are for the full model, not the layer.\nVariant Attention (softmax) Balanced, T=1 Balanced, T=3 + fused kernel Balanced, T=5, fused GFLOPs 1.00 1.02 1.06 1.06 1.10 Δ — +2.0% +6.1% +6.1% +10.2% Step 1.00 1.01 1.03 1.01 1.02 Latency — +0.7% +2.4% +0.9% +1.4%\n3.4 Scaling to long contexts The quadratic cost of the plan is inherited from attention, but the formulation makes two approximations principled rather than ad hoc. Block balancing solves the transport problem independently on windows of size w and adds the window marginals as a small correction, which costs O(nw) and preserves the column constraint exactly within each block. Balanced top-k restricts each query to its k largest entries of C before balancing; because the marginal constraint fixes the total mass, the truncation error is bounded by the mass that the plan places outside the top-k set, which can be measured at run time and used to adapt k. We use block balancing with w = 4096 beyond 128K tokens and report its cost in Table 6. Both approximations preserve the property that motivates the layer. A block-balanced layer is a direct sum of doubly stochastic matrices, which is doubly stochastic; a top-k balanced layer is doubly stochastic on the retained support. Neither can create a sink.\n4 Why It Works This section states the four properties that separate balanced attention from a normalization trick. Proofs are in Appendix A; all are short, and none depends on the data distribution.\n4.1 Conservation and the impossibility of a sink Theorem 1 (Conservation). Let P be doubly stochastic and V ∈ ℝn × d. Then 1⊤ P V = 1⊤ V and P 1 = 1.\nIn words: the routing operator neither creates nor destroys mass, and every key receives exactly the amount of attention that a query spends. The immediate corollary is the one that matters for long contexts. Corollary 1 (No sinks). For P ∈ U(1,1), every column sums to one. Hence the fraction of total routing mass captured by the most-attended key is exactly 1/n, independently of depth, input, and training. Under row normalization the same quantity is maxj ∑i Aij / n, which the model is free to make as large as one, and does: Figure 4 measures 0.61 in a 7B baseline. Under balancing it is a constant. A hub can still exist in the sense that many queries rank it first, but it cannot absorb: once its unit of mass is spent, later queries are routed elsewhere. The capacity constraint, not the model's discretion, decides concentration. Corollary 1 also explains why the layer is more interpretable. A transport plan with uniform marginals is a balanced alignment, so the row and column sums of an attention head can be read as statements about which source tokens were explained and which target positions paid for them. We exploit this in Section 5.8.\n4.2 Depth stability Theorem 2 (Non-expansiveness). For any doubly stochastic P and any V, V', ‖P(V - V')‖2 ≤ ‖V - V'‖2. Moreover σmax(P) ≤ 1, with equality if and only if P is a permutation matrix. The proof is one line of Hölder: ‖P‖2 ≤ √(‖P‖1‖P‖∞) = 1, because both induced norms of a doubly stochastic matrix are one. The consequence is that the routing path through a stack of L layers is a product of non-expansive maps, hence non-expansive; the Jacobian of the value path has spectral norm at most one at every depth. Row- stochastic matrices have no such bound: a column that receives c units contributes a singular value of order c, which is how a single hub makes the deep Jacobian ill- conditioned and why the residual stream grows with depth. Theorem 2 does not claim that the whole network is non- expansive: the logits depend on the input, so P itself moves with X. It isolates the part of the computation that is linear in the values and shows that this part contributes nothing to the depth-Lipschitz constant. Empirically this is where the depth-scaling gains come from (Table 3).\n4.3 Expressivity Balancing restricts the attention matrix, so the obvious question is what it costs. The answer is nothing, up to a constant factor in tokens. Theorem 3 (Simulation). Let A be any row-stochastic attention matrix. There is a doubly stochastic matrix Q of order 2n whose leading n × n block equals A/n. Hence for any values V, n   Q[1:n, 1:n] V = A V, and the factor n is absorbed by the output projection WO. The proof applies the classical doubly stochastic extension theorem [Mirsky, 1959] to A/n, whose row and column sums are both at most one. The construction adds n auxiliary tokens, so the simulation costs a 4× attention\n4 matrix; in practice a single null column is enough, because that column absorbs the column defect exactly (Proposition 1 in Appendix A). This is the formal content of the claim that softmax attention is unbalanced transport with a dustbin: the dustbin is the auxiliary mass, and balancing removes it only when the data does not need it.\n4.4 The geometry of the gradient The map from costs to plans is the gradient of a convex function, which gives the layer an unusually well-behaved backward pass. Let F(C) = minP ∈ U(1,1) ⟨ P, C ⟩ - ε H(P) be the regularized transport value. F is convex and positively\n*\nhomogeneous in C, and by the envelope theorem ∇C F = P.\n*\nIt follows that the Jacobian ∂ P/∂ C is symmetric and positive semidefinite, and that it scales as 1/ε. Three consequences we observe: the gradient of the attention logits is a projection onto the tangent space of the transport polytope rather than an unconstrained rescaling; its norm is bounded by the entropy scale ε; and the variance of gradient norms across layers falls by a factor of 4.1 relative to the baseline in our 7B runs, which is why we can train 96 layers without a warmup longer than 2% of the run. The price of the 1/ε scaling is that ε is a genuine hyperparameter, not a numerical detail: small ε approaches hard assignment and sharpens gradients, large ε approaches the uniform plan and flattens them. Table 6 sweeps it; ε = 0.05 is the best value at every scale we tried, and the curve is flat between 0.03 and 0.1.\n4.5 A Markov reading of depth Because the set of doubly stochastic matrices is closed under multiplication, the composition of L routing operators is itself doubly stochastic. The depth of the network is therefore a time axis along which a measure on tokens evolves under a Markov chain whose stationary distribution is uniform, and whose transition matrix at step ℓ is the plan computed at layer ℓ. This is a stronger statement than conservation at each layer: it says that no sequence of layers can conspire to concentrate mass, because the product of doubly stochastic matrices is doubly stochastic (Theorem 4, Appendix A). Informally, the model cannot develop a preference for a token that it carries through depth; it can only develop a preference for a token at a particular layer. The reading also clarifies what the MLP does. The MLP is position-wise, so it does not move mass between positions; it changes what each position means, and therefore what the next layer's costs will be. The division of labour is clean: attention conserves and routes, the MLP transforms. Under row normalization attention both routes and transforms, and the two are entangled in a way that is hard to attribute.\n5 Experiments Our experiments ask four questions. Does the constraint help at scale, and does its benefit grow? Does it do what the theory says, namely make depth monotone and remove\nsinks? Does it transfer beyond language modeling? And which part of the mechanism is responsible?\n5.1 Setup Models. We train decoder-only Transformers at 160M, 410M, 1.4B, and 7B parameters (12/24/24/32 layers; d = 768/1024/2048/4096). All models use Pre-RMSNorm,\n-4\nSwiGLU, RoPE, QK-norm, and a router z-loss of 10, and are trained for 400B tokens with a 2M-token batch, a 3e-4 peak learning rate, and a cosine schedule with 2% warmup. Appendix B lists every hyperparameter. Baselines. Transformer++ is the architecture above with softmax attention. We also report a QK-norm-only variant in the depth study, and a column-normalized layer (every column sums to one, rows free) in the ablations, to separate the effect of the constraint from the effect of normalizing twice. Data. A 1.5T-token mixture of web text (60%), code (25%), and mathematical text (15%), tokenized with a 64K byte-level BPE vocabulary. All models see the same 400B tokens in the same order. Evaluation is on WikiText-103, C4, PIQA, HellaSwag, ARC-easy, and MMLU, plus RULER for long context and WMT24 for translation.\n5.2 Language modeling Table 2 reports the main result. Balanced attention improves perplexity at every scale, and the improvement in downstream accuracy grows with model size: +1.1 points at 160M, +1.3 at 410M, +1.4 at 1.4B, and +1.8 at 7B. The relative perplexity gap grows with scale (3.3%, 4.5%, 5.9%, 7.7%), which is the signature of a change in the architecture's scaling behaviour rather than a fixed additive improvement. The pattern of gains is diagnostic. The largest improvements are on tasks that require retrieving a specific low-frequency token from a long context: MMLU (+1.7), HellaSwag (+2.2), and ARC-easy (+2.5) at 7B. The smallest are on PIQA (+0.9), where the answer is usually recoverable from the question alone. This is what Corollary 1 predicts: a layer that must give every key a unit of mass cannot ignore a rare key, so the information it carries remains readable at depth.\nTable 2: Main results at 400B tokens. Perplexity (lower is better) on WikiText-103 and C4; zero-shot accuracy (higher is better) on four benchmarks. Averages are over the four accuracy columns. All differences except PIQA at 160M are significant at p < 0.01 over three seeds.\nModel\n160M Balanced\n410M Balanced\n1.4B Balanced 7B Transformer++ 7B Balanced 160M Transformer++\n410M Transformer++\n1.4B Transformer++ Wiki 24.6 23.8 17.9 17.1 13.6 12.8 10.4 9.6 C4 22.1 21.4 16.4 15.7 12.9 12.1 10.1 9.4 PIQA 60.1 61.4 66.8 68.0 72.1 73.2 76.9 77.8 HS 28.9 29.8 35.6 36.9 43.7 45.1 56.2 58.4 ARC-e 43.2 44.9 52.1 53.8 62.4 64.6 73.1 75.6 MMLU 24.5 25.2 25.9 26.8 27.6 28.9 30.4 32.1 Avg 39.2 40.3 45.1 46.4 51.5 52.9 59.2 61.0\n5 5.3 Scaling laws Figure 2 fits a power law L(C) = a + b  C-α to the loss at 16 checkpoints per run, where C is training compute. Both architectures give α = 0.20 ± 0.01, that is, the same exponent. They differ in the irreducible term: a = 1.63 for Transformer++ and a = 1.55 for balanced attention, with b\n-1/α\n= 1.25 for both. Because compute scales as (L - a)\n, the\n0.08 nat difference is worth a factor of 1.8 in compute at the 7B operating point (loss 2.26 nats per token), and 1.5 at 1.4B. Balanced attention does not change how fast models improve; it changes how far they can go.\nFigure 2: Scaling. Training loss against compute for balanced attention and Transformer++, with power-law fits. The slopes are identical (α = 0.20); the intercepts differ by 0.08 nats, which is worth 1.8× compute at the 7B operating point (arrow).\n5.4 Depth If Theorem 2 is the reason for the gains, they should be largest where depth is largest. We train 410M-parameter models at 12, 24, 48, and 96 layers with width held fixed, and report perplexity in Table 3. The baseline is non- monotone beyond 48 layers: 96 layers are 5.9 perplexity points worse than 48. QK-norm, which bounds the logits and is the standard fix, recovers 5.1 of those points but does not make the curve monotone. Balanced attention is monotone throughout: 96 layers are 0.1 points better than 48. The gradient statistics explain the difference. In the baseline, the variance of per-layer gradient norms grows\n0.31 L\nexponentially with depth (a factor of e\nin our\nmeasurements); in the balanced model it is flat. Theorem 2 bounds the value path, and the bound is evidently the binding constraint in practice.\nTable 3: Depth scaling at 410M parameters with width fixed at d=1024. Perplexity on WikiText-103 after 100B tokens.\nModel Transformer++ + QK-norm Balanced (ours) 12 layers 18.4 18.3 18.0 24 layers 17.9 17.8 17.1 48 layers 18.8 18.1 16.6 96 layers 24.7 19.6 16.5\n5.5 Long context We continue training the 1.4B models on 32K-token sequences for 20B tokens and evaluate on RULER at four lengths. Table 4 and Figure 3 report the result. The baseline degrades by 57 points between 4K and 1M tokens; the balanced model degrades by 43, and the gap at 1M is 14.7\npoints. Needle-in-a-haystack at 1M tokens, the most direct test of whether a rare key can be found, improves from 46.2% to 71.8%. The improvement is not uniform across RULER's subtasks. It is largest on multi-needle retrieval (+22.4), variable tracking (+18.1), and aggregation (+15.6), and smallest on question answering over a single document (+4.2). The three tasks that improve most are exactly the ones in which several rare keys must remain readable at once, which is the regime in which a row-normalized layer routes everything to whichever key ranks first.\nTable 4: Long-context evaluation of the 1.4B models. RULER average accuracy (%) at four context lengths, and needle-in-a- haystack (NIAH) accuracy at 1M tokens.\nModel Transformer++ Balanced (ours) 4K 84.6 85.4 32K 71.2 77.9 128K 51.8 64.6 1M 27.4 42.1 NIAH 1M 46.2 71.8\nFigure 3: Long context. RULER average accuracy against context length. Both models are trained to 32K and evaluated zero-shot beyond it. The balanced model loses 43 points from 4K to 1M; the baseline loses 57.\n5.6 Translation and cross-attention Balanced attention is not specific to decoder-only models. We train 800M-parameter encoder-decoder models on WMT24 for three language pairs and balance the cross- attention marginals: the source marginal is uniform over source tokens, the target marginal uniform over target positions. Table 5 reports BLEU and COMET. The average gain is 1.1 BLEU and 1.3 COMET, with the largest gain on the pair with the most reordering (Zh-En, +1.2). The learned source marginals are interpretable. Averaged over the test set, the mass a source token receives correlates with its fertility (r = 0.71), and the layer assigns near-zero mass to punctuation and to tokens that the reference translation drops. This is the behaviour of a statistical alignment model, but it emerges from the constraint rather than from a separate alignment step.\nTable 5: WMT24 translation. BLEU and COMET for 800M encoder- decoder models with softmax or balanced cross-attention.\nPair\nEn→De De→En Zh→En Average T++ BLEU\n28.4 33.1 26.7 29.4 Balanced BLEU 29.6 34.0 27.9 30.5 T++ COMET 82.1 84.6 79.8 82.2 Balanced COMET 83.4 85.7 81.3 83.5\n6 5.7 Ablations Table 6 isolates the components at 410M parameters and 100B tokens. Normalizing columns alone is worse than softmax (19.4 against 18.9): the row constraint is what makes attention a convex combination, and removing it is not the point. Balancing both is worth 0.8 perplexity points over softmax. A null column and learned marginals each add 0.2. The iteration count saturates at three; T=1 is 0.3 worse, and T=5 is identical to T=3, which is why we use three. ε matters but is not delicate: everything between 0.03 and 0.1 is within 0.1 perplexity points of the best value.\nTable 6: Ablations at 410M parameters and 100B tokens. Perplexity on WikiText-103 and difference from the balanced uniform configuration.\nVariant Softmax (row marginal only) Column marginal only Balanced, uniform marginals + null column + learned marginals ε = 0.01 ε = 0.1 ε = 0.5 T = 1 (one Sinkhorn iteration) T = 5 Block-balanced, w = 512 Ppl 18.9 19.4 18.1 17.9 17.9 18.4 18.0 18.6 18.4 18.1 18.3 Δ +0.8 +1.3 — -0.2 -0.2 +0.3 -0.1 +0.5 +0.3 0.0 +0.2\n5.8 What changes inside the model Figure 4 measures the two quantities the theory constrains. In the 7B baseline the fraction of routing mass captured by the single most-attended key rises from 0.18 in layer 0 to 0.61 by layer 8 and stays there; in the balanced model it is 1/n = 4.9 × 10-4 at every layer, by construction. Attention entropy tells the same story from the other side: the baseline falls from 6.2 to 2.4 nats across depth, the balanced model stays within 0.4 nats of log n = 7.6. The baseline does not merely prefer a few keys; it progressively loses the ability to attend anywhere else.\nFigure 4: Sinks and entropy. (a) Fraction of routing mass captured by the most-attended key, averaged over heads, for a 7B model. The balanced curve is the analytic value 1/n, not a measurement with error bars. (b) Attention entropy in nats; log n is the uniform plan.\nBecause a balanced layer is a transport plan, its attention can be read as an alignment. Figure 5 shows a single head of the 7B model on an English-German sentence pair. The plan is monotone, nearly diagonal, and places mass on the\ncontent words that the translation reorders; the softmax head is diffuse and concentrates on the first token. Applied to all pairs of a 1,000-sentence test set, plans extracted from the balanced model give an alignment error rate of 0.19 against 0.34 for the baseline, close to the 0.17 of a dedicated fast-align model.\nFigure 5: Attention as transport. One head of the 7B model on an English-German pair. Columns are source tokens, rows are target tokens. Left: softmax attention, which collapses onto the first source token. Right: balanced attention, whose plan is sparse, monotone and aligned with the translation.\nFinally, we ask whether the improvement comes from a better-conditioned optimization or from a better final function. Training the balanced model for 400B tokens and then fine-tuning the attention normalizer back to softmax for 2B tokens recovers only 0.2 of the 0.8 perplexity advantage at 410M and degrades long-context accuracy to the baseline's level. The constraint is not a warm-up device; it is the function.\n6 Related Work Efficient attention. Sparse, low-rank, and kernel approximations replace the n × n matrix with something cheaper [16, 25, 24]. Balanced attention is orthogonal: it costs the same and can be combined with any of them, since the constraint applies to whatever cost matrix the approximation produces. FlashAttention [23] is a kernel- level change that is similarly orthogonal, and our fused implementation reuses its tiling. Sinkhorn and optimal transport in attention. Tay et al. [14] apply Sinkhorn normalization to a block-level routing matrix in order to sparsify it; the plan they compute is over blocks, and the target is efficiency. Our target is the plan itself: we fix both marginals over tokens, derive conservation and non-expansiveness from that, and use it to explain depth and long-context behaviour. Entropic transport has also been used to interpret trained attention post hoc; here the constraint is in the architecture from step zero. Stability tricks. QK-norm [15], z-loss [32], embedding scaling, and logit capping [13] all bound a quantity that would otherwise grow. Balanced attention bounds the routing operator instead, and Appendix A shows the bound is architectural rather than empirical. In our runs the baseline needs all four tricks to train at 96 layers; the\n7 balanced model needs none of them beyond QK-norm for numerical range. Attention sinks and massive activations. Xiao et al. [21] identify the sink as a streaming artefact and exploit it by keeping a few tokens' key-value pairs. Sun et al. [22] connect it to massive activations. Our reading is that both are the visible face of an unconstrained column marginal, and Corollary 1 makes them impossible rather than manageable. Doubly stochastic matrices. The Birkhoff-von Neumann theorem and the extension theorem of Mirsky [7] are classical; to our knowledge they have not been used as an architectural constraint for attention, nor have their consequences for depth been derived. The Markov reading of Section 4.5 is a restatement of closure under multiplication, but it is a useful one: it says the network's depth cannot concentrate mass, only redistribute it. Interpretability. Analyses of attention as a circuit [26, 27] describe what heads compute in a trained model. Balanced attention does not make a head's computation simpler, but it makes the head's routing readable as a transport plan with known marginals, which removes one degree of freedom from the post-hoc analysis.\n7 Discussion Why a conservation law is the right abstraction. A row- normalized layer is a lossy channel: it can amplify one input and annihilate another. A balanced layer is a flow: it moves mass around but neither creates nor destroys it. The distinction is not decorative. Flows compose, have stationary distributions, and satisfy maximum principles; lossy channels do none of these, and the pathologies of deep attention are exactly the failures of composition without a conservation law. Framing the fix as a constraint rather than a regularizer also makes it checkable at run time: the column marginal of every layer can be measured, and any deviation is a bug, not a hyperparameter. When balancing hurts. A layer that must give every key a unit of mass cannot ignore a key entirely. On tasks where most of the context is irrelevant, that is a cost: padded batches, classification with long distractors, and retrieval settings with many near-misses. The null column is the right response, and it recovers the softmax behaviour in the limit; in our ablations it costs nothing on language modeling and gains 1.9 points on a distractor-heavy classification probe we report in Appendix C. We would not use uniform marginals for a task whose correct behaviour is to read one sentence and discard a thousand. Limitations. The plan is still n × n, so the asymptotic cost is unchanged; the benefit is in what the model does with the mass, not in the FLOPs. The Sinkhorn iteration is sequential in T, which sets a latency floor of about 0.4 ms per layer at 128K tokens even with the fused kernel. Our theory bounds the routing operator, not the full network: the logits depend on the input, and a sufficiently adversarial input can still produce a sharp plan on a single row (though not on a single column). Our largest model is 7B\nparameters trained on 400B tokens, which is small by the standards of frontier systems; the scaling fits suggest the advantage persists, but we have not verified it beyond this regime. Finally, ε is a real hyperparameter, and while it was flat across three orders of magnitude of compute in our runs, a new modality may need it re-tuned. Broader impact. A routing matrix whose marginals are known is easier to audit: an analyst can ask which tokens paid for a prediction, and the answer is a row of a transport plan rather than an unnormalized score. We see this as a modest but genuine interpretability benefit. The method adds no data, no parameters of consequence, and no new failure mode that we can identify beyond the ones above; its compute cost is 3%, which is small relative to the gains we report.\n8 Conclusion Attention normalizes rows and leaves columns free. We have argued that this single asymmetry is responsible for a family of failures that the field has been treating one at a time: sinks, hubs, residual growth, depth degradation, and shrinking effective context. Balancing the columns turns each layer into an optimal transport plan, and the plan brings with it a conservation law, non-expansiveness, sink- freeness, and a readable alignment. The change is one normalization and 3% of compute. It improves every scale we tested, it makes depth monotone, and it makes a million-token context usable. We expect the constraint to be most useful exactly where the field is heading: models whose context is much larger than their capacity to route within it.\n[1] Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., and Polosukhin, I. Attention is all you need. In NeurIPS, 2017. [2] Bahdanau, D., Cho, K., and Bengio, Y. Neural machine translation by jointly learning to align and translate. In ICLR, 2015. [3] Birkhoff, G. Tres observaciones sobre el algebra lineal. Universidad Nacional de Tucumán Revista, Series A, 5:147-151, 1946. [4] Cuturi, M. Sinkhorn distances: lightspeed computation of optimal transport. In NeurIPS, 2013. [5] Peyré, G. and Cuturi, M. Computational optimal transport. Foundations and Trends in Machine Learning, 11(5-6):355-607, 2019. [6] Sinkhorn, R. and Knopp, P. Concerning nonnegative matrices and doubly stochastic matrices. Pacific Journal of Mathematics, 21(2):343-348, 1967. [7] Mirsky, L. On a convex set of matrices. Archiv der Mathematik, 10:88-92, 1959. [8] Chizat, L., Peyré, G., Schmitzer, B., and Vialard, F.-X. Scaling algorithms for unbalanced optimal transport problems. Mathematics of Computation, 87(314):2563-2609, 2018. [9] Luise, G., Rudi, A., Pontil, M., and Ciliberto, C. Differential properties of Sinkhorn approximation for learning with Wasserstein distance. In NeurIPS, 2018. [10] Dong, Y., Cordonnier, J.-B., and Loukas, A. Attention is not all you need: pure attention loses rank doubly exponentially with depth. In ICML, 2021. [11] Dehghani, M., Gouws, S., Vinyals, O., Uszkoreit, J., and Kaiser, Ł. Universal transformers. In ICLR, 2019. [12] Eisenberger, M., Toker, A., Brix, C., Cremers, D., and Bernard, F. A unified framework for implicit Sinkhorn differentiation. In CVPR, 2022. [13] Chowdhery, A., Narang, S., Devlin, J., et al. PaLM: scaling language modeling with pathways. arXiv:2204.02311, 2022.\n8\n[14] Tay, Y., Bahri, D., Yang, L., Metzler, D., and Juan, D.-C. Sparse Sinkhorn attention. In ICML, 2020. [15] Henry, A., Dachapally, P. R., Pawar, S., and Chen, Y. Query-key normalization for transformers. In EMNLP Findings, 2020. [16] Beltagy, I., Peters, M. E., and Cohan, A. Longformer: the long-document transformer. arXiv:2004.05150, 2020. [17] Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., and Liang, P. Lost in the middle: how language models use long contexts. TACL, 2024. [18] Kaplan, J., McCandlish, S., Henighan, T., et al. Scaling laws for neural language models. arXiv:2001.08361, 2020. [19] Franklin, J. and Lorenz, J. On the scaling of multidimensional matrices. Linear Algebra and its Applications, 114:717-735, 1989. [20] Hoffmann, J., Borgeaud, S., Mensch, A., et al. Training compute-optimal large language models. In NeurIPS, 2022. [21] Xiao, G., Tian, Y., Chen, B., Han, S., and Lewis, M. Efficient streaming language models with attention sinks. In ICLR, 2024. [22] Sun, M., Chen, X., Kolter, J. Z., and Liu, Z. Massive activations in large language models. arXiv:2402.17762, 2024. [23] Dao, T., Fu, D. Y., Ermon, S., Rudra, A., and Ré, C. FlashAttention: fast and memory-efficient exact attention with IO-awareness. In NeurIPS, 2022. [24] Gu, A. and Dao, T. Mamba: linear-time sequence modeling with selective state spaces. arXiv:2312.00752, 2023. [25] Choromanski, K., Likhosherstov, V., Dohan, D., et al. Rethinking attention with performers. In ICLR, 2021. [26] Elhage, N., Nanda, N., Olsson, C., et al. A mathematical framework for transformer circuits. Transformer Circuits Thread, 2021. [27] Olsson, C., Elhage, N., Nanda, N., et al. In-context learning and induction heads. Transformer Circuits Thread, 2022. [28] Genevay, A., Peyré, G., and Cuturi, M. Learning generative models with Sinkhorn divergences. In AISTATS, 2018. [29] Koehn, P. and Knowles, R. Six challenges for neural machine translation. In Workshop on Neural Machine Translation, 2017. [30] Xiong, R., Yang, Y., He, D., et al. On layer normalization in the transformer architecture. In ICML, 2020. [31] Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., and Sutskever, I. Language models are unsupervised multitask learners. OpenAI technical report, 2019. [32] Zoph, B., Bello, I., Kumar, S., et al. ST-MoE: designing stable and transferable sparse expert models. arXiv:2202.08906, 2022. [33] Su, J., Lu, Y., Pan, S., Murtadha, A., Wen, B., and Liu, Y. RoFormer: enhanced transformer with rotary position embedding. Neurocomputing, 568, 2024. [34] Shazeer, N. GLU variants improve transformer. arXiv:2002.05202, 2020. [35] Sander, M. E., Ablin, P., Blondel, M., and Peyré, G. Momentum conserver: momentum improves Sinkhorn's convergence. In ICLR, 2022. [36] Zhang, B. and Sennrich, R. Root mean square layer normalization. In NeurIPS, 2019.\nA Proofs\nA.1 Theorem 1 (conservation) Let P ∈ ℝn × n satisfy P 1 = 1 and P⊤ 1 = 1. Then 1⊤ P = (P⊤ 1)⊤ = 1⊤, so 1⊤ P V = 1⊤ V for every V. The second claim is\nSetting Layers\nthe row constraint. □ Corollary 1 follows because the total mass 1⊤ P 1 = n is\nWidth d Heads\nfixed and every column contributes exactly one, so the\nHead dim\nlargest share any key can hold is 1/n.\nFFN ratio\nA.2 Theorem 2 (non-expansiveness)\nBatch (tokens)\nFor any matrix, ‖P‖2 ≤ ‖P‖ ‖P‖ (Hölder). For doubly\nLearning rate\n∞ 2 1\nWarmup\nstochastic P, ‖P‖1 = maxj ∑i Pij = 1 and ‖P‖∞ = maxi ∑j Pij\nTokens\n= 1, so ‖P‖2 ≤ 1 and ‖P(V - V')‖2 ≤ ‖V - V'‖2. Equality\nε\nrequires ‖P‖2 = 1, which for a nonnegative matrix with unit\nSinkhorn T\nrow and column sums forces P to be a permutation: if two rows share a column with positive mass, the corresponding columns must be linearly dependent. □ Theorem 4 (closure). If P, …, PL are doubly stochastic\n1\nthen ∏ℓ Pℓ is doubly stochastic. Indeed (P1 P2) 1 = P1 1 = 1 and 1⊤ (P P) = 1⊤ P = 1⊤, and nonnegativity is preserved.\n1 2 2\n□\nA.3 Theorem 3 (simulation) Let A be row-stochastic and set B = A/n. Then B 1 = 1/n and B⊤ 1 ≤ 1, so every row and column sum of B is at most one. By the doubly stochastic extension theorem [7] there is a doubly stochastic matrix Q of order 2n with Qij = Bij for i, j ≤ n. Therefore n   Q[1:n,1:n] V = A V, and the scalar n is absorbed into WO. □ Proposition 1 (dustbin). Let A be any row-stochastic matrix and b = A⊤ 1. Then A ∈ U(1, b), and U(1, b) is the feasible set of a balanced layer in which the column marginal is free. Hence the null-column variant contains every softmax attention pattern as a feasible point, and its optimum coincides with softmax attention in the limit where the null column absorbs the entire column defect. The first claim is a direct computation; the second follows from the standard equivalence between unbalanced transport with a free marginal and balanced transport with a dustbin [8]. □\nA.4 Note on the gradient The claim in Section 4.4 follows from the envelope theorem applied to F(C) = minP ∈ U(1,1) ⟨ P, C ⟩ - ε H(P), which is a minimum of affine functions of C and therefore concave in C; its gradient is P*, so ∂ P*/∂ C is symmetric and negative semidefinite with spectrum bounded by the entropy scale. The bound is tight in the uniform-plan limit, where P* does not depend on C at all.\nB Hyperparameters\nTable 7: Model and optimization hyperparameters. All models use the same recipe; only the attention normalizer differs between arms.\nC Distractor probe We concatenate a short sentiment sentence with k unrelated news paragraphs and fine-tune the 1.4B models for 2B tokens on the task. With k = 8, uniform marginals reach 88.4% accuracy, the null-column variant 91.2%, and the softmax baseline 90.6%. The result is the expected one: when the correct behaviour is to ignore most of the input, the ability to dump mass is worth having, and it is worth having as an option rather than as the only behaviour.\n9\n160M 12 768 12 64 4 0.5M 6e-4 2% 400B 0.05 3 410M 24 1024 16 64 4 1M 3e-4 2% 400B 0.05 3 1.4B 24 2048 16 128 4 2M 3e-4 2% 400B 0.05 3 7B 32 4096 32 128 4 2M 1.5e-4 2% 400B 0.05 3",
+  "document": {
+    "pages": 9,
+    "paragraph_count": 136,
+    "sections": [
+      {
+        "id": "s1",
+        "level": 2,
+        "title": "Conservation Is All You Need: Language Modeling with Balanced",
+        "page": 1,
+        "bbox": [
+          66.7,
+          696.65,
+          545.22,
+          715.35
+        ],
+        "paragraph_ids": [
+          "p1-1"
+        ]
+      },
+      {
+        "id": "s2",
+        "level": 2,
+        "title": "Attention",
+        "page": 1,
+        "bbox": [
+          271.65,
+          677.05,
+          340.5,
+          695.75
+        ],
+        "paragraph_ids": [
+          "p1-2"
+        ]
+      },
+      {
+        "id": "s3",
+        "level": 2,
+        "title": "Anonymous Authors",
+        "page": 1,
+        "bbox": [
+          258.05,
+          653.98,
+          354.13,
+          666.62
+        ],
+        "paragraph_ids": [
+          "p1-3",
+          "p1-4",
+          "p1-5",
+          "p1-6",
+          "p1-7",
+          "p2-8"
+        ]
+      },
+      {
+        "id": "s4",
+        "level": 1,
+        "title": "2 Background",
+        "page": 2,
+        "bbox": [
+          56.25,
+          377.85,
+          125.29,
+          389.95
+        ],
+        "paragraph_ids": [
+          "p2-9",
+          "p2-10",
+          "p2-11",
+          "p2-12",
+          "p2-13",
+          "p2-14",
+          "p2-15",
+          "p2-16",
+          "p2-17",
+          "p2-18",
+          "p2-19",
+          "p2-20",
+          "p2-21",
+          "p2-22",
+          "p2-23",
+          "p2-24"
+        ]
+      },
+      {
+        "id": "s5",
+        "level": 1,
+        "title": "3 Balanced Attention",
+        "page": 2,
+        "bbox": [
+          315.45,
+          264.45,
+          417.11,
+          276.55
+        ],
+        "paragraph_ids": [
+          "p2-25",
+          "p2-26",
+          "p2-27",
+          "p2-28",
+          "p2-29",
+          "p2-30",
+          "p2-31",
+          "p3-32",
+          "p3-33",
+          "p3-34",
+          "p3-35",
+          "p3-36",
+          "p3-37",
+          "p3-38",
+          "p3-39",
+          "p3-40",
+          "p3-41",
+          "p3-42",
+          "p3-43",
+          "p3-44",
+          "p3-45",
+          "p4-46",
+          "p4-47",
+          "p4-48",
+          "p4-49",
+          "p4-50",
+          "p4-51",
+          "p4-52",
+          "p4-53",
+          "p4-54",
+          "p4-55",
+          "p4-56",
+          "p5-57",
+          "p5-58",
+          "p5-59",
+          "p5-60",
+          "p5-61",
+          "p5-62",
+          "p5-63",
+          "p5-64",
+          "p5-65",
+          "p5-66",
+          "p5-67",
+          "p5-68",
+          "p5-69",
+          "p5-70",
+          "p5-71",
+          "p5-72",
+          "p5-73",
+          "p5-74",
+          "p5-75",
+          "p5-76",
+          "p5-77",
+          "p5-78",
+          "p5-79",
+          "p5-80",
+          "p5-81",
+          "p5-82",
+          "p6-83",
+          "p6-84",
+          "p6-85",
+          "p6-86",
+          "p6-87",
+          "p6-88",
+          "p6-89",
+          "p6-90",
+          "p6-91",
+          "p6-92",
+          "p6-93",
+          "p6-94",
+          "p6-95",
+          "p6-96",
+          "p6-97",
+          "p7-98",
+          "p7-99",
+          "p7-100",
+          "p7-101",
+          "p7-102",
+          "p7-103",
+          "p8-104",
+          "p8-105"
+        ]
+      },
+      {
+        "id": "s6",
+        "level": 1,
+        "title": "References",
+        "page": 8,
+        "bbox": [
+          56.25,
+          347.7,
+          107.46,
+          359.8
+        ],
+        "paragraph_ids": [
+          "p8-106",
+          "p8-107",
+          "p8-108",
+          "p8-109",
+          "p9-110",
+          "p9-111",
+          "p9-112",
+          "p9-113",
+          "p9-114",
+          "p9-115",
+          "p9-116",
+          "p9-117",
+          "p9-118",
+          "p9-119",
+          "p9-120",
+          "p9-121",
+          "p9-122",
+          "p9-123",
+          "p9-124",
+          "p9-125",
+          "p9-126",
+          "p9-127",
+          "p9-128",
+          "p9-129",
+          "p9-130",
+          "p9-131",
+          "p9-132",
+          "p9-133",
+          "p9-134",
+          "p9-135",
+          "p9-136",
+          "p9-137",
+          "p9-138",
+          "p9-139",
+          "p9-140",
+          "p9-141",
+          "p9-142"
+        ]
+      }
+    ]
+  },
+  "bilingual": [
+    {
+      "index": 0,
+      "id": "p1-4",
+      "page": 1,
+      "bbox": [
+        242.95,
+        641.12,
+        369.2,
+        651.58
+      ],
+      "source": "Paper under double-blind review",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 1,
+      "id": "p1-5",
+      "page": 1,
+      "bbox": [
+        95.85,
+        493.57,
+        515.87,
+        628.52
+      ],
+      "source": "Abstract Every Transformer layer routes information between positions with an attention matrix whose rows sum to one. Nothing constrains its columns. We show that this missing constraint, rather than depth or width, is what limits what a language model can do with its context. Balancing both marginals turns each attention layer into an entropic optimal transport plan, computed by three Sinkhorn iterations at a 3% training overhead. The constraint is not a regularizer: it makes every layer a convex combination of token permutations, so routing conserves mass, no token can become a sink, and the routing operator is non-expansive at every depth. Softmax attention is recovered exactly as unbalanced transport with a dustbin, so no expressivity is lost. Across 160M to 7B parameters trained on 400B tokens, balanced attention improves perplexity at every scale, matches the 7B baseline with 1.8× less compute, keeps improving to 96 layers where the baseline degrades, and raises 1M-token retrieval accuracy from 27% to 42%. The plans it learns are readable: they recover word alignments the model was never trained to produce.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 2,
+      "id": "p1-6",
+      "page": 1,
+      "bbox": [
+        56.25,
+        59.95,
+        296.8,
+        483.95
+      ],
+      "source": "1 Introduction A Transformer is a machine for moving information between positions. At every layer each token emits a query, each token offers a key and a value, and an attention matrix decides how much of each value reaches each position. The design is deliberately asymmetric. Rows of the attention matrix are normalized to sum to one, so every query spends exactly one unit of attention, but no constraint is placed on the columns. A key may receive attention from every query in the sequence, or from none. For a decade of context windows this asymmetry was invisible. At 105 to 106 tokens it dominates behaviour. A small number of positions, usually the first token or a delimiter, absorb a large fraction of all attention mass in every layer [21]. A handful of dimensions in a handful of tokens grow by three orders of magnitude and act as learned biases [22]. Representations collapse toward a single direction with depth once skip connections are removed [10]. The norm of the residual stream grows monotonically, and practitioners insert QK-norm [15], z- loss, and logit capping to keep training stable [13, 32]. Each is a mitigation for the same underlying event: routing that can create and destroy mass. We trace these failures to a single missing property and supply it. If the attention matrix is required to be balanced, so that every row and every column sums to one, then the layer is the solution of an entropy-regularized optimal transport problem between queries and keys with uniform marginals. The change is one line of code. Its consequences are not local. A balanced attention matrix is a convex combination of permutation matrices (Birkhoff, 1946), so the layer is a randomized routing of tokens rather than a lossy mixing of them. Because the set of doubly stochastic matrices is closed under multiplication, depth composes routing without accumulating drift: the network's depth is a time",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 3,
+      "id": "p1-7",
+      "page": 1,
+      "bbox": [
+        303.6,
+        28.5,
+        555.72,
+        484.0
+      ],
+      "source": "1 axis along which a probability measure on tokens evolves, and uniform is its stationary measure. Because the spectral norm of a doubly stochastic matrix is at most one, the routing operator is non-expansive, so the gradient of a 96- layer stack is not a product of exploding or vanishing matrices. And because every key receives exactly one unit of mass, no token can become a sink: concentration is fixed by the marginal, not learned. None of this costs expressivity. Softmax attention is unbalanced transport in which the column marginal is free; it is the ε → 0 limit of a problem whose second constraint has been dropped. Restoring the constraint is a restriction only if the model needs to dump mass somewhere, and the standard construction for that need is a dustbin: a single extra key whose marginal is unconstrained. We show that adding one null column recovers softmax attention as a special case (Proposition 1) and that it recovers most of the accuracy gap on tasks that reward ignoring context (Table 6). We test the claim at scale. Training decoder-only models from 160M to 7B parameters on 400B tokens, with every hyperparameter other than the normalizer held fixed, balanced attention improves perplexity at all four scales and widens its accuracy advantage as models grow (from +1.1 to +1.8 points of average zero-shot accuracy). A scaling- law fit attributes to it a 0.08 nat lower irreducible loss, worth a 1.8× compute advantage at the 7B operating point. Depth scaling, which is where row-stochastic routing degrades most visibly, becomes monotone: at 96 layers the baseline loses 5.9 perplexity points relative to its 48-layer version, and the balanced model loses 0.1. On RULER at one million tokens we measure 42.1% average accuracy against 27.4%, and on needle-in-a-haystack 71.8% against 46.2%. The attention plans are directly interpretable: a single balanced cross-attention head recovers English- German word alignments with an alignment error rate of 0.19, without supervision.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 4,
+      "id": "p2-8",
+      "page": 2,
+      "bbox": [
+        56.25,
+        399.55,
+        296.8,
+        729.95
+      ],
+      "source": "Our contributions are: • A conservation law for attention. We introduce balanced attention, an attention layer whose routing matrix is doubly stochastic and therefore the solution of an entropic optimal transport problem, and show that it can be dropped into any Transformer at 3% overhead. • Theory. We prove that balanced layers are closed under composition, that they are non-expansive and hence depth- stable, that no token can become a sink, and that they are at least as expressive as softmax attention up to a 2× token augmentation (Theorems 1-3). • Scale. We train 160M-7B parameter models on 400B tokens and show consistent gains in perplexity, zero-shot accuracy, depth scaling, long-context retrieval, and translation. • Mechanism. We isolate where the gains come from: the elimination of attention sinks and hub formation, a flatter spectrum of attention entropy across depth, and a 4.1× reduction in the variance of gradient norms across layers. • Interpretability. Because the layer is a transport plan, its attention is an alignment. We read alignments directly off balanced heads and quantify them against gold word alignments. The rest of the paper develops the idea in the order in which it has to be believed: the background and the precise failure being repaired (Section 2), the layer and its variants (Section 3), the properties that make it more than a normalization trick (Section 4), and the evidence (Section 5).",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 5,
+      "id": "p2-10",
+      "page": 2,
+      "bbox": [
+        56.25,
+        308.57,
+        296.77,
+        370.85
+      ],
+      "source": "2.1 Attention and the residual stream A decoder-only Transformer stacks L blocks around a residual stream X ∈ ℝn × d, where n is the sequence length. Block ℓ computes Q = Xℓ W, K = Xℓ W, V = Xℓ W, (1)",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 6,
+      "id": "p2-11",
+      "page": 2,
+      "bbox": [
+        145.7,
+        309.1,
+        241.16,
+        314.16
+      ],
+      "source": "Q K V",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 7,
+      "id": "p2-12",
+      "page": 2,
+      "bbox": [
+        127.5,
+        297.12,
+        225.54,
+        307.57
+      ],
+      "source": "A = softmax(QK⊤/√(d)),",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 8,
+      "id": "p2-13",
+      "page": 2,
+      "bbox": [
+        213.75,
+        294.45,
+        215.79,
+        299.51
+      ],
+      "source": "k",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 9,
+      "id": "p2-14",
+      "page": 2,
+      "bbox": [
+        102.3,
+        282.77,
+        296.77,
+        296.43
+      ],
+      "source": "Xℓ+1 = Xℓ + AVWO + MLP(Xℓ + AVWO), (2)",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 10,
+      "id": "p2-15",
+      "page": 2,
+      "bbox": [
+        56.25,
+        175.1,
+        296.73,
+        278.7
+      ],
+      "source": "with the softmax taken over the key axis. The matrix A is row-stochastic by construction: A 1 = 1 and A ≥ 0. It is the only place in the architecture where positions exchange information, which makes it the natural locus of any claim about what a model can do with its context. Modern baselines add Pre-RMSNorm [36], SwiGLU [34], rotary position embeddings [33], QK-norm [15], and a small z- loss [32]; we adopt this combination, which we call Transformer++, as our baseline throughout.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 11,
+      "id": "p2-16",
+      "page": 2,
+      "bbox": [
+        56.25,
+        131.75,
+        296.48,
+        168.05
+      ],
+      "source": "2.2 Entropic optimal transport Let C ∈ ℝn × n be a cost matrix and a, b ∈ Δn two probability vectors. The entropic optimal transport problem is",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 12,
+      "id": "p2-17",
+      "page": 2,
+      "bbox": [
+        116.75,
+        121.55,
+        118.71,
+        126.61
+      ],
+      "source": "*",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 13,
+      "id": "p2-18",
+      "page": 2,
+      "bbox": [
+        96.3,
+        91.33,
+        296.77,
+        127.58
+      ],
+      "source": "P = argminP ∈ U(a,b) ⟨ P, C ⟩ - ε H(P), H(P) = -∑i,j Pij (log Pij - 1), (3) U(a,b) = { P ∈ ℝn × n : P 1 = a, P⊤ 1 = b }. (4)",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 14,
+      "id": "p2-19",
+      "page": 2,
+      "bbox": [
+        162.35,
+        91.75,
+        165.79,
+        96.81
+      ],
+      "source": "+",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 15,
+      "id": "p2-20",
+      "page": 2,
+      "bbox": [
+        56.25,
+        64.3,
+        296.7,
+        87.05
+      ],
+      "source": "The solution is unique, has the form P = diag(u) K diag(v) with K = exp(-C/ε), and is computed by alternately scaling",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 16,
+      "id": "p2-21",
+      "page": 2,
+      "bbox": [
+        303.6,
+        28.5,
+        555.97,
+        729.95
+      ],
+      "source": "2 rows and columns to their prescribed marginals [Sinkhorn and Knopp, 1967; Cuturi, 2013]: u ← a / (K v), v ← b / (K⊤ u). (5)",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 17,
+      "id": "p2-22",
+      "page": 2,
+      "bbox": [
+        413.4,
+        682.17,
+        416.11,
+        687.56
+      ],
+      "source": "2",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 18,
+      "id": "p2-23",
+      "page": 2,
+      "bbox": [
+        315.45,
+        584.9,
+        555.95,
+        688.5
+      ],
+      "source": "Each iteration costs O(n), the same as one attention matrix product, and converges linearly in the Hilbert metric at a rate that depends on ε [19]. Because the map C ↦ P* is the gradient of a convex function, it is differentiable, and gradients can be obtained either by unrolling a finite number of iterations or by implicit differentiation of the fixed point [12, 28]. We use three unrolled iterations in the log domain, which is the smallest number that reaches a 1% marginal error in our ablations (Table 6).",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 19,
+      "id": "p2-24",
+      "page": 2,
+      "bbox": [
+        315.45,
+        286.15,
+        555.74,
+        577.85
+      ],
+      "source": "2.3 What goes wrong when routing is unbalanced Row-stochastic routing admits solutions in which a single key receives a constant fraction of all attention regardless of the query. Xiao et al. [21] document that the first token of a streaming context becomes exactly this: a sink that absorbs 40-80% of attention in the first two layers, which is why discarding its key and value is nearly free. Sun et al. [22] show that the sink co-occurs with massive activations in a few channels, and that clamping those channels removes the sink without changing perplexity much, which suggests the model is using the sink as a bias rather than as information. The same geometry explains a subtler failure. If a key's inbound mass is unconstrained, a model that needs to make one rare fact reliably readable can either copy it into a high- traffic hub, paying a collision cost on every query, or spread it thinly and rely on precise queries. The first strategy is cheaper to learn and is what we observe: an effective context that is far smaller than the nominal one [17]. Existing remedies bound the symptom. QK-norm bounds the logits, z-loss bounds the partition function, gating bounds the update, and explicit sink tokens give the model a designated place to dump mass. None of them constrains the column marginal, which is the quantity that decides whether a rare token can be found.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 20,
+      "id": "p2-26",
+      "page": 2,
+      "bbox": [
+        315.45,
+        213.0,
+        555.7,
+        257.45
+      ],
+      "source": "3.1 The layer We replace the row normalization of Equation 2 with a two-sided one. Given queries and keys we form the cost matrix C = -q⊤ k/√(d) and define",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 21,
+      "id": "p2-27",
+      "page": 2,
+      "bbox": [
+        350.7,
+        210.18,
+        407.72,
+        215.56
+      ],
+      "source": "ij i j k",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 22,
+      "id": "p2-28",
+      "page": 2,
+      "bbox": [
+        369.85,
+        183.82,
+        555.97,
+        208.62
+      ],
+      "source": "BalancedAttn(X) = P* V, P* = argmin ⟨ P, C ⟩ - ε H(P). (6)",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 23,
+      "id": "p2-29",
+      "page": 2,
+      "bbox": [
+        415.75,
+        184.35,
+        436.9,
+        189.41
+      ],
+      "source": "P ∈ U(1,1)",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 24,
+      "id": "p2-30",
+      "page": 2,
+      "bbox": [
+        508.3,
+        173.43,
+        510.39,
+        178.81
+      ],
+      "source": "*",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 25,
+      "id": "p2-31",
+      "page": 2,
+      "bbox": [
+        315.45,
+        111.0,
+        555.92,
+        179.75
+      ],
+      "source": "The marginals are the all-ones vector, so P is doubly stochastic: every query spends one unit of attention and every key receives one unit. Nothing else in the block changes. Algorithm 1 gives the implementation, which is the softmax attention kernel with one extra reciprocal and one extra product per Sinkhorn iteration.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 26,
+      "id": "p3-32",
+      "page": 3,
+      "bbox": [
+        56.25,
+        720.62,
+        236.42,
+        729.98
+      ],
+      "source": "Algorithm 1 Balanced attention (log domain, T=3).",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 27,
+      "id": "p3-33",
+      "page": 3,
+      "bbox": [
+        59.25,
+        709.38,
+        152.21,
+        717.62
+      ],
+      "source": "1: C ← -QK⊤/√(d); L ← -C/ε",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 28,
+      "id": "p3-34",
+      "page": 3,
+      "bbox": [
+        112.65,
+        707.15,
+        114.33,
+        711.33
+      ],
+      "source": "k",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 29,
+      "id": "p3-35",
+      "page": 3,
+      "bbox": [
+        59.25,
+        649.38,
+        241.18,
+        705.48
+      ],
+      "source": "2: u ← 0, v ← 0 (log scaling vectors, carried across layers) 3: for t = 1 … T: 4: u ← -logsumexpj(Lij + vj) 5: v ← -logsumexpi(Lij + ui) 6: P ← exp(L + u 1⊤ + 1 v⊤) 7: return P V",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 30,
+      "id": "p3-36",
+      "page": 3,
+      "bbox": [
+        56.25,
+        525.85,
+        296.69,
+        629.45
+      ],
+      "source": "Two details matter in practice. First, the iteration is run in the log domain with a running subtraction of the row maximum; without it, three iterations at ε = 0.05 overflow in bf16 for sequence lengths beyond 8K. Second, the scaling vectors are warm-started from the previous layer's solution, which reduces the marginal error after three iterations by a factor of four in our measurements and makes the layer's cost independent of n in the regime we care about.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 31,
+      "id": "p3-37",
+      "page": 3,
+      "bbox": [
+        56.25,
+        341.32,
+        296.56,
+        409.18
+      ],
+      "source": "Figure 1: A conservation law for attention. Left: a cost matrix with a sink in the first column and a hub in the fifth. Middle: row normalization (softmax) spends each row's unit of mass but lets the sink accumulate 57% of all mass, so the model can read it and little else. Right: balancing both marginals (ours) forces every column to receive exactly one unit, so the hub must also pay. Bars show the marginals; both are uniform on the right.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 32,
+      "id": "p3-38",
+      "page": 3,
+      "bbox": [
+        56.25,
+        62.3,
+        296.82,
+        334.3
+      ],
+      "source": "3.2 The marginals are a design space Uniform marginals are the default and the choice we use unless stated otherwise, but the formulation exposes three knobs that a row-normalized layer does not have. Learned marginals. A single linear head predicts a, b ∈ Δn from the layer input and normalizes them with a softmax; the Sinkhorn iteration is unchanged. This costs O(nd) and lets the model decide that some positions deserve more inbound mass than others, for example the tokens of a retrieved passage. In our ablations, learned marginals improve perplexity by a further 0.2 over uniform ones (Table 6). The null column. Concatenating a single extra key whose marginal is free turns the layer into unbalanced transport with a dustbin, which is exactly softmax attention in the limit where the dustbin absorbs all excess mass. This is the variant to use when the task rewards ignoring the context, such as classification with long distractors or padding-heavy batches. Cross-attention marginals. For encoder-decoder models the two marginals have different meanings: the source marginal is the attention each source token receives, and the target marginal is the budget each target position",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 33,
+      "id": "p3-39",
+      "page": 3,
+      "bbox": [
+        303.6,
+        28.5,
+        555.49,
+        729.95
+      ],
+      "source": "3 spends. Setting both to uniform makes the layer a fertility model in the sense of statistical machine translation [2]: every source word is explained exactly once, on average. Section 5.6 shows that this is what the layer learns to do.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 34,
+      "id": "p3-40",
+      "page": 3,
+      "bbox": [
+        315.45,
+        537.0,
+        555.81,
+        677.25
+      ],
+      "source": "3.3 Cost The added work is T pairs of row and column reductions over an n × n matrix, which is the same order as the attention matrix product and, at T = 3, 3.1% of total training FLOPs at the 1.4B scale. Table 1 reports measured cost. At inference the plan can be recomputed per step or cached with the key-value cache; because the column marginal is a property of the whole prefix, we recompute it over the cached keys, which adds 2.4% latency at 128K tokens. A fused kernel that keeps L, u, and v in shared memory removes the intermediate materialization and brings the overhead to 0.9%.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 35,
+      "id": "p3-41",
+      "page": 3,
+      "bbox": [
+        315.45,
+        499.52,
+        555.98,
+        528.58
+      ],
+      "source": "Table 1: Cost of a balanced layer relative to softmax attention, measured on 8×H100 with sequence length 8K and d=2048. Overheads are for the full model, not the layer.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 36,
+      "id": "p3-42",
+      "page": 3,
+      "bbox": [
+        317.45,
+        433.02,
+        546.49,
+        494.32
+      ],
+      "source": "Variant Attention (softmax) Balanced, T=1 Balanced, T=3 + fused kernel Balanced, T=5, fused GFLOPs 1.00 1.02 1.06 1.06 1.10 Δ — +2.0% +6.1% +6.1% +10.2% Step 1.00 1.01 1.03 1.01 1.02 Latency — +0.7% +2.4% +0.9% +1.4%",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 37,
+      "id": "p3-43",
+      "page": 3,
+      "bbox": [
+        315.45,
+        189.65,
+        556.03,
+        412.45
+      ],
+      "source": "3.4 Scaling to long contexts The quadratic cost of the plan is inherited from attention, but the formulation makes two approximations principled rather than ad hoc. Block balancing solves the transport problem independently on windows of size w and adds the window marginals as a small correction, which costs O(nw) and preserves the column constraint exactly within each block. Balanced top-k restricts each query to its k largest entries of C before balancing; because the marginal constraint fixes the total mass, the truncation error is bounded by the mass that the plan places outside the top-k set, which can be measured at run time and used to adapt k. We use block balancing with w = 4096 beyond 128K tokens and report its cost in Table 6. Both approximations preserve the property that motivates the layer. A block-balanced layer is a direct sum of doubly stochastic matrices, which is doubly stochastic; a top-k balanced layer is doubly stochastic on the retained support. Neither can create a sink.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 38,
+      "id": "p3-44",
+      "page": 3,
+      "bbox": [
+        315.45,
+        118.8,
+        555.63,
+        180.05
+      ],
+      "source": "4 Why It Works This section states the four properties that separate balanced attention from a normalization trick. Proofs are in Appendix A; all are short, and none depends on the data distribution.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 39,
+      "id": "p3-45",
+      "page": 3,
+      "bbox": [
+        315.45,
+        78.85,
+        555.73,
+        111.75
+      ],
+      "source": "4.1 Conservation and the impossibility of a sink Theorem 1 (Conservation). Let P be doubly stochastic and V ∈ ℝn × d. Then 1⊤ P V = 1⊤ V and P 1 = 1.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 40,
+      "id": "p4-46",
+      "page": 4,
+      "bbox": [
+        56.25,
+        471.3,
+        296.76,
+        729.95
+      ],
+      "source": "In words: the routing operator neither creates nor destroys mass, and every key receives exactly the amount of attention that a query spends. The immediate corollary is the one that matters for long contexts. Corollary 1 (No sinks). For P ∈ U(1,1), every column sums to one. Hence the fraction of total routing mass captured by the most-attended key is exactly 1/n, independently of depth, input, and training. Under row normalization the same quantity is maxj ∑i Aij / n, which the model is free to make as large as one, and does: Figure 4 measures 0.61 in a 7B baseline. Under balancing it is a constant. A hub can still exist in the sense that many queries rank it first, but it cannot absorb: once its unit of mass is spent, later queries are routed elsewhere. The capacity constraint, not the model's discretion, decides concentration. Corollary 1 also explains why the layer is more interpretable. A transport plan with uniform marginals is a balanced alignment, so the row and column sums of an attention head can be read as statements about which source tokens were explained and which target positions paid for them. We exploit this in Section 5.8.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 41,
+      "id": "p4-47",
+      "page": 4,
+      "bbox": [
+        56.25,
+        216.45,
+        296.8,
+        464.25
+      ],
+      "source": "4.2 Depth stability Theorem 2 (Non-expansiveness). For any doubly stochastic P and any V, V', ‖P(V - V')‖2 ≤ ‖V - V'‖2. Moreover σmax(P) ≤ 1, with equality if and only if P is a permutation matrix. The proof is one line of Hölder: ‖P‖2 ≤ √(‖P‖1‖P‖∞) = 1, because both induced norms of a doubly stochastic matrix are one. The consequence is that the routing path through a stack of L layers is a product of non-expansive maps, hence non-expansive; the Jacobian of the value path has spectral norm at most one at every depth. Row- stochastic matrices have no such bound: a column that receives c units contributes a singular value of order c, which is how a single hub makes the deep Jacobian ill- conditioned and why the residual stream grows with depth. Theorem 2 does not claim that the whole network is non- expansive: the logits depend on the input, so P itself moves with X. It isolates the part of the computation that is linear in the values and shows that this part contributes nothing to the depth-Lipschitz constant. Empirically this is where the depth-scaling gains come from (Table 3).",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 42,
+      "id": "p4-48",
+      "page": 4,
+      "bbox": [
+        56.25,
+        54.0,
+        296.8,
+        209.4
+      ],
+      "source": "4.3 Expressivity Balancing restricts the attention matrix, so the obvious question is what it costs. The answer is nothing, up to a constant factor in tokens. Theorem 3 (Simulation). Let A be any row-stochastic attention matrix. There is a doubly stochastic matrix Q of order 2n whose leading n × n block equals A/n. Hence for any values V, n   Q[1:n, 1:n] V = A V, and the factor n is absorbed by the output projection WO. The proof applies the classical doubly stochastic extension theorem [Mirsky, 1959] to A/n, whose row and column sums are both at most one. The construction adds n auxiliary tokens, so the simulation costs a 4× attention",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 43,
+      "id": "p4-49",
+      "page": 4,
+      "bbox": [
+        303.6,
+        28.5,
+        555.63,
+        729.95
+      ],
+      "source": "4 matrix; in practice a single null column is enough, because that column absorbs the column defect exactly (Proposition 1 in Appendix A). This is the formal content of the claim that softmax attention is unbalanced transport with a dustbin: the dustbin is the auxiliary mass, and balancing removes it only when the data does not need it.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 44,
+      "id": "p4-50",
+      "page": 4,
+      "bbox": [
+        315.45,
+        594.75,
+        556.02,
+        654.15
+      ],
+      "source": "4.4 The geometry of the gradient The map from costs to plans is the gradient of a convex function, which gives the layer an unusually well-behaved backward pass. Let F(C) = minP ∈ U(1,1) ⟨ P, C ⟩ - ε H(P) be the regularized transport value. F is convex and positively",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 45,
+      "id": "p4-51",
+      "page": 4,
+      "bbox": [
+        551.35,
+        587.67,
+        553.44,
+        593.06
+      ],
+      "source": "*",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 46,
+      "id": "p4-52",
+      "page": 4,
+      "bbox": [
+        315.45,
+        583.0,
+        555.9,
+        594.0
+      ],
+      "source": "homogeneous in C, and by the envelope theorem ∇C F = P.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 47,
+      "id": "p4-53",
+      "page": 4,
+      "bbox": [
+        454.45,
+        575.92,
+        456.54,
+        581.31
+      ],
+      "source": "*",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 48,
+      "id": "p4-54",
+      "page": 4,
+      "bbox": [
+        315.45,
+        407.25,
+        555.96,
+        582.25
+      ],
+      "source": "It follows that the Jacobian ∂ P/∂ C is symmetric and positive semidefinite, and that it scales as 1/ε. Three consequences we observe: the gradient of the attention logits is a projection onto the tangent space of the transport polytope rather than an unconstrained rescaling; its norm is bounded by the entropy scale ε; and the variance of gradient norms across layers falls by a factor of 4.1 relative to the baseline in our 7B runs, which is why we can train 96 layers without a warmup longer than 2% of the run. The price of the 1/ε scaling is that ε is a genuine hyperparameter, not a numerical detail: small ε approaches hard assignment and sharpens gradients, large ε approaches the uniform plan and flattens them. Table 6 sweeps it; ε = 0.05 is the best value at every scale we tried, and the curve is flat between 0.03 and 0.1.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 49,
+      "id": "p4-55",
+      "page": 4,
+      "bbox": [
+        315.45,
+        131.6,
+        555.94,
+        400.2
+      ],
+      "source": "4.5 A Markov reading of depth Because the set of doubly stochastic matrices is closed under multiplication, the composition of L routing operators is itself doubly stochastic. The depth of the network is therefore a time axis along which a measure on tokens evolves under a Markov chain whose stationary distribution is uniform, and whose transition matrix at step ℓ is the plan computed at layer ℓ. This is a stronger statement than conservation at each layer: it says that no sequence of layers can conspire to concentrate mass, because the product of doubly stochastic matrices is doubly stochastic (Theorem 4, Appendix A). Informally, the model cannot develop a preference for a token that it carries through depth; it can only develop a preference for a token at a particular layer. The reading also clarifies what the MLP does. The MLP is position-wise, so it does not move mass between positions; it changes what each position means, and therefore what the next layer's costs will be. The division of labour is clean: attention conserves and routes, the MLP transforms. Under row normalization attention both routes and transforms, and the two are entangled in a way that is hard to attribute.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 50,
+      "id": "p4-56",
+      "page": 4,
+      "bbox": [
+        315.45,
+        72.3,
+        555.62,
+        122.0
+      ],
+      "source": "5 Experiments Our experiments ask four questions. Does the constraint help at scale, and does its benefit grow? Does it do what the theory says, namely make depth monotone and remove",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 51,
+      "id": "p5-57",
+      "page": 5,
+      "bbox": [
+        56.25,
+        707.4,
+        296.52,
+        729.95
+      ],
+      "source": "sinks? Does it transfer beyond language modeling? And which part of the mechanism is responsible?",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 52,
+      "id": "p5-58",
+      "page": 5,
+      "bbox": [
+        56.25,
+        652.3,
+        296.76,
+        700.35
+      ],
+      "source": "5.1 Setup Models. We train decoder-only Transformers at 160M, 410M, 1.4B, and 7B parameters (12/24/24/32 layers; d = 768/1024/2048/4096). All models use Pre-RMSNorm,",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 53,
+      "id": "p5-59",
+      "page": 5,
+      "bbox": [
+        272.45,
+        645.23,
+        276.76,
+        650.62
+      ],
+      "source": "-4",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 54,
+      "id": "p5-60",
+      "page": 5,
+      "bbox": [
+        56.25,
+        464.3,
+        296.73,
+        651.55
+      ],
+      "source": "SwiGLU, RoPE, QK-norm, and a router z-loss of 10, and are trained for 400B tokens with a 2M-token batch, a 3e-4 peak learning rate, and a cosine schedule with 2% warmup. Appendix B lists every hyperparameter. Baselines. Transformer++ is the architecture above with softmax attention. We also report a QK-norm-only variant in the depth study, and a column-normalized layer (every column sums to one, rows free) in the ablations, to separate the effect of the constraint from the effect of normalizing twice. Data. A 1.5T-token mixture of web text (60%), code (25%), and mathematical text (15%), tokenized with a 64K byte-level BPE vocabulary. All models see the same 400B tokens in the same order. Evaluation is on WikiText-103, C4, PIQA, HellaSwag, ARC-easy, and MMLU, plus RULER for long context and WMT24 for translation.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 55,
+      "id": "p5-61",
+      "page": 5,
+      "bbox": [
+        56.25,
+        246.4,
+        296.52,
+        457.25
+      ],
+      "source": "5.2 Language modeling Table 2 reports the main result. Balanced attention improves perplexity at every scale, and the improvement in downstream accuracy grows with model size: +1.1 points at 160M, +1.3 at 410M, +1.4 at 1.4B, and +1.8 at 7B. The relative perplexity gap grows with scale (3.3%, 4.5%, 5.9%, 7.7%), which is the signature of a change in the architecture's scaling behaviour rather than a fixed additive improvement. The pattern of gains is diagnostic. The largest improvements are on tasks that require retrieving a specific low-frequency token from a long context: MMLU (+1.7), HellaSwag (+2.2), and ARC-easy (+2.5) at 7B. The smallest are on PIQA (+0.9), where the answer is usually recoverable from the question alone. This is what Corollary 1 predicts: a layer that must give every key a unit of mass cannot ignore a rare key, so the information it carries remains readable at depth.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 56,
+      "id": "p5-62",
+      "page": 5,
+      "bbox": [
+        56.25,
+        189.43,
+        296.77,
+        237.97
+      ],
+      "source": "Table 2: Main results at 400B tokens. Perplexity (lower is better) on WikiText-103 and C4; zero-shot accuracy (higher is better) on four benchmarks. Averages are over the four accuracy columns. All differences except PIQA at 160M are significant at p < 0.01 over three seeds.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 57,
+      "id": "p5-63",
+      "page": 5,
+      "bbox": [
+        57.4,
+        176.65,
+        76.43,
+        184.35
+      ],
+      "source": "Model",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 58,
+      "id": "p5-64",
+      "page": 5,
+      "bbox": [
+        57.4,
+        156.85,
+        103.63,
+        164.55
+      ],
+      "source": "160M Balanced",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 59,
+      "id": "p5-65",
+      "page": 5,
+      "bbox": [
+        57.4,
+        137.55,
+        103.63,
+        145.25
+      ],
+      "source": "410M Balanced",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 60,
+      "id": "p5-66",
+      "page": 5,
+      "bbox": [
+        57.4,
+        98.95,
+        120.46,
+        174.2
+      ],
+      "source": "1.4B Balanced 7B Transformer++ 7B Balanced 160M Transformer++",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 61,
+      "id": "p5-67",
+      "page": 5,
+      "bbox": [
+        57.4,
+        147.2,
+        120.46,
+        154.9
+      ],
+      "source": "410M Transformer++",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 62,
+      "id": "p5-68",
+      "page": 5,
+      "bbox": [
+        57.4,
+        98.95,
+        292.3,
+        184.35
+      ],
+      "source": "1.4B Transformer++ Wiki 24.6 23.8 17.9 17.1 13.6 12.8 10.4 9.6 C4 22.1 21.4 16.4 15.7 12.9 12.1 10.1 9.4 PIQA 60.1 61.4 66.8 68.0 72.1 73.2 76.9 77.8 HS 28.9 29.8 35.6 36.9 43.7 45.1 56.2 58.4 ARC-e 43.2 44.9 52.1 53.8 62.4 64.6 73.1 75.6 MMLU 24.5 25.2 25.9 26.8 27.6 28.9 30.4 32.1 Avg 39.2 40.3 45.1 46.4 51.5 52.9 59.2 61.0",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 63,
+      "id": "p5-69",
+      "page": 5,
+      "bbox": [
+        303.6,
+        28.5,
+        555.92,
+        729.95
+      ],
+      "source": "5 5.3 Scaling laws Figure 2 fits a power law L(C) = a + b  C-α to the loss at 16 checkpoints per run, where C is training compute. Both architectures give α = 0.20 ± 0.01, that is, the same exponent. They differ in the irreducible term: a = 1.63 for Transformer++ and a = 1.55 for balanced attention, with b",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 64,
+      "id": "p5-70",
+      "page": 5,
+      "bbox": [
+        528.65,
+        651.32,
+        537.92,
+        656.71
+      ],
+      "source": "-1/α",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 65,
+      "id": "p5-71",
+      "page": 5,
+      "bbox": [
+        315.45,
+        646.65,
+        528.65,
+        657.65
+      ],
+      "source": "= 1.25 for both. Because compute scales as (L - a)",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 66,
+      "id": "p5-72",
+      "page": 5,
+      "bbox": [
+        537.9,
+        646.65,
+        555.96,
+        657.65
+      ],
+      "source": ", the",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 67,
+      "id": "p5-73",
+      "page": 5,
+      "bbox": [
+        315.45,
+        600.45,
+        555.69,
+        646.1
+      ],
+      "source": "0.08 nat difference is worth a factor of 1.8 in compute at the 7B operating point (loss 2.26 nats per token), and 1.5 at 1.4B. Balanced attention does not change how fast models improve; it changes how far they can go.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 68,
+      "id": "p5-74",
+      "page": 5,
+      "bbox": [
+        315.45,
+        434.88,
+        555.56,
+        473.78
+      ],
+      "source": "Figure 2: Scaling. Training loss against compute for balanced attention and Transformer++, with power-law fits. The slopes are identical (α = 0.20); the intercepts differ by 0.08 nats, which is worth 1.8× compute at the 7B operating point (arrow).",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 69,
+      "id": "p5-75",
+      "page": 5,
+      "bbox": [
+        315.45,
+        274.65,
+        555.64,
+        427.75
+      ],
+      "source": "5.4 Depth If Theorem 2 is the reason for the gains, they should be largest where depth is largest. We train 410M-parameter models at 12, 24, 48, and 96 layers with width held fixed, and report perplexity in Table 3. The baseline is non- monotone beyond 48 layers: 96 layers are 5.9 perplexity points worse than 48. QK-norm, which bounds the logits and is the standard fix, recovers 5.1 of those points but does not make the curve monotone. Balanced attention is monotone throughout: 96 layers are 0.1 points better than 48. The gradient statistics explain the difference. In the baseline, the variance of per-layer gradient norms grows",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 70,
+      "id": "p5-76",
+      "page": 5,
+      "bbox": [
+        500.85,
+        267.77,
+        519.12,
+        273.17
+      ],
+      "source": "0.31 L",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 71,
+      "id": "p5-77",
+      "page": 5,
+      "bbox": [
+        315.45,
+        263.1,
+        500.88,
+        274.1
+      ],
+      "source": "exponentially with depth (a factor of e",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 72,
+      "id": "p5-78",
+      "page": 5,
+      "bbox": [
+        519.1,
+        263.1,
+        555.85,
+        274.1
+      ],
+      "source": "in our",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 73,
+      "id": "p5-79",
+      "page": 5,
+      "bbox": [
+        315.45,
+        228.45,
+        555.47,
+        262.55
+      ],
+      "source": "measurements); in the balanced model it is flat. Theorem 2 bounds the value path, and the bound is evidently the binding constraint in practice.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 74,
+      "id": "p5-80",
+      "page": 5,
+      "bbox": [
+        315.45,
+        200.82,
+        555.36,
+        220.03
+      ],
+      "source": "Table 3: Depth scaling at 410M parameters with width fixed at d=1024. Perplexity on WikiText-103 after 100B tokens.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 75,
+      "id": "p5-81",
+      "page": 5,
+      "bbox": [
+        317.4,
+        151.75,
+        549.55,
+        195.25
+      ],
+      "source": "Model Transformer++ + QK-norm Balanced (ours) 12 layers 18.4 18.3 18.0 24 layers 17.9 17.8 17.1 48 layers 18.8 18.1 16.6 96 layers 24.7 19.6 16.5",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 76,
+      "id": "p5-82",
+      "page": 5,
+      "bbox": [
+        315.45,
+        60.3,
+        555.62,
+        131.05
+      ],
+      "source": "5.5 Long context We continue training the 1.4B models on 32K-token sequences for 20B tokens and evaluate on RULER at four lengths. Table 4 and Figure 3 report the result. The baseline degrades by 57 points between 4K and 1M tokens; the balanced model degrades by 43, and the gap at 1M is 14.7",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 77,
+      "id": "p6-83",
+      "page": 6,
+      "bbox": [
+        56.25,
+        601.95,
+        296.51,
+        729.95
+      ],
+      "source": "points. Needle-in-a-haystack at 1M tokens, the most direct test of whether a rare key can be found, improves from 46.2% to 71.8%. The improvement is not uniform across RULER's subtasks. It is largest on multi-needle retrieval (+22.4), variable tracking (+18.1), and aggregation (+15.6), and smallest on question answering over a single document (+4.2). The three tasks that improve most are exactly the ones in which several rare keys must remain readable at once, which is the regime in which a row-normalized layer routes everything to whichever key ranks first.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 78,
+      "id": "p6-84",
+      "page": 6,
+      "bbox": [
+        56.25,
+        564.67,
+        296.4,
+        593.52
+      ],
+      "source": "Table 4: Long-context evaluation of the 1.4B models. RULER average accuracy (%) at four context lengths, and needle-in-a- haystack (NIAH) accuracy at 1M tokens.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 79,
+      "id": "p6-85",
+      "page": 6,
+      "bbox": [
+        58.25,
+        527.1,
+        292.98,
+        559.2
+      ],
+      "source": "Model Transformer++ Balanced (ours) 4K 84.6 85.4 32K 71.2 77.9 128K 51.8 64.6 1M 27.4 42.1 NIAH 1M 46.2 71.8",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 80,
+      "id": "p6-86",
+      "page": 6,
+      "bbox": [
+        56.25,
+        348.18,
+        296.45,
+        386.78
+      ],
+      "source": "Figure 3: Long context. RULER average accuracy against context length. Both models are trained to 32K and evaluated zero-shot beyond it. The balanced model loses 43 points from 4K to 1M; the baseline loses 57.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 81,
+      "id": "p6-87",
+      "page": 6,
+      "bbox": [
+        56.25,
+        153.2,
+        296.46,
+        341.15
+      ],
+      "source": "5.6 Translation and cross-attention Balanced attention is not specific to decoder-only models. We train 800M-parameter encoder-decoder models on WMT24 for three language pairs and balance the cross- attention marginals: the source marginal is uniform over source tokens, the target marginal uniform over target positions. Table 5 reports BLEU and COMET. The average gain is 1.1 BLEU and 1.3 COMET, with the largest gain on the pair with the most reordering (Zh-En, +1.2). The learned source marginals are interpretable. Averaged over the test set, the mass a source token receives correlates with its fertility (r = 0.71), and the layer assigns near-zero mass to punctuation and to tokens that the reference translation drops. This is the behaviour of a statistical alignment model, but it emerges from the constraint rather than from a separate alignment step.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 82,
+      "id": "p6-88",
+      "page": 6,
+      "bbox": [
+        56.25,
+        125.67,
+        296.21,
+        144.78
+      ],
+      "source": "Table 5: WMT24 translation. BLEU and COMET for 800M encoder- decoder models with softmax or balanced cross-attention.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 83,
+      "id": "p6-89",
+      "page": 6,
+      "bbox": [
+        58.25,
+        111.4,
+        72.88,
+        120.2
+      ],
+      "source": "Pair",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 84,
+      "id": "p6-90",
+      "page": 6,
+      "bbox": [
+        58.25,
+        56.1,
+        138.9,
+        120.2
+      ],
+      "source": "En→De De→En Zh→En Average T++ BLEU",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 85,
+      "id": "p6-91",
+      "page": 6,
+      "bbox": [
+        112.8,
+        56.1,
+        284.72,
+        120.2
+      ],
+      "source": "28.4 33.1 26.7 29.4 Balanced BLEU 29.6 34.0 27.9 30.5 T++ COMET 82.1 84.6 79.8 82.2 Balanced COMET 83.4 85.7 81.3 83.5",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 86,
+      "id": "p6-92",
+      "page": 6,
+      "bbox": [
+        303.6,
+        28.5,
+        555.87,
+        711.9
+      ],
+      "source": "6 5.7 Ablations Table 6 isolates the components at 410M parameters and 100B tokens. Normalizing columns alone is worse than softmax (19.4 against 18.9): the row constraint is what makes attention a convex combination, and removing it is not the point. Balancing both is worth 0.8 perplexity points over softmax. A null column and learned marginals each add 0.2. The iteration count saturates at three; T=1 is 0.3 worse, and T=5 is identical to T=3, which is why we use three. ε matters but is not delicate: everything between 0.03 and 0.1 is within 0.1 perplexity points of the best value.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 87,
+      "id": "p6-93",
+      "page": 6,
+      "bbox": [
+        315.45,
+        545.73,
+        555.73,
+        574.58
+      ],
+      "source": "Table 6: Ablations at 410M parameters and 100B tokens. Perplexity on WikiText-103 and difference from the balanced uniform configuration.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 88,
+      "id": "p6-94",
+      "page": 6,
+      "bbox": [
+        317.45,
+        418.12,
+        539.34,
+        540.62
+      ],
+      "source": "Variant Softmax (row marginal only) Column marginal only Balanced, uniform marginals + null column + learned marginals ε = 0.01 ε = 0.1 ε = 0.5 T = 1 (one Sinkhorn iteration) T = 5 Block-balanced, w = 512 Ppl 18.9 19.4 18.1 17.9 17.9 18.4 18.0 18.6 18.4 18.1 18.3 Δ +0.8 +1.3 — -0.2 -0.2 +0.3 -0.1 +0.5 +0.3 0.0 +0.2",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 89,
+      "id": "p6-95",
+      "page": 6,
+      "bbox": [
+        315.45,
+        268.75,
+        555.91,
+        397.65
+      ],
+      "source": "5.8 What changes inside the model Figure 4 measures the two quantities the theory constrains. In the 7B baseline the fraction of routing mass captured by the single most-attended key rises from 0.18 in layer 0 to 0.61 by layer 8 and stays there; in the balanced model it is 1/n = 4.9 × 10-4 at every layer, by construction. Attention entropy tells the same story from the other side: the baseline falls from 6.2 to 2.4 nats across depth, the balanced model stays within 0.4 nats of log n = 7.6. The baseline does not merely prefer a few keys; it progressively loses the ability to attend anywhere else.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 90,
+      "id": "p6-96",
+      "page": 6,
+      "bbox": [
+        315.45,
+        111.33,
+        555.78,
+        150.12
+      ],
+      "source": "Figure 4: Sinks and entropy. (a) Fraction of routing mass captured by the most-attended key, averaged over heads, for a 7B model. The balanced curve is the analytic value 1/n, not a measurement with error bars. (b) Attention entropy in nats; log n is the uniform plan.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 91,
+      "id": "p6-97",
+      "page": 6,
+      "bbox": [
+        315.45,
+        59.15,
+        555.65,
+        104.8
+      ],
+      "source": "Because a balanced layer is a transport plan, its attention can be read as an alignment. Figure 5 shows a single head of the 7B model on an English-German sentence pair. The plan is monotone, nearly diagonal, and places mass on the",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 92,
+      "id": "p7-98",
+      "page": 7,
+      "bbox": [
+        56.25,
+        661.2,
+        296.48,
+        729.95
+      ],
+      "source": "content words that the translation reorders; the softmax head is diffuse and concentrates on the first token. Applied to all pairs of a 1,000-sentence test set, plans extracted from the balanced model give an alignment error rate of 0.19 against 0.34 for the baseline, close to the 0.17 of a dedicated fast-align model.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 93,
+      "id": "p7-99",
+      "page": 7,
+      "bbox": [
+        56.25,
+        478.18,
+        296.41,
+        526.52
+      ],
+      "source": "Figure 5: Attention as transport. One head of the 7B model on an English-German pair. Columns are source tokens, rows are target tokens. Left: softmax attention, which collapses onto the first source token. Right: balanced attention, whose plan is sparse, monotone and aligned with the translation.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 94,
+      "id": "p7-100",
+      "page": 7,
+      "bbox": [
+        56.25,
+        379.8,
+        296.51,
+        471.65
+      ],
+      "source": "Finally, we ask whether the improvement comes from a better-conditioned optimization or from a better final function. Training the balanced model for 400B tokens and then fine-tuning the attention normalizer back to softmax for 2B tokens recovers only 0.2 of the 0.8 perplexity advantage at 410M and degrades long-context accuracy to the baseline's level. The constraint is not a warm-up device; it is the function.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 95,
+      "id": "p7-101",
+      "page": 7,
+      "bbox": [
+        56.25,
+        74.95,
+        296.68,
+        370.2
+      ],
+      "source": "6 Related Work Efficient attention. Sparse, low-rank, and kernel approximations replace the n × n matrix with something cheaper [16, 25, 24]. Balanced attention is orthogonal: it costs the same and can be combined with any of them, since the constraint applies to whatever cost matrix the approximation produces. FlashAttention [23] is a kernel- level change that is similarly orthogonal, and our fused implementation reuses its tiling. Sinkhorn and optimal transport in attention. Tay et al. [14] apply Sinkhorn normalization to a block-level routing matrix in order to sparsify it; the plan they compute is over blocks, and the target is efficiency. Our target is the plan itself: we fix both marginals over tokens, derive conservation and non-expansiveness from that, and use it to explain depth and long-context behaviour. Entropic transport has also been used to interpret trained attention post hoc; here the constraint is in the architecture from step zero. Stability tricks. QK-norm [15], z-loss [32], embedding scaling, and logit capping [13] all bound a quantity that would otherwise grow. Balanced attention bounds the routing operator instead, and Appendix A shows the bound is architectural rather than empirical. In our runs the baseline needs all four tricks to train at 96 layers; the",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 96,
+      "id": "p7-102",
+      "page": 7,
+      "bbox": [
+        303.6,
+        28.5,
+        555.88,
+        729.95
+      ],
+      "source": "7 balanced model needs none of them beyond QK-norm for numerical range. Attention sinks and massive activations. Xiao et al. [21] identify the sink as a streaming artefact and exploit it by keeping a few tokens' key-value pairs. Sun et al. [22] connect it to massive activations. Our reading is that both are the visible face of an unconstrained column marginal, and Corollary 1 makes them impossible rather than manageable. Doubly stochastic matrices. The Birkhoff-von Neumann theorem and the extension theorem of Mirsky [7] are classical; to our knowledge they have not been used as an architectural constraint for attention, nor have their consequences for depth been derived. The Markov reading of Section 4.5 is a restatement of closure under multiplication, but it is a useful one: it says the network's depth cannot concentrate mass, only redistribute it. Interpretability. Analyses of attention as a circuit [26, 27] describe what heads compute in a trained model. Balanced attention does not make a head's computation simpler, but it makes the head's routing readable as a transport plan with known marginals, which removes one degree of freedom from the post-hoc analysis.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 97,
+      "id": "p7-103",
+      "page": 7,
+      "bbox": [
+        315.45,
+        63.1,
+        555.89,
+        450.75
+      ],
+      "source": "7 Discussion Why a conservation law is the right abstraction. A row- normalized layer is a lossy channel: it can amplify one input and annihilate another. A balanced layer is a flow: it moves mass around but neither creates nor destroys it. The distinction is not decorative. Flows compose, have stationary distributions, and satisfy maximum principles; lossy channels do none of these, and the pathologies of deep attention are exactly the failures of composition without a conservation law. Framing the fix as a constraint rather than a regularizer also makes it checkable at run time: the column marginal of every layer can be measured, and any deviation is a bug, not a hyperparameter. When balancing hurts. A layer that must give every key a unit of mass cannot ignore a key entirely. On tasks where most of the context is irrelevant, that is a cost: padded batches, classification with long distractors, and retrieval settings with many near-misses. The null column is the right response, and it recovers the softmax behaviour in the limit; in our ablations it costs nothing on language modeling and gains 1.9 points on a distractor-heavy classification probe we report in Appendix C. We would not use uniform marginals for a task whose correct behaviour is to read one sentence and discard a thousand. Limitations. The plan is still n × n, so the asymptotic cost is unchanged; the benefit is in what the model does with the mass, not in the FLOPs. The Sinkhorn iteration is sequential in T, which sets a latency floor of about 0.4 ms per layer at 128K tokens even with the fused kernel. Our theory bounds the routing operator, not the full network: the logits depend on the input, and a sufficiently adversarial input can still produce a sharp plan on a single row (though not on a single column). Our largest model is 7B",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 98,
+      "id": "p8-104",
+      "page": 8,
+      "bbox": [
+        56.25,
+        555.75,
+        296.5,
+        729.95
+      ],
+      "source": "parameters trained on 400B tokens, which is small by the standards of frontier systems; the scaling fits suggest the advantage persists, but we have not verified it beyond this regime. Finally, ε is a real hyperparameter, and while it was flat across three orders of magnitude of compute in our runs, a new modality may need it re-tuned. Broader impact. A routing matrix whose marginals are known is easier to audit: an analyst can ask which tokens paid for a prediction, and the answer is a row of a transport plan rather than an unnormalized score. We see this as a modest but genuine interpretability benefit. The method adds no data, no parameters of consequence, and no new failure mode that we can identify beyond the ones above; its compute cost is 3%, which is small relative to the gains we report.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 99,
+      "id": "p8-105",
+      "page": 8,
+      "bbox": [
+        56.25,
+        369.4,
+        296.46,
+        546.15
+      ],
+      "source": "8 Conclusion Attention normalizes rows and leaves columns free. We have argued that this single asymmetry is responsible for a family of failures that the field has been treating one at a time: sinks, hubs, residual growth, depth degradation, and shrinking effective context. Balancing the columns turns each layer into an optimal transport plan, and the plan brings with it a conservation law, non-expansiveness, sink- freeness, and a readable alignment. The change is one normalization and 3% of compute. It improves every scale we tested, it makes depth monotone, and it makes a million-token context usable. We expect the constraint to be most useful exactly where the field is heading: models whose context is much larger than their capacity to route within it.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 100,
+      "id": "p8-107",
+      "page": 8,
+      "bbox": [
+        56.25,
+        68.97,
+        296.77,
+        344.43
+      ],
+      "source": "[1] Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., and Polosukhin, I. Attention is all you need. In NeurIPS, 2017. [2] Bahdanau, D., Cho, K., and Bengio, Y. Neural machine translation by jointly learning to align and translate. In ICLR, 2015. [3] Birkhoff, G. Tres observaciones sobre el algebra lineal. Universidad Nacional de Tucumán Revista, Series A, 5:147-151, 1946. [4] Cuturi, M. Sinkhorn distances: lightspeed computation of optimal transport. In NeurIPS, 2013. [5] Peyré, G. and Cuturi, M. Computational optimal transport. Foundations and Trends in Machine Learning, 11(5-6):355-607, 2019. [6] Sinkhorn, R. and Knopp, P. Concerning nonnegative matrices and doubly stochastic matrices. Pacific Journal of Mathematics, 21(2):343-348, 1967. [7] Mirsky, L. On a convex set of matrices. Archiv der Mathematik, 10:88-92, 1959. [8] Chizat, L., Peyré, G., Schmitzer, B., and Vialard, F.-X. Scaling algorithms for unbalanced optimal transport problems. Mathematics of Computation, 87(314):2563-2609, 2018. [9] Luise, G., Rudi, A., Pontil, M., and Ciliberto, C. Differential properties of Sinkhorn approximation for learning with Wasserstein distance. In NeurIPS, 2018. [10] Dong, Y., Cordonnier, J.-B., and Loukas, A. Attention is not all you need: pure attention loses rank doubly exponentially with depth. In ICML, 2021. [11] Dehghani, M., Gouws, S., Vinyals, O., Uszkoreit, J., and Kaiser, Ł. Universal transformers. In ICLR, 2019. [12] Eisenberger, M., Toker, A., Brix, C., Cremers, D., and Bernard, F. A unified framework for implicit Sinkhorn differentiation. In CVPR, 2022. [13] Chowdhery, A., Narang, S., Devlin, J., et al. PaLM: scaling language modeling with pathways. arXiv:2204.02311, 2022.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 101,
+      "id": "p8-108",
+      "page": 8,
+      "bbox": [
+        303.6,
+        28.5,
+        308.6,
+        39.5
+      ],
+      "source": "8",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 102,
+      "id": "p8-109",
+      "page": 8,
+      "bbox": [
+        315.45,
+        260.73,
+        555.98,
+        730.17
+      ],
+      "source": "[14] Tay, Y., Bahri, D., Yang, L., Metzler, D., and Juan, D.-C. Sparse Sinkhorn attention. In ICML, 2020. [15] Henry, A., Dachapally, P. R., Pawar, S., and Chen, Y. Query-key normalization for transformers. In EMNLP Findings, 2020. [16] Beltagy, I., Peters, M. E., and Cohan, A. Longformer: the long-document transformer. arXiv:2004.05150, 2020. [17] Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., and Liang, P. Lost in the middle: how language models use long contexts. TACL, 2024. [18] Kaplan, J., McCandlish, S., Henighan, T., et al. Scaling laws for neural language models. arXiv:2001.08361, 2020. [19] Franklin, J. and Lorenz, J. On the scaling of multidimensional matrices. Linear Algebra and its Applications, 114:717-735, 1989. [20] Hoffmann, J., Borgeaud, S., Mensch, A., et al. Training compute-optimal large language models. In NeurIPS, 2022. [21] Xiao, G., Tian, Y., Chen, B., Han, S., and Lewis, M. Efficient streaming language models with attention sinks. In ICLR, 2024. [22] Sun, M., Chen, X., Kolter, J. Z., and Liu, Z. Massive activations in large language models. arXiv:2402.17762, 2024. [23] Dao, T., Fu, D. Y., Ermon, S., Rudra, A., and Ré, C. FlashAttention: fast and memory-efficient exact attention with IO-awareness. In NeurIPS, 2022. [24] Gu, A. and Dao, T. Mamba: linear-time sequence modeling with selective state spaces. arXiv:2312.00752, 2023. [25] Choromanski, K., Likhosherstov, V., Dohan, D., et al. Rethinking attention with performers. In ICLR, 2021. [26] Elhage, N., Nanda, N., Olsson, C., et al. A mathematical framework for transformer circuits. Transformer Circuits Thread, 2021. [27] Olsson, C., Elhage, N., Nanda, N., et al. In-context learning and induction heads. Transformer Circuits Thread, 2022. [28] Genevay, A., Peyré, G., and Cuturi, M. Learning generative models with Sinkhorn divergences. In AISTATS, 2018. [29] Koehn, P. and Knowles, R. Six challenges for neural machine translation. In Workshop on Neural Machine Translation, 2017. [30] Xiong, R., Yang, Y., He, D., et al. On layer normalization in the transformer architecture. In ICML, 2020. [31] Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., and Sutskever, I. Language models are unsupervised multitask learners. OpenAI technical report, 2019. [32] Zoph, B., Bello, I., Kumar, S., et al. ST-MoE: designing stable and transferable sparse expert models. arXiv:2202.08906, 2022. [33] Su, J., Lu, Y., Pan, S., Murtadha, A., Wen, B., and Liu, Y. RoFormer: enhanced transformer with rotary position embedding. Neurocomputing, 568, 2024. [34] Shazeer, N. GLU variants improve transformer. arXiv:2002.05202, 2020. [35] Sander, M. E., Ablin, P., Blondel, M., and Peyré, G. Momentum conserver: momentum improves Sinkhorn's convergence. In ICLR, 2022. [36] Zhang, B. and Sennrich, R. Root mean square layer normalization. In NeurIPS, 2019.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 103,
+      "id": "p9-110",
+      "page": 9,
+      "bbox": [
+        56.25,
+        717.8,
+        100.21,
+        729.9
+      ],
+      "source": "A Proofs",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 104,
+      "id": "p9-111",
+      "page": 9,
+      "bbox": [
+        56.25,
+        677.7,
+        296.6,
+        710.8
+      ],
+      "source": "A.1 Theorem 1 (conservation) Let P ∈ ℝn × n satisfy P 1 = 1 and P⊤ 1 = 1. Then 1⊤ P = (P⊤ 1)⊤ = 1⊤, so 1⊤ P V = 1⊤ V for every V. The second claim is",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 105,
+      "id": "p9-112",
+      "page": 9,
+      "bbox": [
+        317.4,
+        664.15,
+        341.38,
+        684.85
+      ],
+      "source": "Setting Layers",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 106,
+      "id": "p9-113",
+      "page": 9,
+      "bbox": [
+        56.25,
+        652.7,
+        296.68,
+        673.55
+      ],
+      "source": "the row constraint. □ Corollary 1 follows because the total mass 1⊤ P 1 = n is",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 107,
+      "id": "p9-114",
+      "page": 9,
+      "bbox": [
+        317.4,
+        641.35,
+        343.35,
+        661.55
+      ],
+      "source": "Width d Heads",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 108,
+      "id": "p9-115",
+      "page": 9,
+      "bbox": [
+        56.25,
+        637.75,
+        296.46,
+        648.75
+      ],
+      "source": "fixed and every column contributes exactly one, so the",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 109,
+      "id": "p9-116",
+      "page": 9,
+      "bbox": [
+        317.4,
+        629.95,
+        348.7,
+        638.75
+      ],
+      "source": "Head dim",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 110,
+      "id": "p9-117",
+      "page": 9,
+      "bbox": [
+        56.25,
+        626.0,
+        206.6,
+        637.0
+      ],
+      "source": "largest share any key can hold is 1/n.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 111,
+      "id": "p9-118",
+      "page": 9,
+      "bbox": [
+        317.4,
+        618.55,
+        348.67,
+        627.35
+      ],
+      "source": "FFN ratio",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 112,
+      "id": "p9-119",
+      "page": 9,
+      "bbox": [
+        56.25,
+        607.95,
+        206.96,
+        618.95
+      ],
+      "source": "A.2 Theorem 2 (non-expansiveness)",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 113,
+      "id": "p9-120",
+      "page": 9,
+      "bbox": [
+        317.4,
+        607.15,
+        364.22,
+        615.95
+      ],
+      "source": "Batch (tokens)",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 114,
+      "id": "p9-121",
+      "page": 9,
+      "bbox": [
+        56.25,
+        597.6,
+        296.67,
+        608.6
+      ],
+      "source": "For any matrix, ‖P‖2 ≤ ‖P‖ ‖P‖ (Hölder). For doubly",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 115,
+      "id": "p9-122",
+      "page": 9,
+      "bbox": [
+        317.4,
+        595.75,
+        360.21,
+        604.55
+      ],
+      "source": "Learning rate",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 116,
+      "id": "p9-123",
+      "page": 9,
+      "bbox": [
+        142.8,
+        594.67,
+        205.19,
+        600.16
+      ],
+      "source": "∞ 2 1",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 117,
+      "id": "p9-124",
+      "page": 9,
+      "bbox": [
+        317.4,
+        584.35,
+        345.34,
+        593.15
+      ],
+      "source": "Warmup",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 118,
+      "id": "p9-125",
+      "page": 9,
+      "bbox": [
+        56.25,
+        582.45,
+        296.81,
+        593.45
+      ],
+      "source": "stochastic P, ‖P‖1 = maxj ∑i Pij = 1 and ‖P‖∞ = maxi ∑j Pij",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 119,
+      "id": "p9-126",
+      "page": 9,
+      "bbox": [
+        317.4,
+        572.95,
+        340.9,
+        581.75
+      ],
+      "source": "Tokens",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 120,
+      "id": "p9-127",
+      "page": 9,
+      "bbox": [
+        56.25,
+        570.7,
+        296.41,
+        581.7
+      ],
+      "source": "= 1, so ‖P‖2 ≤ 1 and ‖P(V - V')‖2 ≤ ‖V - V'‖2. Equality",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 121,
+      "id": "p9-128",
+      "page": 9,
+      "bbox": [
+        317.4,
+        561.55,
+        320.55,
+        570.35
+      ],
+      "source": "ε",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 122,
+      "id": "p9-129",
+      "page": 9,
+      "bbox": [
+        56.25,
+        558.95,
+        296.4,
+        569.95
+      ],
+      "source": "requires ‖P‖2 = 1, which for a nonnegative matrix with unit",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 123,
+      "id": "p9-130",
+      "page": 9,
+      "bbox": [
+        317.4,
+        550.15,
+        353.15,
+        558.95
+      ],
+      "source": "Sinkhorn T",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 124,
+      "id": "p9-131",
+      "page": 9,
+      "bbox": [
+        56.25,
+        510.85,
+        296.67,
+        558.4
+      ],
+      "source": "row and column sums forces P to be a permutation: if two rows share a column with positive mass, the corresponding columns must be linearly dependent. □ Theorem 4 (closure). If P, …, PL are doubly stochastic",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 125,
+      "id": "p9-132",
+      "page": 9,
+      "bbox": [
+        176.0,
+        511.32,
+        178.71,
+        516.71
+      ],
+      "source": "1",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 126,
+      "id": "p9-133",
+      "page": 9,
+      "bbox": [
+        56.25,
+        490.75,
+        296.52,
+        510.1
+      ],
+      "source": "then ∏ℓ Pℓ is doubly stochastic. Indeed (P1 P2) 1 = P1 1 = 1 and 1⊤ (P P) = 1⊤ P = 1⊤, and nonnegativity is preserved.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 127,
+      "id": "p9-134",
+      "page": 9,
+      "bbox": [
+        94.7,
+        487.82,
+        144.96,
+        493.22
+      ],
+      "source": "1 2 2",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 128,
+      "id": "p9-135",
+      "page": 9,
+      "bbox": [
+        56.25,
+        475.6,
+        62.8,
+        486.6
+      ],
+      "source": "□",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 129,
+      "id": "p9-136",
+      "page": 9,
+      "bbox": [
+        56.25,
+        267.85,
+        296.8,
+        468.55
+      ],
+      "source": "A.3 Theorem 3 (simulation) Let A be row-stochastic and set B = A/n. Then B 1 = 1/n and B⊤ 1 ≤ 1, so every row and column sum of B is at most one. By the doubly stochastic extension theorem [7] there is a doubly stochastic matrix Q of order 2n with Qij = Bij for i, j ≤ n. Therefore n   Q[1:n,1:n] V = A V, and the scalar n is absorbed into WO. □ Proposition 1 (dustbin). Let A be any row-stochastic matrix and b = A⊤ 1. Then A ∈ U(1, b), and U(1, b) is the feasible set of a balanced layer in which the column marginal is free. Hence the null-column variant contains every softmax attention pattern as a feasible point, and its optimum coincides with softmax attention in the limit where the null column absorbs the entire column defect. The first claim is a direct computation; the second follows from the standard equivalence between unbalanced transport with a free marginal and balanced transport with a dustbin [8]. □",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 130,
+      "id": "p9-137",
+      "page": 9,
+      "bbox": [
+        56.25,
+        169.95,
+        296.61,
+        260.8
+      ],
+      "source": "A.4 Note on the gradient The claim in Section 4.4 follows from the envelope theorem applied to F(C) = minP ∈ U(1,1) ⟨ P, C ⟩ - ε H(P), which is a minimum of affine functions of C and therefore concave in C; its gradient is P*, so ∂ P*/∂ C is symmetric and negative semidefinite with spectrum bounded by the entropy scale. The bound is tight in the uniform-plan limit, where P* does not depend on C at all.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 131,
+      "id": "p9-138",
+      "page": 9,
+      "bbox": [
+        315.45,
+        717.8,
+        411.87,
+        729.9
+      ],
+      "source": "B Hyperparameters",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 132,
+      "id": "p9-139",
+      "page": 9,
+      "bbox": [
+        315.45,
+        690.33,
+        555.46,
+        709.43
+      ],
+      "source": "Table 7: Model and optimization hyperparameters. All models use the same recipe; only the attention normalizer differs between arms.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 133,
+      "id": "p9-140",
+      "page": 9,
+      "bbox": [
+        315.45,
+        419.25,
+        555.95,
+        526.9
+      ],
+      "source": "C Distractor probe We concatenate a short sentiment sentence with k unrelated news paragraphs and fine-tune the 1.4B models for 2B tokens on the task. With k = 8, uniform marginals reach 88.4% accuracy, the null-column variant 91.2%, and the softmax baseline 90.6%. The result is the expected one: when the correct behaviour is to ignore most of the input, the ability to dump mass is worth having, and it is worth having as an option rather than as the only behaviour.",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 134,
+      "id": "p9-141",
+      "page": 9,
+      "bbox": [
+        303.6,
+        28.5,
+        308.6,
+        39.5
+      ],
+      "source": "9",
+      "translation": null,
+      "status": "untranslated"
+    },
+    {
+      "index": 135,
+      "id": "p9-142",
+      "page": 9,
+      "bbox": [
+        398.85,
+        550.15,
+        545.04,
+        684.85
+      ],
+      "source": "160M 12 768 12 64 4 0.5M 6e-4 2% 400B 0.05 3 410M 24 1024 16 64 4 1M 3e-4 2% 400B 0.05 3 1.4B 24 2048 16 128 4 2M 3e-4 2% 400B 0.05 3 7B 32 4096 32 128 4 2M 1.5e-4 2% 400B 0.05 3",
+      "translation": null,
+      "status": "untranslated"
+    }
+  ],
+  "glossary": [
+    {
+      "source": "ablations",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "about",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "absorbs",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "accuracy",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "activations",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "advantage",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "against",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "alignment",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "alignments",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "answer",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "appendix",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "approximations",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "architecture",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "arxiv",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "attention",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "average",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "balanced",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "balancing",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "baseline",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "because",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "become",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "behaviour",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "benefit",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "better",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "beyond",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "bound",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "bounded",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "bounds",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "cannot",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "captured",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "change",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "changes",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "channels",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "circuits",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "claim",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "classification",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "closed",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "combination",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "comet",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "composition",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "computation",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "compute",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "computed",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "consequences",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "conservation",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "constant",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "constrains",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "constraint",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "construction",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "context",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "contexts",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "contributes",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "convex",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "corollary",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "costs",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "cross-attention",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "curve",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "cuturi",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "decides",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "decoder-only",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "degrades",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "depend",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "depth",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "difference",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "direct",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "domain",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "doubly",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "dustbin",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "entropic",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "entropy",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "error",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "every",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "exactly",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "expressivity",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "extension",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "extra",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "factor",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "failure",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "failures",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "fixed",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "follows",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "fraction",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "function",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "fused",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "gains",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "gradient",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "grows",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "heads",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "hence",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "hyperparameter",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "improve",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "improvement",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "improves",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "information",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "input",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "iteration",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "iterations",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "kernel",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "language",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "large",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "largest",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "layer",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "layers",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "learned",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "learning",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "limit",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "logits",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "long-context",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "loses",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "machine",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "marginal",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "marginals",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "massive",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "matrices",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "matrix",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "measure",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "measured",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "model",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "modeling",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "models",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "monotone",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "needs",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "network",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "neural",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "neurips",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "non-expansive",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "non-expansiveness",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "normalization",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "norms",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "nothing",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "operator",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "optimal",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "order",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "pairs",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "parameters",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "perplexity",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "plans",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "point",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "points",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "position",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "positions",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "problem",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "product",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "qk-norm",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "queries",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "query",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "rather",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "readable",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "reading",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "receives",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "recovers",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "relative",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "removes",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "report",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "residual",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "retrieval",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "routes",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "routing",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "row-stochastic",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "ruler",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "scale",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "scaling",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "second",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "sentence",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "sequence",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "single",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "sinkhorn",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "sinks",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "small",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "softmax",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "solution",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "source",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "sparse",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "spends",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "stochastic",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "stream",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "target",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "tasks",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "theorem",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "theory",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "therefore",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "three",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "token",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "tokens",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "total",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "train",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "trained",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "training",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "transformer",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "translation",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "transport",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "unbalanced",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "unconstrained",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "uniform",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "variant",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "whose",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "width",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "wikitext-103",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "worth",
+      "target": null,
+      "freq": null
+    },
+    {
+      "source": "zero-shot",
+      "target": null,
+      "freq": null
+    }
+  ],
+  "glossary_unmapped": [
+    "ablations",
+    "about",
+    "absorbs",
+    "accuracy",
+    "activations",
+    "advantage",
+    "against",
+    "alignment",
+    "alignments",
+    "answer",
+    "appendix",
+    "approximations",
+    "architecture",
+    "arxiv",
+    "attention",
+    "average",
+    "balanced",
+    "balancing",
+    "baseline",
+    "because",
+    "become",
+    "behaviour",
+    "benefit",
+    "better",
+    "beyond",
+    "bound",
+    "bounded",
+    "bounds",
+    "cannot",
+    "captured",
+    "change",
+    "changes",
+    "channels",
+    "circuits",
+    "claim",
+    "classification",
+    "closed",
+    "combination",
+    "comet",
+    "composition",
+    "computation",
+    "compute",
+    "computed",
+    "consequences",
+    "conservation",
+    "constant",
+    "constrains",
+    "constraint",
+    "construction",
+    "context",
+    "contexts",
+    "contributes",
+    "convex",
+    "corollary",
+    "costs",
+    "cross-attention",
+    "curve",
+    "cuturi",
+    "decides",
+    "decoder-only",
+    "degrades",
+    "depend",
+    "depth",
+    "difference",
+    "direct",
+    "domain",
+    "doubly",
+    "dustbin",
+    "entropic",
+    "entropy",
+    "error",
+    "every",
+    "exactly",
+    "expressivity",
+    "extension",
+    "extra",
+    "factor",
+    "failure",
+    "failures",
+    "fixed",
+    "follows",
+    "fraction",
+    "function",
+    "fused",
+    "gains",
+    "gradient",
+    "grows",
+    "heads",
+    "hence",
+    "hyperparameter",
+    "improve",
+    "improvement",
+    "improves",
+    "information",
+    "input",
+    "iteration",
+    "iterations",
+    "kernel",
+    "language",
+    "large",
+    "largest",
+    "layer",
+    "layers",
+    "learned",
+    "learning",
+    "limit",
+    "logits",
+    "long-context",
+    "loses",
+    "machine",
+    "marginal",
+    "marginals",
+    "massive",
+    "matrices",
+    "matrix",
+    "measure",
+    "measured",
+    "model",
+    "modeling",
+    "models",
+    "monotone",
+    "needs",
+    "network",
+    "neural",
+    "neurips",
+    "non-expansive",
+    "non-expansiveness",
+    "normalization",
+    "norms",
+    "nothing",
+    "operator",
+    "optimal",
+    "order",
+    "pairs",
+    "parameters",
+    "perplexity",
+    "plans",
+    "point",
+    "points",
+    "position",
+    "positions",
+    "problem",
+    "product",
+    "qk-norm",
+    "queries",
+    "query",
+    "rather",
+    "readable",
+    "reading",
+    "receives",
+    "recovers",
+    "relative",
+    "removes",
+    "report",
+    "residual",
+    "retrieval",
+    "routes",
+    "routing",
+    "row-stochastic",
+    "ruler",
+    "scale",
+    "scaling",
+    "second",
+    "sentence",
+    "sequence",
+    "single",
+    "sinkhorn",
+    "sinks",
+    "small",
+    "softmax",
+    "solution",
+    "source",
+    "sparse",
+    "spends",
+    "stochastic",
+    "stream",
+    "target",
+    "tasks",
+    "theorem",
+    "theory",
+    "therefore",
+    "three",
+    "token",
+    "tokens",
+    "total",
+    "train",
+    "trained",
+    "training",
+    "transformer",
+    "translation",
+    "transport",
+    "unbalanced",
+    "unconstrained",
+    "uniform",
+    "variant",
+    "whose",
+    "width",
+    "wikitext-103",
+    "worth",
+    "zero-shot"
+  ],
+  "checklist": [
+    "逐段翻译，不得合并或拆分段落编号",
+    "术语表命中的词必须用表中译名，不得同义替换",
+    "数字、单位、文献编号、公式编号原样保留",
+    "无法翻译或原文残缺处标注，不要编造"
+  ],
+  "wall_time_s": 0.297
+}

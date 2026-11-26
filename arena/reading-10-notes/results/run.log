@@ -1,0 +1,2 @@
+[2026-11-26T10:40:13Z] reading-10-notes demo run input=Conservation_Is_All_You_Need.pdf
+{"status": "success", "case_id": "reading-10-notes-demo", "skill": "reading-10-notes", "out": "<workspace>\\arena\\reading-10-notes\\results\\result.json"}

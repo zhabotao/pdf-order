@@ -1,0 +1,9 @@
+{
+  "case_id": "writing-02-polish-demo",
+  "inputs": [
+    {
+      "role": "draft",
+      "path": "draft.md"
+    }
+  ]
+}
